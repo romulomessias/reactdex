@@ -12,6 +12,7 @@ on:
       - '**.tsx'
       - 'package.json'
       - '!webpack.config.js'
+      - '!.eslintrc.js'
   pull_request:
     branches: [ main ]
   workflow_dispatch:

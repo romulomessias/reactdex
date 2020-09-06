@@ -13,6 +13,7 @@ on:
       - '!**.spec.tsx'
       - 'package.json'
       - 'tsconfig.json'
+      - '!.eslintrc.js'
   pull_request:
     branches: [ main ]
 

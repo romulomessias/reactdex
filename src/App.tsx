@@ -10,10 +10,10 @@ const App: React.FC = () => {
 
     return (
         <article
-          className="app__container"
-          ref={elementRef}
-          onMouseMove={onMouseMove}
-          style={{ background }}
+            className="app__container"
+            ref={elementRef}
+            onMouseMove={onMouseMove}
+            style={{ background }}
         >
             <section className="app">
                 <header>Hello World!</header>
