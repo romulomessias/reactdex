@@ -35,3 +35,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: yarn install
     - run: yarn test:unit
+    - name: Archive code coverage results
+      uses: actions/upload-artifact@v2
+      with:
+          name: code-coverage-report
+          path: covarage/**/*

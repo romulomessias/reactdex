@@ -8,7 +8,9 @@
   "scripts": {
     "start": "webpack-dev-server --open",
     "build": "webpack",
-    "test:unit": "jest --updateSnapshot --config ./test/jest.config.js"
+    "test:unit": "jest --updateSnapshot --config ./test/jest.config.js",
+    "test:coverage": "jest --coverage --config ./test/jest.config.js",
+    "deploy": "yarn build && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo"
   },
   "dependencies": {
     "react": "^16.13.1",
