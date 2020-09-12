@@ -1,6 +1,6 @@
 {
   "name": "react-whithout-cra",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "Romulo Messias",
@@ -13,10 +13,12 @@
     "deploy": "yarn build && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo"
   },
   "dependencies": {
+    "clsx": "^1.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.0.2",
     "@types/classnames": "^2.2.10",
     "@types/jest": "^25.2.1",

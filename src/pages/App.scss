@@ -1,0 +1,14 @@
+.app {
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #fff;
+    
+
+    &__container {
+        padding: 1px;
+        border-radius: 8px;
+        
+        box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.15);
+        transition: background 0.2s ease;
+    }
+}

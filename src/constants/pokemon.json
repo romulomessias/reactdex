@@ -1,0 +1,1277 @@
+[
+    {
+        "generation": 1,
+        "number": "001",
+        "defaultName": "Bulbasaur",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "002",
+        "defaultName": "Ivysaur",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "003",
+        "defaultName": "Venusaur",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "004",
+        "defaultName": "Charmander",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "005",
+        "defaultName": "Charmeleon",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "006",
+        "defaultName": "Charizard",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "007",
+        "defaultName": "Squirtle",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "008",
+        "defaultName": "Wartortle",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "009",
+        "defaultName": "Blastoise",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "010",
+        "defaultName": "Caterpie",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "011",
+        "defaultName": "Metapod",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "012",
+        "defaultName": "Butterfree",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "013",
+        "defaultName": "Weedle",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "014",
+        "defaultName": "Kakuna",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "015",
+        "defaultName": "Beedrill",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "016",
+        "defaultName": "Pidgey",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "017",
+        "defaultName": "Pidgeotto",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "018",
+        "defaultName": "Pidgeot",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "019",
+        "defaultName": "Rattata",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "020",
+        "defaultName": "Raticate",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "021",
+        "defaultName": "Spearow",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "022",
+        "defaultName": "Fearow",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "023",
+        "defaultName": "Ekans",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "024",
+        "defaultName": "Arbok",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "025",
+        "defaultName": "Pikachu",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "026",
+        "defaultName": "Raichu",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "027",
+        "defaultName": "Sandshrew",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "028",
+        "defaultName": "Sandslash",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "029",
+        "defaultName": "Nidoran♀",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "030",
+        "defaultName": "Nidorina",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "031",
+        "defaultName": "Nidoqueen",
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "032",
+        "defaultName": "Nidoran♂",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "033",
+        "defaultName": "Nidorino",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "034",
+        "defaultName": "Nidoking",
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "035",
+        "defaultName": "Clefairy",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "036",
+        "defaultName": "Clefable",
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "037",
+        "defaultName": "Vulpix",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "038",
+        "defaultName": "Ninetales",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "039",
+        "defaultName": "Jigglypuff",
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "040",
+        "defaultName": "Wigglytuff",
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "041",
+        "defaultName": "Zubat",
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "042",
+        "defaultName": "Golbat",
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "043",
+        "defaultName": "Oddish",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "044",
+        "defaultName": "Gloom",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "045",
+        "defaultName": "Vileplume",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "046",
+        "defaultName": "Paras",
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "047",
+        "defaultName": "Parasect",
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "048",
+        "defaultName": "Venonat",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "049",
+        "defaultName": "Venomoth",
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "050",
+        "defaultName": "Diglett",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "051",
+        "defaultName": "Dugtrio",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "052",
+        "defaultName": "Meowth",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "053",
+        "defaultName": "Persian",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "054",
+        "defaultName": "Psyduck",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "055",
+        "defaultName": "Golduck",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "056",
+        "defaultName": "Mankey",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "057",
+        "defaultName": "Primeape",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "058",
+        "defaultName": "Growlithe",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "059",
+        "defaultName": "Arcanine",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "060",
+        "defaultName": "Poliwag",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "061",
+        "defaultName": "Poliwhirl",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "062",
+        "defaultName": "Poliwrath",
+        "types": [
+            "water",
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "063",
+        "defaultName": "Abra",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "064",
+        "defaultName": "Kadabra",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "065",
+        "defaultName": "Alakazam",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "066",
+        "defaultName": "Machop",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "067",
+        "defaultName": "Machoke",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "068",
+        "defaultName": "Machamp",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "069",
+        "defaultName": "Bellsprout",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "070",
+        "defaultName": "Weepinbell",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "071",
+        "defaultName": "Victreebel",
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "072",
+        "defaultName": "Tentacool",
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "073",
+        "defaultName": "Tentacruel",
+        "types": [
+            "water",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "074",
+        "defaultName": "Geodude",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "075",
+        "defaultName": "Graveler",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "076",
+        "defaultName": "Golem",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "077",
+        "defaultName": "Ponyta",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "078",
+        "defaultName": "Rapidash",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "079",
+        "defaultName": "Slowpoke",
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "080",
+        "defaultName": "Slowbro",
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "081",
+        "defaultName": "Magnemite",
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "082",
+        "defaultName": "Magneton",
+        "types": [
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "083",
+        "defaultName": "Farfetch'd",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "084",
+        "defaultName": "Doduo",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "085",
+        "defaultName": "Dodrio",
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "086",
+        "defaultName": "Seel",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "087",
+        "defaultName": "Dewgong",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "088",
+        "defaultName": "Grimer",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "089",
+        "defaultName": "Muk",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "090",
+        "defaultName": "Shellder",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "091",
+        "defaultName": "Cloyster",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "092",
+        "defaultName": "Gastly",
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "093",
+        "defaultName": "Haunter",
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "094",
+        "defaultName": "Gengar",
+        "types": [
+            "ghost",
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "095",
+        "defaultName": "Onix",
+        "types": [
+            "rock",
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "096",
+        "defaultName": "Drowzee",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "097",
+        "defaultName": "Hypno",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "098",
+        "defaultName": "Krabby",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "099",
+        "defaultName": "Kingler",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "100",
+        "defaultName": "Voltorb",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "101",
+        "defaultName": "Electrode",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "102",
+        "defaultName": "Exeggcute",
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "103",
+        "defaultName": "Exeggutor",
+        "types": [
+            "grass",
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "104",
+        "defaultName": "Cubone",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "105",
+        "defaultName": "Marowak",
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "106",
+        "defaultName": "Hitmonlee",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "107",
+        "defaultName": "Hitmonchan",
+        "types": [
+            "fighting"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "108",
+        "defaultName": "Lickitung",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "109",
+        "defaultName": "Koffing",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "110",
+        "defaultName": "Weezing",
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "111",
+        "defaultName": "Rhyhorn",
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "112",
+        "defaultName": "Rhydon",
+        "types": [
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "113",
+        "defaultName": "Chansey",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "114",
+        "defaultName": "Tangela",
+        "types": [
+            "grass"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "115",
+        "defaultName": "Kangaskhan",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "116",
+        "defaultName": "Horsea",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "117",
+        "defaultName": "Seadra",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "118",
+        "defaultName": "Goldeen",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "119",
+        "defaultName": "Seaking",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "120",
+        "defaultName": "Staryu",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "121",
+        "defaultName": "Starmie",
+        "types": [
+            "water",
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "122",
+        "defaultName": "Mr. Mime",
+        "types": [
+            "psychic",
+            "fairy"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "123",
+        "defaultName": "Scyther",
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "124",
+        "defaultName": "Jynx",
+        "types": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "125",
+        "defaultName": "Electabuzz",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "126",
+        "defaultName": "Magmar",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "127",
+        "defaultName": "Pinsir",
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "128",
+        "defaultName": "Tauros",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "129",
+        "defaultName": "Magikarp",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "130",
+        "defaultName": "Gyarados",
+        "types": [
+            "water",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "131",
+        "defaultName": "Lapras",
+        "types": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "132",
+        "defaultName": "Ditto",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "133",
+        "defaultName": "Eevee",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "134",
+        "defaultName": "Vaporeon",
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "135",
+        "defaultName": "Jolteon",
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "136",
+        "defaultName": "Flareon",
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "137",
+        "defaultName": "Porygon",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "138",
+        "defaultName": "Omanyte",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "139",
+        "defaultName": "Omastar",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "140",
+        "defaultName": "Kabuto",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "141",
+        "defaultName": "Kabutops",
+        "types": [
+            "rock",
+            "water"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "142",
+        "defaultName": "Aerodactyl",
+        "types": [
+            "rock",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "143",
+        "defaultName": "Snorlax",
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "144",
+        "defaultName": "Articuno",
+        "types": [
+            "ice",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "145",
+        "defaultName": "Zapdos",
+        "types": [
+            "electric",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "146",
+        "defaultName": "Moltres",
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "147",
+        "defaultName": "Dratini",
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "148",
+        "defaultName": "Dragonair",
+        "types": [
+            "dragon"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "149",
+        "defaultName": "Dragonite",
+        "types": [
+            "dragon",
+            "flying"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "150",
+        "defaultName": "Mewtwo",
+        "types": [
+            "psychic"
+        ]
+    },
+    {
+        "generation": 1,
+        "number": "151",
+        "defaultName": "Mew",
+        "types": [
+            "psychic"
+        ]
+    }
+]

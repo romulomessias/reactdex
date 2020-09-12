@@ -41,7 +41,9 @@ module.exports = {
         ],
         "import/no-extraneous-dependencies": ["error", { 
             "devDependencies": ["**/*.spec.tsx", "**/*.spec.ts", "**/*.config.js"] 
-        }]
+        }],
+        "react/prop-types": [0],
+        "no-unused-vars": ["off"]
     },
     settings: {
         "import/resolver": {
