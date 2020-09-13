@@ -1,0 +1,53 @@
+@import 'breakpoints.scss';
+
+.pokemon-details-sidebar {
+    $border-color: rgb(235, 235, 235);
+
+    border: solid 1px $border-color;
+    border-radius: 4px;
+    // margin: 4px;
+
+    width: 360px;
+    max-height: 80vh;
+    background-color: #fff;
+
+    position: sticky;
+    top: 8px;
+
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-rows: max-content auto max-content;
+
+    @include down($md) {
+        display: none;
+    }
+
+    &__header {
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-columns: max-content auto;
+        gap: 8px;
+        align-items: center;
+
+        padding: 8px;
+
+        margin: {
+            bottom: 8px;
+        }
+
+        border: {
+            bottom: 1px solid $border-color;
+        }
+    }
+
+    &__content {
+        overflow-x: hidden;
+        word-wrap: break-word;
+        padding: 8px;
+    }
+
+    &__footer {
+        background-color: $border-color;
+        padding: 8px;
+    }
+}

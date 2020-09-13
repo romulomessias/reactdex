@@ -13,7 +13,13 @@ const mockPokemon: Pokemon = {
 
 describe('<PokemonListItem />', () => {
     test('renders PokemonListItem component successfully', () => {
-        render(<PokemonListItem pokemon={mockPokemon} />)
+        render(
+            <PokemonListItem
+                pokemon={mockPokemon}
+                hasSelection={false}
+                isSelected={false}
+            />
+        )
         expect(screen.getByText(mockPokemon.defaultName)).toHaveTextContent(
             'Bulbassauro'
         )
