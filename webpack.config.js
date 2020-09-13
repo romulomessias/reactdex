@@ -1,20 +1,22 @@
-const path = require('path');
-const compression = require('compression');
-const dotenv = require('dotenv');
+const path = require('path')
+const compression = require('compression')
+const dotenv = require('dotenv')
 
-const HtmlWebpackPlugin = require('html-webpack-plugin');
-const WorkboxWebpackPlugin = require('workbox-webpack-plugin');
-const WebpackPwaManifest = require('webpack-pwa-manifest');
-const TerserPlugin = require('terser-webpack-plugin');
-const CompressionPlugin = require('compression-webpack-plugin');
-const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
-const WorkerPlugin = require('worker-plugin');
-const Dotenv = require('dotenv-webpack');
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const WorkboxWebpackPlugin = require('workbox-webpack-plugin')
+const WebpackPwaManifest = require('webpack-pwa-manifest')
+const TerserPlugin = require('terser-webpack-plugin')
+const CompressionPlugin = require('compression-webpack-plugin')
+const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer')
+const WorkerPlugin = require('worker-plugin')
+const Dotenv = require('dotenv-webpack')
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
-const sourcePath = path.join(__dirname, './src');
-const outputhPath = path.resolve(__dirname, './dist');
+const sourcePath = path.join(__dirname, './src')
+const outputhPath = path.resolve(__dirname, './dist')
 
-dotenv.config();
+console.log(`${sourcePath}/styles`)
+dotenv.config()
 
 const webpackConfig = {
     context: sourcePath,
@@ -41,9 +43,21 @@ const webpackConfig = {
             {
                 test: /\.s[ac]ss$/i,
                 use: [
-                    'style-loader',
+                    MiniCssExtractPlugin.loader,
                     'css-loader',
-                    'sass-loader',
+                    {
+                        // Loads a SASS/SCSS file and include the partial files before compilation
+                        loader: 'sass-loader',
+                        options: {
+                            sassOptions: {
+                                data:
+                                    '@import "breakpoints.scss"; \n' +
+                                    '@import "shadows.scss";',
+                                includePaths: [`${sourcePath}/styles`],
+                            },
+                            sourceMap: true,
+                        },
+                    },
                 ],
             },
         ],
@@ -72,6 +86,12 @@ const webpackConfig = {
             template: 'assets/index.html',
             favicon: 'assets/icon.ico',
             inlineSource: 'runtime~.+\\.js',
+        }),
+        new MiniCssExtractPlugin({
+            // Options similar to the same options in webpackOptions.output
+            // both options are optional
+            filename: '[name].[chunkhash].css',
+            chunkFilename: '[id].css',
         }),
         // new InlineSourcePlugin(),
         new WorkboxWebpackPlugin.GenerateSW({
@@ -120,7 +140,7 @@ const webpackConfig = {
             path: path.join(__dirname, './.env'),
             systemvars: true,
         }),
-        new WorkerPlugin(),
+        // new WorkerPlugin(),
     ],
     node: {
         module: 'empty',
@@ -136,9 +156,9 @@ const webpackConfig = {
         compress: true,
         port: process.env.PORT,
         before(app) {
-            app.use(compression({}));
+            app.use(compression({}))
         },
     },
-};
+}
 
-module.exports = webpackConfig;
+module.exports = webpackConfig

@@ -4,11 +4,7 @@ module.exports = {
         es6: true,
         jest: true,
     },
-    extends: [
-        'airbnb',
-        "prettier",
-        "prettier/react",
-    ],
+    extends: ['airbnb', 'prettier', 'prettier/react'],
     globals: {
         Atomics: 'readonly',
         SharedArrayBuffer: 'readonly',
@@ -21,35 +17,43 @@ module.exports = {
         ecmaVersion: 2018,
         sourceType: 'module',
     },
-    plugins: [
-        'react',
-        '@typescript-eslint',
-    ],
+    plugins: ['react', '@typescript-eslint'],
     rules: {
-        "indent": ["error", 4, { "ignoredNodes": ["JSXElement"] }],
-        "react/jsx-indent": ["error", 4],
-        "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
-        "import/extensions": [
-            "error",
-            "ignorePackages",
-            {
-                "js": "never",
-                "jsx": "never",
-                "ts": "never",
-                "tsx": "never"
-            }
+        indent: ['error', 4, { ignoredNodes: ['JSXElement'] }],
+        'react/jsx-indent': ['error', 4],
+        'react/jsx-filename-extension': [
+            'error',
+            { extensions: ['.js', '.jsx', '.ts', '.tsx'] },
         ],
-        "import/no-extraneous-dependencies": ["error", { 
-            "devDependencies": ["**/*.spec.tsx", "**/*.spec.ts", "**/*.config.js"] 
-        }],
-        "react/prop-types": [0],
-        "no-unused-vars": ["off"]
+        'import/extensions': [
+            'error',
+            'ignorePackages',
+            {
+                js: 'never',
+                jsx: 'never',
+                ts: 'never',
+                tsx: 'never',
+            },
+        ],
+        'import/no-extraneous-dependencies': [
+            'error',
+            {
+                devDependencies: [
+                    '**/*.spec.tsx',
+                    '**/*.spec.ts',
+                    '**/*.config.js',
+                ],
+            },
+        ],
+        'react/prop-types': [0],
+        'no-unused-vars': ['off'],
+        'react/jsx-props-no-spreading': [{ html: 'ignore' }],
     },
     settings: {
-        "import/resolver": {
-            "node": {
-                "extensions": [".js", ".jsx", ".ts", ".tsx"]
-            }
-        }
+        'import/resolver': {
+            node: {
+                extensions: ['.js', '.jsx', '.ts', '.tsx'],
+            },
+        },
     },
-};
+}
