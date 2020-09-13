@@ -1,0 +1,22 @@
+@mixin boxShadow ($level) {
+
+    @if ($level==0) {
+        box-shadow: none;
+    }
+
+    @if ($level==1) {
+        box-shadow: 0 2px 4px 0 rgba(72, 72, 74, 0.25);
+    }
+
+    @if ($level==2) {
+        box-shadow: 0 8px 24px 0 rgba(71, 72, 74, 0.16);
+    }
+
+    @if ($level==3) {
+        box-shadow: 0 24px 56px 0 rgba(71, 72, 74, 0.16);
+    }
+
+    @if ($level==4) {
+        box-shadow: 0 56px 80px 0 rgba(71, 72, 74, 0.16);
+    }
+}

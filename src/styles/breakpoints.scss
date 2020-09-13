@@ -1,0 +1,23 @@
+$xs: 320px;
+$sm: 600px;
+$md: 960px;
+$lg: 1280px;
+$xl: 1920px;
+
+@mixin up ($size) {
+    @media only screen and (min-width: $size) {
+        @content;
+    }
+}
+
+@mixin down ($size) {
+    @media only screen and (max-width: $size) {
+        @content;
+    }
+}
+
+@mixin between ($min, $max) {
+    @media only screen and (min-width: $min) and (max-width: $max) {
+        @content;
+    }
+}

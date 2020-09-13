@@ -1,4 +1,5 @@
 @import 'types.scss';
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;500&display=swap');
 
 body {
@@ -15,7 +16,7 @@ main {
     width: 100%;
     height: 100%;
     display: flex;
-    overflow: auto;
+    // overflow: auto;
 }
 
 * {
