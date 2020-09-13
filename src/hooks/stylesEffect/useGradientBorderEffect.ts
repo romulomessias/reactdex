@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { toDegree } from '../../utils/Math';
 
-const useGradientBorderEffect = (primaryColor: string, secondaryColor: string) => {
+const useGradientBorderEffect = <T extends HTMLElement>(primaryColor: string, secondaryColor: string) => {
     const [angle, setAngle] = useState(90);
-    const elementRef = React.createRef<HTMLElement>();
+    const elementRef = React.createRef<T>();
 
     const onMouseMove: React.MouseEventHandler<HTMLElement> = (event) => {
         if (!elementRef.current) { return; }
