@@ -4,15 +4,35 @@ import React from 'react'
 
 import './BaseButton.scss'
 
-type Props = React.HTMLProps<HTMLButtonElement>
+interface BaseButtonProps {
+    rounded?: boolean
+    buttonSize?: 'normal' | 'small'
+}
 
-const BaseButton: React.FC<Props> = ({ className, children, ...props }) => {
-    const rootClass = clsx('base-button', className)
+type Props = React.HTMLProps<HTMLButtonElement> & BaseButtonProps
+
+const BaseButton: React.FC<Props> = ({
+    className,
+    children,
+    type,
+    rounded,
+    buttonSize,
+    ...props
+}) => {
+    const rootClass = clsx('base-button', className, buttonSize, {
+        rounded: rounded,
+    })
+
     return (
-        <button {...props} className={rootClass} type="button">
+        <button {...props} type="button" className={rootClass}>
             {children}
         </button>
     )
+}
+
+BaseButton.defaultProps = {
+    rounded: false,
+    buttonSize: 'normal',
 }
 
 export default BaseButton

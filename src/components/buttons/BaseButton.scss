@@ -1,14 +1,26 @@
 .base-button {
-    padding: 8px;
+    cursor: pointer;
     background-color: transparent;
     border: none;
-
     border-radius: 4px;
 
-    min-height: 24px;
-    min-width: 24px;
-
     &:hover {
-        background-color: rgb(235, 235, 235)
+        background-color: rgb(235, 235, 235);
+    }
+
+    &.normal {
+        height: 36px;
+        min-width: 36px;
+        padding: 8px;
+    }
+
+    &.small {
+        height: 24px;
+        min-width: 24px;
+        padding: 4px;
+    }
+
+    &.rounded {
+        border-radius: 50%;
     }
 }
