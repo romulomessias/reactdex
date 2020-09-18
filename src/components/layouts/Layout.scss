@@ -1,14 +1,49 @@
+@import 'shadows.scss';
+@import 'breakpoints.scss';
+
 .layout {
     width: 100%;
     position: relative;
     background: #f0f2f5;
     overflow-x: auto;
-    
-    &__content {
+
+    &__container {
         max-width: 1280px;
-        margin: 0 auto;
-        padding: 20px;
-        
-        min-height: min-content;        
+        height: max-content;
+        min-height: 100%;
+        margin: 20px auto;
+        padding: 0 20px;
+        padding-top: 20px;
+        // margin: 20px 0;
+
+        background-color: white;
+        display: grid;
+        grid-template-columns: auto minmax(0, 384px);
+        grid-template-areas: 'content sidebar';
+        grid-gap: 16px;
+
+        // background-color: greenyellow;
+        position: relative;
+    }
+
+    &__content {
+        grid-area: content;
+        // background-color: red;
+    }
+
+    &__sidebar {
+        grid-area: sidebar;
+        // color: white;
+        position: sticky;
+        top: 8px;
+        max-height: calc(100vh - 56px - 12px);
+    }
+
+    &__header {
+        grid-area: header;
+        background-color: white;
+        @include boxShadow(1);
+        height: 56px;
+        margin: 0;
     }
 }
