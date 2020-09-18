@@ -10,11 +10,9 @@ import './App.scss'
 import pokemon from '../infra/constants/pokemon.json'
 
 const App: React.FC = () => {
-    // const isOnline = useIsOnline()
     const [selectedPokemon, setSelectedPokemon] = useState<Pokemon | undefined>(
         undefined
     )
-    // const { onMouseMove, elementRef, background } = useGradientBorderEffect('#3acfd5', '#3a4ed5');
 
     const handlePokemonClickFactory = (pkm: Pokemon) => () => {
         setSelectedPokemon(pkm)
@@ -23,23 +21,29 @@ const App: React.FC = () => {
     const clearSelectedPokemon = () => {
         setSelectedPokemon(undefined)
     }
+
     return (
         <Layout className="app__content">
-            <PokemonList>
-                {pokemon.map((p: Pokemon) => (
-                    <PokemonListItem
-                        key={p.number}
-                        pokemon={p}
-                        hasSelection={selectedPokemon !== undefined}
-                        isSelected={p.number === selectedPokemon?.number}
-                        onClick={handlePokemonClickFactory(p)}
-                    />
-                ))}
-            </PokemonList>
-            <PokemonSidebarDetails
-                pokemon={selectedPokemon}
-                onClose={clearSelectedPokemon}
-            />
+            <Layout.Header/>
+            <Layout.Content>
+                <PokemonList>
+                    {pokemon.slice(0, 150).map((p: Pokemon) => (
+                        <PokemonListItem
+                            key={p.number}
+                            pokemon={p}
+                            hasSelection={selectedPokemon !== undefined}
+                            isSelected={p.number === selectedPokemon?.number}
+                            onClick={handlePokemonClickFactory(p)}
+                        />
+                    ))}
+                </PokemonList>
+            </Layout.Content>
+            <Layout.Sidebar position="left">
+                <PokemonSidebarDetails
+                    pokemon={selectedPokemon}
+                    onClose={clearSelectedPokemon}
+                />
+            </Layout.Sidebar>
         </Layout>
     )
 }

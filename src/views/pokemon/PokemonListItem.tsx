@@ -52,9 +52,7 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
     const imgClass = clsx('pokemon-list-item__img')
 
     const handleOnClick = () => {
-        if (onClick) {
-            onClick()
-        }
+            onClick?.()
     }
 
     return (
@@ -74,6 +72,7 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
             >
                 <img
                     className={imgClass}
+                    loading="lazy"
                     alt={`sprite of ${pokemon.defaultName}`}
                     src={url.replace(':number', `${Number(pokemon.number)}`)}
                 />
@@ -81,12 +80,12 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
                     className="pokemon-list-item__content"
                     pokemon-list-item__name
                 >
-                    <p className="pokemon-list-item__name">
-                        {pokemon.defaultName}
-                    </p>
                     <span className="pokemon-list-item__number">
                         #{pokemon.number}
                     </span>
+                    <p className="pokemon-list-item__name">
+                        {pokemon.defaultName}
+                    </p>
                     <section className="pokemon-list-item__types">
                         <Type type={primary} />
                         {secondary && <Type type={secondary} />}

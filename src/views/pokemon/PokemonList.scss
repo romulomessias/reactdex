@@ -3,15 +3,17 @@
 .pokemon-list {
     list-style: none;
     margin: 0;
-    padding: 4px;
+    padding: 8px;
     border-radius: 4px;
-    display: flex;
-    flex-wrap: wrap;
     align-content: flex-start;
-    max-width: 920px;
     background-color: #fff;
-
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 8px;
+    grid-auto-rows: max-content;
 
     @include down ($md) {
         max-width: 100%;

@@ -7,9 +7,7 @@
 
     margin: 0;
     padding: 8px;
-
     display: flex;
-    // border: solid 1px $border-color;
     border-radius: 4px;
     background-color: transparent;
     transition: opacity 0.25s ease;
@@ -30,8 +28,8 @@
 
     &__container {
         border-radius: 4px;
-        margin: 4px;
-        width: 280px;
+        // margin: 4px;
+        // width: 280px;
         display: flex;
         padding: 1px;
 
