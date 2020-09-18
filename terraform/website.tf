@@ -29,11 +29,19 @@ resource "aws_s3_bucket" "bucket" {
   tags = {
     Environment = local.environment
   }
+  cors_rule {
+    allowed_headers = ["Authorization", "Content-Length"]
+    allowed_methods = ["GET"]
+    allowed_origins = ["*"]
+    max_age_seconds = 3000
+  }
 
   website {
     index_document = "index.html"
     error_document = "index.html"
   }
+
+
 }
 
 resource "aws_acm_certificate" "certificate" {
@@ -101,10 +109,11 @@ resource "aws_cloudfront_distribution" "distribution" {
       }
     }
 
-    viewer_protocol_policy = "allow-all"
+    viewer_protocol_policy = "redirect-to-https"
     min_ttl                = 0
     default_ttl            = 3600
     max_ttl                = 86400
+    compress               = true
   }
 
   viewer_certificate {
