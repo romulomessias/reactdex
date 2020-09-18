@@ -7,10 +7,10 @@
   "license": "ISC",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack",
+    "build": "webpack ",
     "test:unit": "jest --updateSnapshot --config ./test/jest.config.js",
     "test:coverage": "jest --coverage --config ./test/jest.config.js",
-    "deploy": "yarn build && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo"
+    "deploy": "yarn build:prod && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo"
   },
   "dependencies": {
     "clsx": "^1.1.1",
