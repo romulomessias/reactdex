@@ -24,7 +24,7 @@ const App: React.FC = () => {
 
     return (
         <Layout className="app__content">
-            <Layout.Header/>
+            <Layout.Header />
             <Layout.Content>
                 <PokemonList>
                     {pokemon.slice(0, 150).map((p: Pokemon) => (
@@ -39,10 +39,12 @@ const App: React.FC = () => {
                 </PokemonList>
             </Layout.Content>
             <Layout.Sidebar position="left">
-                <PokemonSidebarDetails
-                    pokemon={selectedPokemon}
-                    onClose={clearSelectedPokemon}
-                />
+                {selectedPokemon && (
+                    <PokemonSidebarDetails
+                        pokemon={selectedPokemon}
+                        onClose={clearSelectedPokemon}
+                    />
+                )}
             </Layout.Sidebar>
         </Layout>
     )

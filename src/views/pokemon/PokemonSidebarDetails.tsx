@@ -9,6 +9,9 @@ interface PokemonSidebarDetailsProps {
     onClose?: Function
 }
 
+const url =
+    'https://assets.pokemon.com/assets/cms2/img/pokedex/full/:number.png'
+
 type Props = PokemonSidebarDetailsProps & React.HTMLProps<HTMLElement>
 
 const PokemonSidebarDetails: React.FC<Props> = ({
@@ -24,11 +27,18 @@ const PokemonSidebarDetails: React.FC<Props> = ({
     return (
         <aside className="pokemon-details-sidebar" style={style}>
             <header className="pokemon-details-sidebar__header">
-                <BaseButton onClick={handleCloseButton}>X</BaseButton>
+                <BaseButton buttonSize="small" onClick={handleCloseButton}>
+                    X
+                </BaseButton>
                 {pokemon?.defaultName}
             </header>
             <article className="pokemon-details-sidebar__content">
-                {JSON.stringify(pokemon)}
+                <img
+                    className="pokemon-details-sidebar__img"
+                    loading="lazy"
+                    alt={`sprite of ${pokemon?.defaultName}`}
+                    src={url.replace(':number', `${pokemon?.number}`)}
+                />
             </article>
             <footer className="pokemon-details-sidebar__footer">
                 <BaseButton>Mais detalhes</BaseButton>
