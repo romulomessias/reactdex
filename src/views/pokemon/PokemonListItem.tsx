@@ -51,9 +51,6 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
 
     const imgClass = clsx('pokemon-list-item__img')
 
-    const handleOnClick = () => {
-            onClick?.()
-    }
 
     return (
         <li
