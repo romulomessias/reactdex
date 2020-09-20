@@ -13,18 +13,9 @@
     transition: opacity 0.25s ease;
     transition: box-shadow 0.25s ease;
     cursor: pointer;
-
+    width: 100%;
     background-color: #fff;
     border: none;
-
-    @include down($sm) {
-        &__container {
-            width: 100%;
-
-        }
-    }
-
-    flex-grow: 1;
 
     &__container {
         border-radius: 4px;
@@ -34,16 +25,15 @@
         padding: 1px;
 
         &.selected {
-            @include boxShadow(1)
+            @include boxShadow(1);
         }
 
         &.disabled {
-            opacity: 0.6;
+            opacity: 0.8;
 
             &:hover {
                 opacity: 1;
             }
-
         }
     }
 

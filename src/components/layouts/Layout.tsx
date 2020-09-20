@@ -8,7 +8,7 @@ interface LayoutProps {
 }
 
 interface LayoutChildrenProps {
-    slot?: 'header' | 'content' | 'sidebar' | 'footer'
+    slot?: 'header' | 'content' | 'sidebar' | 'footer' | 'navbar'
     className?: string
 }
 
@@ -16,15 +16,17 @@ interface LayoutChildren {
     content?: React.ReactNode
     header?: React.ReactNode
     sidebar?: React.ReactNode
+    navbar?: React.ReactNode
 }
 
 interface LayoutSidebarProps extends LayoutChildrenProps {
-    position: 'left' | 'right'
+    // position: 'left' | 'right'
 }
 
 interface Layout extends React.FC<LayoutProps> {
     Content: React.FC<LayoutChildrenProps>
     Sidebar: React.FC<LayoutSidebarProps>
+    Navbar: React.FC<LayoutSidebarProps>
     Header: React.FC<LayoutChildrenProps>
 }
 
@@ -50,7 +52,7 @@ const mapChildren = (children: React.ReactNode) => (): LayoutChildren => {
 
 const Layout: Layout = ({ className, children }) => {
     const rootClass = clsx('layout', className)
-    const { content, header, sidebar } = React.useMemo(mapChildren(children), [
+    const { content, header, navbar } = React.useMemo(mapChildren(children), [
         children,
     ])
 
@@ -58,8 +60,8 @@ const Layout: Layout = ({ className, children }) => {
         <main className={rootClass}>
             {header}
             <article className="layout__container">
+                {navbar}
                 {content}
-                {sidebar}
             </article>
         </main>
     )
@@ -78,8 +80,23 @@ Layout.Content.defaultProps = {
     slot: 'content',
 }
 
-Layout.Sidebar = ({ children, className, position }) => {
-    const rootClass = clsx('layout__sidebar', className, position)
+Layout.Navbar = ({ children, className, }) => {
+    const rootClass = clsx('layout__navbar', className)
+    return (
+        <aside key="sidebar" className={rootClass}>
+            {children}
+        </aside>
+    )
+}
+
+Layout.Navbar.defaultProps = {
+    slot: 'navbar',
+}
+
+
+
+Layout.Sidebar = ({ children, className }) => {
+    const rootClass = clsx('layout__sidebar', className)
     return (
         <aside key="sidebar" className={rootClass}>
             {children}
