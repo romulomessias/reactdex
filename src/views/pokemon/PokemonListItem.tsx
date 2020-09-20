@@ -64,10 +64,10 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
                 background: isOnHover ? background : 'none',
             }}
         >
-            <button
+            <section
                 ref={ref}
-                type="button"
-                onClick={handleOnClick}
+                // type="button"
+                // onClick={handleOnClick}
                 className={rootClass}
             >
                 <img
@@ -91,7 +91,7 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
                         {secondary && <Type type={secondary} />}
                     </section>
                 </section>
-            </button>
+            </section>
         </li>
     )
 }

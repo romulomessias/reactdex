@@ -3,23 +3,20 @@
 .pokemon-list {
     list-style: none;
     margin: 0;
-    padding: 8px;
-    border-radius: 4px;
+    margin-right: auto;
+    padding: 12px;
+    border-radius: 0px;
     align-content: flex-start;
-    background-color: #fff;
-    // box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 
-    display: flex;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(auto-fill, 252px);
+    display: grid;
+    grid-gap: 1px;
+    grid-auto-rows: max-content;
 
-    max-width: 784px;
-    min-width: min-content;
+    max-width: 1240px;
     min-height: 100%;
 
-    .pokemon-list-item__container {
-        width: 256px;
-    }
-
+   
     @include down($md) {
         max-width: 100%;
     }
@@ -27,8 +24,8 @@
     @include down($sm) {
         .pokemon-list-item__container {
             width: 100%;
-            flex-wrap: nowrap;
-            flex-direction: column;
+            // flex-wrap: nowrap;
+            // flex-direction: column;
         }
     }
 }

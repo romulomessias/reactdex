@@ -8,7 +8,7 @@
     margin: 0;
     padding: 8px;
     display: flex;
-    border-radius: 4px;
+    border-radius: 0px;
     background-color: transparent;
     transition: opacity 0.25s ease;
     transition: box-shadow 0.25s ease;
@@ -18,7 +18,7 @@
     border: none;
 
     &__container {
-        border-radius: 4px;
+        border-radius: 0px;
         // margin: 4px;
         // width: 280px;
         display: flex;
@@ -35,11 +35,11 @@
                 opacity: 1;
             }
         }
-    }
 
-    &:hover {
-        #{$parent}__img {
+        &:hover {
+            // #{$parent}__img {
             @include boxShadow(1);
+            // }
         }
     }
 
@@ -47,7 +47,7 @@
         height: 72px;
         width: 72px;
         margin: 0;
-        border-radius: 4px;
+        // border-radius: 4px;
         border: solid 1px #fff;
         transition: border-color 0.25s ease;
         margin-right: 16px;
@@ -86,7 +86,7 @@
         padding: 0px 4px;
         height: min-content;
         display: inline-block;
-        border-radius: 4px;
+        border-radius: 2px;
         width: 64px;
     }
 }
