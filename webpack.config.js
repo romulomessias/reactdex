@@ -20,7 +20,7 @@ dotenv.config()
 const webpackConfig = (env) => {
     return {
         context: sourcePath,
-        mode:process.env.NODE_ENV,
+        mode: process.env.NODE_ENV,
         devtool: 'source-map',
         entry: {
             main: './index.tsx',
@@ -91,7 +91,7 @@ const webpackConfig = (env) => {
                 // Options similar to the same options in webpackOptions.output
                 // both options are optional
                 filename: '[name].[chunkhash].css',
-                chunkFilename: '[id].css',
+                chunkFilename: '[name].[chunkhash].css',
             }),
             // new InlineSourcePlugin(),
             new WorkboxWebpackPlugin.GenerateSW({

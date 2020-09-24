@@ -9,6 +9,8 @@ import PokemonSidebarDetails from '../views/pokemon/PokemonSidebarDetails'
 
 // import pokemon from '../infra/constants/pokemon.json'
 import { getPokemon } from '../services/pokemon'
+import MenuList from '../components/menus/MenuList'
+import MenuItem from '../components/menus/MenuItem'
 
 const App: React.FC = () => {
     const [isLoadind, setIsloading] = useState(false)
@@ -42,9 +44,11 @@ const App: React.FC = () => {
 
     return (
         <Layout className="app__content">
-            <Layout.Header />
+            {/* <Layout.Header /> */}
             <Layout.Content>
-                {isLoadind && 'Carregando Pokemon'}
+                <section className="toolbar">
+                    {isLoadind && 'Carregando Pokemon'}
+                </section>
                 <PokemonList>
                     {pokemon
                         .filter((it) => it.generation == 1)
@@ -62,7 +66,11 @@ const App: React.FC = () => {
                         ))}
                 </PokemonList>
             </Layout.Content>
-            <Layout.Navbar></Layout.Navbar>
+            <Layout.Navbar>
+                <MenuList>
+                    <MenuItem isActive>Pokemon</MenuItem>
+                </MenuList>
+            </Layout.Navbar>
         </Layout>
     )
 }

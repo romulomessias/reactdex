@@ -10,7 +10,7 @@ $toolbar-height: 56px;
 
     &__container {
         max-width: 100%;
-        height: calc(100% - 56px);
+        height: 100%;
 
         display: grid;
         grid-template-columns: 240px auto;
@@ -32,8 +32,9 @@ $toolbar-height: 56px;
 
     &__navbar {
         width: 240px;
-        padding: 8px;
-        background-color: #fff;
+        // padding: 8px;
+        padding-top: 8px;
+        background-color: #ffffff4d;
         position: sticky;
     }
 

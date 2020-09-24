@@ -10,7 +10,8 @@
     "build": "webpack ",
     "test:unit": "jest --updateSnapshot --config ./test/jest.config.js",
     "test:coverage": "jest --coverage --config ./test/jest.config.js",
-    "deploy": "yarn build && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo"
+    "clear-bucket": "aws s3 rm s3://reactdex.romulomessias.dev/ --recursive",
+    "deploy": "yarn clear-bucket && yarn build && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo --exclude '*.map'"
   },
   "dependencies": {
     "axios": "^0.20.0",
