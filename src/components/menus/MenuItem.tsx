@@ -21,7 +21,7 @@ const MenuItem: React.FC<MenuItemProps> = ({
     })
     return (
         <li className={rootClass}>
-            <Typography as="span" variant="button" weight="light">
+            <Typography as="span" variant="button">
                 {children}
             </Typography>
         </li>
