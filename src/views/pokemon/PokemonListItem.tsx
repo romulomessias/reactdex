@@ -6,6 +6,7 @@ import Pokemon from '../../infra/models/Pokemon'
 import './PokemonListItem.scss'
 import typesColors from '../../infra/constants/typesColors.json'
 import useGradientBorderEffect from '../../hooks/stylesEffect/useGradientBorderEffect'
+import Typography from '../../components/typographies/Typography'
 
 interface PokemonListItemProps {
     pokemon: Pokemon
@@ -17,11 +18,17 @@ interface PokemonListItemProps {
 const url =
     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/:number.png'
 
-const Type: React.FC<{
+interface TypeProps {
     type: string
-}> = ({ type }) => {
+}
+
+const Type: React.FC<TypeProps> = ({ type }) => {
     const rootClass = clsx('pokemon-list-item__type', type, 'background')
-    return <span className={rootClass}>{type}</span>
+    return (
+        <Typography as="span" variant="overline" className={rootClass}>
+            {type}
+        </Typography>
+    )
 }
 
 const PokemonListItem: React.FC<PokemonListItemProps> = ({
@@ -51,38 +58,32 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
 
     const imgClass = clsx('pokemon-list-item__img')
 
-
     return (
         <li
             ref={elementRef}
             className={containerClass}
-            // onMouseMove={onMouseMove}
             style={{
                 background: isOnHover ? background : 'none',
             }}
         >
-            <section
-                ref={ref}
-                // type="button"
-                // onClick={handleOnClick}
-                className={rootClass}
-            >
+            <section ref={ref} className={rootClass}>
                 <img
                     className={imgClass}
                     loading="lazy"
                     alt={`sprite of ${pokemon.defaultName}`}
                     src={url.replace(':number', `${Number(pokemon.number)}`)}
                 />
-                <section
-                    className="pokemon-list-item__content"
-                    pokemon-list-item__name
-                >
-                    <span className="pokemon-list-item__number">
+                <section className="pokemon-list-item__content">
+                    <Typography
+                        as="span"
+                        variant="caption"
+                        className="pokemon-list-item__number"
+                    >
                         #{pokemon.number}
-                    </span>
-                    <p className="pokemon-list-item__name">
+                    </Typography>
+                    <Typography as="p" className="pokemon-list-item__name">
                         {pokemon.defaultName}
-                    </p>
+                    </Typography>
                     <section className="pokemon-list-item__types">
                         <Type type={primary} />
                         {secondary && <Type type={secondary} />}

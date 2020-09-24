@@ -11,6 +11,7 @@ import PokemonSidebarDetails from '../views/pokemon/PokemonSidebarDetails'
 import { getPokemon } from '../services/pokemon'
 import MenuList from '../components/menus/MenuList'
 import MenuItem from '../components/menus/MenuItem'
+import Typography from '../components/typographies/Typography'
 
 const App: React.FC = () => {
     const [isLoadind, setIsloading] = useState(false)

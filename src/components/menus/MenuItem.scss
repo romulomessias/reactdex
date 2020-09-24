@@ -1,0 +1,20 @@
+.menu-item {
+    $color: #f0f2f5;
+
+    height: 48px;
+    align-content: center;
+    display: grid;
+    padding: 8px 16px;
+    cursor: pointer;
+    
+    border-right: solid 4px transparent;
+    transition: all 0.2s ease-in-out;
+
+    &.active {
+        border-right-color: darken($color: $color, $amount: 15);
+    }
+
+    &:hover {
+        background-color: darken($color: $color, $amount: 5);
+    }
+}
