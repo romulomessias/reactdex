@@ -25,7 +25,12 @@ interface TypeProps {
 const Type: React.FC<TypeProps> = ({ type }) => {
     const rootClass = clsx('pokemon-list-item__type', type, 'background')
     return (
-        <Typography as="span" variant="overline" className={rootClass}>
+        <Typography
+            as="span"
+            variant="overline"
+            weight="medium"
+            className={rootClass}
+        >
             {type}
         </Typography>
     )
