@@ -33,4 +33,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: yarn
-    - run: yarn build
+    - run: yarn workspace @reactdex/webapp build
