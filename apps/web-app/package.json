@@ -8,8 +8,8 @@
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack ",
-    "test:unit": "jest --updateSnapshot --config ./test/jest.config.js",
-    "test:coverage": "jest --coverage --config ./test/jest.config.js",
+    "test": "jest --updateSnapshot --config ./test/jest.config.js",
+    "test:cov": "jest --coverage --config ./test/jest.config.js",
     "clear-bucket": "aws s3 rm s3://reactdex.romulomessias.dev/ --recursive --profile romalo",
     "deploy": "yarn clear-bucket && yarn build && aws s3 sync ./dist s3://reactdex.romulomessias.dev/ --profile romalo --exclude '*.map'"
   },

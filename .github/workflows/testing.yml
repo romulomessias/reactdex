@@ -34,7 +34,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: yarn install
-    - run: yarn workspace @reactdex/webapp test:unit
+    - run: yarn workspaces test
     - name: Archive code coverage results
       uses: actions/upload-artifact@v2
       with:
