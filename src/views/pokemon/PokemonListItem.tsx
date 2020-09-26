@@ -27,8 +27,8 @@ const Type: React.FC<TypeProps> = ({ type }) => {
     return (
         <Typography
             as="span"
-            variant="overline"
-            weight="medium"
+            variant="caption"
+            weight="normal"
             className={rootClass}
         >
             {type}

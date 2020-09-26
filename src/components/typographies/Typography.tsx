@@ -1,9 +1,7 @@
-import clsx from 'clsx'
 import React from 'react'
+import clsx from 'clsx'
 
 import './Typography.scss'
-
-const tagMap = {}
 
 interface TypographyProps {
     className?: string
