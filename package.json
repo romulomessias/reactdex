@@ -5,8 +5,8 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "library/*",
-    "apps/*"
+    "apps/*",
+    "common/*"
   ],
   "scripts": {
     "start:server": "yarn workspace @reactdex/server start",

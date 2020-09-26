@@ -26,3 +26,5 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .DS_Store
+
+*.env
