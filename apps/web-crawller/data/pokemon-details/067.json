@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "067",
+    "defaultName": "Machoke",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Machoke"
+    ],
+    "formsDetails": {
+        "machoke": {
+            "name": "Machoke",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "067",
+                "species": "Superpower Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "70.5 kg (155.4 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "No Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steadfast",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

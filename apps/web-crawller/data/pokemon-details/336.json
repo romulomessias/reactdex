@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "336",
+    "defaultName": "Seviper",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Seviper"
+    ],
+    "formsDetails": {
+        "seviper": {
+            "name": "Seviper",
+            "stats": {
+                "hp": {
+                    "base": "73",
+                    "min": "256",
+                    "max": "350"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "336",
+                "species": "Fang Snake Pokémon",
+                "height": "2.7 m (8′10″)",
+                "weight": "52.5 kg (115.7 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

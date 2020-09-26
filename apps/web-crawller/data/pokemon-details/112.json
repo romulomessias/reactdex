@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "112",
+    "defaultName": "Rhydon",
+    "types": [
+        "ground",
+        "rock"
+    ],
+    "forms": [
+        "Rhydon"
+    ],
+    "formsDetails": {
+        "rhydon": {
+            "name": "Rhydon",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "112",
+                "species": "Drill Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "ground",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Reckless",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

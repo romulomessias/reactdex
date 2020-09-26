@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "712",
+    "defaultName": "Bergmite",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Bergmite"
+    ],
+    "formsDetails": {
+        "bergmite": {
+            "name": "Bergmite",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                }
+            },
+            "info": {
+                "number": "712",
+                "species": "Ice Chunk Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "99.5 kg (219.4 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

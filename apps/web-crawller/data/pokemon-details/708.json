@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "708",
+    "defaultName": "Phantump",
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "forms": [
+        "Phantump"
+    ],
+    "formsDetails": {
+        "phantump": {
+            "name": "Phantump",
+            "stats": {
+                "hp": {
+                    "base": "43",
+                    "min": "196",
+                    "max": "290"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                }
+            },
+            "info": {
+                "number": "708",
+                "species": "Stump Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "7.0 kg (15.4 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Harvest",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

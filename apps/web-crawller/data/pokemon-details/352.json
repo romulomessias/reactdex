@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "352",
+    "defaultName": "Kecleon",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Kecleon"
+    ],
+    "formsDetails": {
+        "kecleon": {
+            "name": "Kecleon",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "352",
+                "species": "Color Swap Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "22.0 kg (48.5 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Color Change",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Protean",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

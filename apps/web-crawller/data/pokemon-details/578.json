@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "578",
+    "defaultName": "Duosion",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Duosion"
+    ],
+    "formsDetails": {
+        "duosion": {
+            "name": "Duosion",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "578",
+                "species": "Mitosis Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.0 kg (17.6 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overcoat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

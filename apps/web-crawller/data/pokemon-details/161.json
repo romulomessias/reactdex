@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "161",
+    "defaultName": "Sentret",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Sentret"
+    ],
+    "formsDetails": {
+        "sentret": {
+            "name": "Sentret",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                },
+                "defense": {
+                    "base": "34",
+                    "min": "65",
+                    "max": "183"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "161",
+                "species": "Scout Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "6.0 kg (13.2 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

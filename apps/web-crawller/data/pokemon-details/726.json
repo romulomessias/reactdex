@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "number": "726",
+    "defaultName": "Torracat",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Torracat"
+    ],
+    "formsDetails": {
+        "torracat": {
+            "name": "Torracat",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "726",
+                "species": "Fire Cat Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "25.0 kg (55.1 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

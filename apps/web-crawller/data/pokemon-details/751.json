@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "751",
+    "defaultName": "Dewpider",
+    "types": [
+        "water",
+        "bug"
+    ],
+    "forms": [
+        "Dewpider"
+    ],
+    "formsDetails": {
+        "dewpider": {
+            "name": "Dewpider",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "speed": {
+                    "base": "27",
+                    "min": "53",
+                    "max": "168"
+                }
+            },
+            "info": {
+                "number": "751",
+                "species": "Water Bubble Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "4.0 kg (8.8 lbs)",
+                "types": [
+                    "water",
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Bubble",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "226",
+    "defaultName": "Mantine",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Mantine"
+    ],
+    "formsDetails": {
+        "mantine": {
+            "name": "Mantine",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "226",
+                "species": "Kite Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "220.0 kg (485.0 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

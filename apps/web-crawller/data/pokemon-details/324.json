@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "324",
+    "defaultName": "Torkoal",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Torkoal"
+    ],
+    "formsDetails": {
+        "torkoal": {
+            "name": "Torkoal",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "324",
+                "species": "Coal Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "80.4 kg (177.3 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "White Smoke",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Drought",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

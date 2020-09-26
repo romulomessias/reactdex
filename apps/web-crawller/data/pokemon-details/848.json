@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "848",
+    "defaultName": "Toxel",
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "forms": [
+        "Toxel"
+    ],
+    "formsDetails": {
+        "toxel": {
+            "name": "Toxel",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "848",
+                "species": "Baby Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "11.0 kg (24.3 lbs)",
+                "types": [
+                    "electric",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rattled",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Klutz",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

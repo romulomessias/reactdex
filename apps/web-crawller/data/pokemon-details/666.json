@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "666",
+    "defaultName": "Vivillon",
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "forms": [
+        "Vivillon"
+    ],
+    "formsDetails": {
+        "vivillon": {
+            "name": "Vivillon",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                }
+            },
+            "info": {
+                "number": "666",
+                "species": "Scale Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "17.0 kg (37.5 lbs)",
+                "types": [
+                    "bug",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Compound Eyes",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

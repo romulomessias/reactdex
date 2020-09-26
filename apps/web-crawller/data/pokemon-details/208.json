@@ -1,0 +1,125 @@
+{
+    "generation": 2,
+    "number": "208",
+    "defaultName": "Steelix",
+    "types": [
+        "steel",
+        "ground"
+    ],
+    "forms": [
+        "Steelix",
+        "Mega Steelix"
+    ],
+    "formsDetails": {
+        "steelix": {
+            "name": "Steelix",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "200",
+                    "min": "364",
+                    "max": "548"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "208",
+                "species": "Iron Snake Pokémon",
+                "height": "9.2 m (30′02″)",
+                "weight": "400.0 kg (881.8 lbs)",
+                "types": [
+                    "steel",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaSteelix": {
+            "name": "Mega Steelix",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "230",
+                    "min": "418",
+                    "max": "614"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "208",
+                "species": "Iron Snake Pokémon",
+                "height": "10.5 m (34′05″)",
+                "weight": "740.0 kg (1631.4 lbs)",
+                "types": [
+                    "steel",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Force",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

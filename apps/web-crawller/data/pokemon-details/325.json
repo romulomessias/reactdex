@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "325",
+    "defaultName": "Spoink",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Spoink"
+    ],
+    "formsDetails": {
+        "spoink": {
+            "name": "Spoink",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "325",
+                "species": "Bounce Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "30.6 kg (67.5 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

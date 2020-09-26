@@ -1,0 +1,122 @@
+{
+    "generation": 3,
+    "number": "354",
+    "defaultName": "Banette",
+    "types": [
+        "ghost"
+    ],
+    "forms": [
+        "Banette",
+        "Mega Banette"
+    ],
+    "formsDetails": {
+        "banette": {
+            "name": "Banette",
+            "stats": {
+                "hp": {
+                    "base": "64",
+                    "min": "238",
+                    "max": "332"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "354",
+                "species": "Marionette Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "12.5 kg (27.6 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Insomnia",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaBanette": {
+            "name": "Mega Banette",
+            "stats": {
+                "hp": {
+                    "base": "64",
+                    "min": "238",
+                    "max": "332"
+                },
+                "attack": {
+                    "base": "165",
+                    "min": "301",
+                    "max": "471"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "93",
+                    "min": "171",
+                    "max": "313"
+                },
+                "spDef": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "354",
+                "species": "Marionette Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "13.0 kg (28.7 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prankster",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

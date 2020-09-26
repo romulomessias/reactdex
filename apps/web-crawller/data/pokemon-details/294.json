@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "294",
+    "defaultName": "Loudred",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Loudred"
+    ],
+    "formsDetails": {
+        "loudred": {
+            "name": "Loudred",
+            "stats": {
+                "hp": {
+                    "base": "84",
+                    "min": "278",
+                    "max": "372"
+                },
+                "attack": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "defense": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "spAtk": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "spDef": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "294",
+                "species": "Big Voice Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "40.5 kg (89.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Scrappy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

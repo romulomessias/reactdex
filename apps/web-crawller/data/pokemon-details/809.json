@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "809",
+    "defaultName": "Melmetal",
+    "types": [
+        "steel"
+    ],
+    "forms": [
+        "Melmetal"
+    ],
+    "formsDetails": {
+        "melmetal": {
+            "name": "Melmetal",
+            "stats": {
+                "hp": {
+                    "base": "135",
+                    "min": "380",
+                    "max": "474"
+                },
+                "attack": {
+                    "base": "143",
+                    "min": "261",
+                    "max": "423"
+                },
+                "defense": {
+                    "base": "143",
+                    "min": "261",
+                    "max": "423"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "34",
+                    "min": "65",
+                    "max": "183"
+                }
+            },
+            "info": {
+                "number": "809",
+                "species": "Hex Nut Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "800.0 kg (1763.7 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

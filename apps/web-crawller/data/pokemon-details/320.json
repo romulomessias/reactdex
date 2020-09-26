@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "320",
+    "defaultName": "Wailmer",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Wailmer"
+    ],
+    "formsDetails": {
+        "wailmer": {
+            "name": "Wailmer",
+            "stats": {
+                "hp": {
+                    "base": "130",
+                    "min": "370",
+                    "max": "464"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "320",
+                "species": "Ball Whale Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "130.0 kg (286.6 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pressure",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

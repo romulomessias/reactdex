@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "258",
+    "defaultName": "Mudkip",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Mudkip"
+    ],
+    "formsDetails": {
+        "mudkip": {
+            "name": "Mudkip",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "258",
+                "species": "Mud Fish Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "7.6 kg (16.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

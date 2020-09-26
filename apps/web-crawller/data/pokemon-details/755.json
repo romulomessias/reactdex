@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "755",
+    "defaultName": "Morelull",
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "forms": [
+        "Morelull"
+    ],
+    "formsDetails": {
+        "morelull": {
+            "name": "Morelull",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "755",
+                "species": "Illuminating Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "1.5 kg (3.3 lbs)",
+                "types": [
+                    "grass",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illuminate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "685",
+    "defaultName": "Slurpuff",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Slurpuff"
+    ],
+    "formsDetails": {
+        "slurpuff": {
+            "name": "Slurpuff",
+            "stats": {
+                "hp": {
+                    "base": "82",
+                    "min": "274",
+                    "max": "368"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                }
+            },
+            "info": {
+                "number": "685",
+                "species": "Meringue Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

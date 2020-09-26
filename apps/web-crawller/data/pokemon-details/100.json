@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "100",
+    "defaultName": "Voltorb",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Voltorb"
+    ],
+    "formsDetails": {
+        "voltorb": {
+            "name": "Voltorb",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "100",
+                "species": "Ball Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "10.4 kg (22.9 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aftermath",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

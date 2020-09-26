@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "055",
+    "defaultName": "Golduck",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Golduck"
+    ],
+    "formsDetails": {
+        "golduck": {
+            "name": "Golduck",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "055",
+                "species": "Duck Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "76.6 kg (168.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Damp",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cloud Nine",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

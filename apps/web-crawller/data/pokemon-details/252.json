@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "252",
+    "defaultName": "Treecko",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Treecko"
+    ],
+    "formsDetails": {
+        "treecko": {
+            "name": "Treecko",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "252",
+                "species": "Wood Gecko Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

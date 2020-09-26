@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "049",
+    "defaultName": "Venomoth",
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "forms": [
+        "Venomoth"
+    ],
+    "formsDetails": {
+        "venomoth": {
+            "name": "Venomoth",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "049",
+                "species": "Poison Moth Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "12.5 kg (27.6 lbs)",
+                "types": [
+                    "bug",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tinted Lens",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Wonder Skin",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "551",
+    "defaultName": "Sandile",
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "forms": [
+        "Sandile"
+    ],
+    "formsDetails": {
+        "sandile": {
+            "name": "Sandile",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "551",
+                "species": "Desert Croc Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "15.2 kg (33.5 lbs)",
+                "types": [
+                    "ground",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

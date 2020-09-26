@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "841",
+    "defaultName": "Flapple",
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "forms": [
+        "Flapple"
+    ],
+    "formsDetails": {
+        "flapple": {
+            "name": "Flapple",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "841",
+                "species": "Apple Wing Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "grass",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Ripen",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

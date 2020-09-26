@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "474",
+    "defaultName": "Porygon-Z",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Porygon-Z"
+    ],
+    "formsDetails": {
+        "porygon-z": {
+            "name": "Porygon-Z",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "474",
+                "species": "Virtual Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "34.0 kg (75.0 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Adaptability",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Download",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

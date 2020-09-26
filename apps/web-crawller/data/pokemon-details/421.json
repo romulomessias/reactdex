@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "421",
+    "defaultName": "Cherrim",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Cherrim"
+    ],
+    "formsDetails": {
+        "cherrim": {
+            "name": "Cherrim",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "spDef": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "421",
+                "species": "Blossom Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.3 kg (20.5 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flower Gift",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "520",
+    "defaultName": "Tranquill",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Tranquill"
+    ],
+    "formsDetails": {
+        "tranquill": {
+            "name": "Tranquill",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "520",
+                "species": "Wild Pigeon Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "15.0 kg (33.1 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rivalry",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

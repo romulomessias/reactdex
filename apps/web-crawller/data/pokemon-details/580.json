@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "580",
+    "defaultName": "Ducklett",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Ducklett"
+    ],
+    "formsDetails": {
+        "ducklett": {
+            "name": "Ducklett",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "580",
+                "species": "Water Bird Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.5 kg (12.1 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

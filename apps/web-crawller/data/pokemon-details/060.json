@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "060",
+    "defaultName": "Poliwag",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Poliwag"
+    ],
+    "formsDetails": {
+        "poliwag": {
+            "name": "Poliwag",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "060",
+                "species": "Tadpole Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "12.4 kg (27.3 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

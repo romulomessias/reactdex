@@ -1,0 +1,63 @@
+{
+    "generation": 5,
+    "number": "571",
+    "defaultName": "Zoroark",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Zoroark"
+    ],
+    "formsDetails": {
+        "zoroark": {
+            "name": "Zoroark",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "571",
+                "species": "Illusion Fox Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "81.1 kg (178.8 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illusion",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

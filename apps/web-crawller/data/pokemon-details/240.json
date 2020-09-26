@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "240",
+    "defaultName": "Magby",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Magby"
+    ],
+    "formsDetails": {
+        "magby": {
+            "name": "Magby",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                }
+            },
+            "info": {
+                "number": "240",
+                "species": "Live Coal Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "21.4 kg (47.2 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

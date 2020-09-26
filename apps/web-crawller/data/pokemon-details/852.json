@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "852",
+    "defaultName": "Clobbopus",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Clobbopus"
+    ],
+    "formsDetails": {
+        "clobbopus": {
+            "name": "Clobbopus",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "852",
+                "species": "Tantrum Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "4.0 kg (8.8 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

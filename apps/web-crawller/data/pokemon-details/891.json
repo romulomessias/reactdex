@@ -1,0 +1,63 @@
+{
+    "generation": 8,
+    "number": "891",
+    "defaultName": "Kubfu",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Kubfu"
+    ],
+    "formsDetails": {
+        "kubfu": {
+            "name": "Kubfu",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                }
+            },
+            "info": {
+                "number": "891",
+                "species": "Wushu Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

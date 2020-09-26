@@ -1,0 +1,131 @@
+{
+    "generation": 1,
+    "number": "088",
+    "defaultName": "Grimer",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Grimer",
+        "Alolan Grimer"
+    ],
+    "formsDetails": {
+        "grimer": {
+            "name": "Grimer",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                }
+            },
+            "info": {
+                "number": "088",
+                "species": "Sludge Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "30.0 kg (66.1 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Stench",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sticky Hold",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Touch",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanGrimer": {
+            "name": "Alolan Grimer",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                }
+            },
+            "info": {
+                "number": "088",
+                "species": "Sludge Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "42.0 kg (92.6 lbs)",
+                "types": [
+                    "poison",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Touch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Power of Alchemy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

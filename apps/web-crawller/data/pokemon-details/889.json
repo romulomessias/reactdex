@@ -1,0 +1,116 @@
+{
+    "generation": 8,
+    "number": "889",
+    "defaultName": "Zamazenta",
+    "types": [
+        "fighting",
+        "steel"
+    ],
+    "forms": [
+        "Crowned Shield",
+        "Hero of Many Battles"
+    ],
+    "formsDetails": {
+        "crownedShield": {
+            "name": "Crowned Shield",
+            "stats": {
+                "hp": {
+                    "base": "92",
+                    "min": "294",
+                    "max": "388"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "speed": {
+                    "base": "128",
+                    "min": "234",
+                    "max": "390"
+                }
+            },
+            "info": {
+                "number": "889",
+                "species": "Warrior Pokémon",
+                "height": "2.9 m (9′06″)",
+                "weight": "785.0 kg (1730.6 lbs)",
+                "types": [
+                    "fighting",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dauntless Shield",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "heroofManyBattles": {
+            "name": "Hero of Many Battles",
+            "stats": {
+                "hp": {
+                    "base": "92",
+                    "min": "294",
+                    "max": "388"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "138",
+                    "min": "252",
+                    "max": "412"
+                }
+            },
+            "info": {
+                "number": "889",
+                "species": "Warrior Pokémon",
+                "height": "2.9 m (9′06″)",
+                "weight": "210.0 kg (463.0 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dauntless Shield",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

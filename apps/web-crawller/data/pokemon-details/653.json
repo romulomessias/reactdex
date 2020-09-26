@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "653",
+    "defaultName": "Fennekin",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Fennekin"
+    ],
+    "formsDetails": {
+        "fennekin": {
+            "name": "Fennekin",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "653",
+                "species": "Fox Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "9.4 kg (20.7 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

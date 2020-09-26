@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "802",
+    "defaultName": "Marshadow",
+    "types": [
+        "fighting",
+        "ghost"
+    ],
+    "forms": [
+        "Marshadow"
+    ],
+    "formsDetails": {
+        "marshadow": {
+            "name": "Marshadow",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                }
+            },
+            "info": {
+                "number": "802",
+                "species": "Gloomdweller Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "22.2 kg (48.9 lbs)",
+                "types": [
+                    "fighting",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

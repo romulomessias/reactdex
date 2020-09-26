@@ -1,0 +1,65 @@
+{
+    "generation": 3,
+    "number": "385",
+    "defaultName": "Jirachi",
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "forms": [
+        "Jirachi"
+    ],
+    "formsDetails": {
+        "jirachi": {
+            "name": "Jirachi",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "385",
+                "species": "Wish Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.1 kg (2.4 lbs)",
+                "types": [
+                    "steel",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

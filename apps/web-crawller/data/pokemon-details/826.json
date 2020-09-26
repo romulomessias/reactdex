@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "826",
+    "defaultName": "Orbeetle",
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "forms": [
+        "Orbeetle"
+    ],
+    "formsDetails": {
+        "orbeetle": {
+            "name": "Orbeetle",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "826",
+                "species": "Seven Spot Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "40.8 kg (89.9 lbs)",
+                "types": [
+                    "bug",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

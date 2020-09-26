@@ -1,0 +1,130 @@
+{
+    "generation": 5,
+    "number": "550",
+    "defaultName": "Basculin",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Red-Striped Form",
+        "Blue-Striped Form"
+    ],
+    "formsDetails": {
+        "red-stripedForm": {
+            "name": "Red-Striped Form",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                }
+            },
+            "info": {
+                "number": "550",
+                "species": "Hostile Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "18.0 kg (39.7 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Reckless",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "blue-stripedForm": {
+            "name": "Blue-Striped Form",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                }
+            },
+            "info": {
+                "number": "550",
+                "species": "Hostile Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "18.0 kg (39.7 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

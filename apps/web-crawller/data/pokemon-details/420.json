@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "420",
+    "defaultName": "Cherubi",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Cherubi"
+    ],
+    "formsDetails": {
+        "cherubi": {
+            "name": "Cherubi",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spDef": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "420",
+                "species": "Cherry Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "3.3 kg (7.3 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

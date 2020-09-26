@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "781",
+    "defaultName": "Dhelmise",
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "forms": [
+        "Dhelmise"
+    ],
+    "formsDetails": {
+        "dhelmise": {
+            "name": "Dhelmise",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "131",
+                    "min": "240",
+                    "max": "397"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "781",
+                "species": "Sea Creeper Pokémon",
+                "height": "3.9 m (12′10″)",
+                "weight": "210.0 kg (463.0 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steelworker",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

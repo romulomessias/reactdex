@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "797",
+    "defaultName": "Celesteela",
+    "types": [
+        "steel",
+        "flying"
+    ],
+    "forms": [
+        "Celesteela"
+    ],
+    "formsDetails": {
+        "celesteela": {
+            "name": "Celesteela",
+            "stats": {
+                "hp": {
+                    "base": "97",
+                    "min": "304",
+                    "max": "398"
+                },
+                "attack": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "defense": {
+                    "base": "103",
+                    "min": "189",
+                    "max": "335"
+                },
+                "spAtk": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spDef": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "speed": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                }
+            },
+            "info": {
+                "number": "797",
+                "species": "Launch Pokémon",
+                "height": "9.2 m (30′02″)",
+                "weight": "999.9 kg (2204.4 lbs)",
+                "types": [
+                    "steel",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

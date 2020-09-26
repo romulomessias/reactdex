@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "585",
+    "defaultName": "Deerling",
+    "types": [
+        "normal",
+        "grass"
+    ],
+    "forms": [
+        "Deerling"
+    ],
+    "formsDetails": {
+        "deerling": {
+            "name": "Deerling",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "585",
+                "species": "Season Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "19.5 kg (43.0 lbs)",
+                "types": [
+                    "normal",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "750",
+    "defaultName": "Mudsdale",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Mudsdale"
+    ],
+    "formsDetails": {
+        "mudsdale": {
+            "name": "Mudsdale",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "750",
+                "species": "Draft Horse Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "920.0 kg (2028.3 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stamina",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

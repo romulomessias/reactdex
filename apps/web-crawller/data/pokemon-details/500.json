@@ -1,0 +1,69 @@
+{
+    "generation": 5,
+    "number": "500",
+    "defaultName": "Emboar",
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "forms": [
+        "Emboar"
+    ],
+    "formsDetails": {
+        "emboar": {
+            "name": "Emboar",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "123",
+                    "min": "225",
+                    "max": "379"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "500",
+                "species": "Mega Fire Pig Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "150.0 kg (330.7 lbs)",
+                "types": [
+                    "fire",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Reckless",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

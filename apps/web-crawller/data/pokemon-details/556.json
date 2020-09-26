@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "556",
+    "defaultName": "Maractus",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Maractus"
+    ],
+    "formsDetails": {
+        "maractus": {
+            "name": "Maractus",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "defense": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "spAtk": {
+                    "base": "106",
+                    "min": "195",
+                    "max": "342"
+                },
+                "spDef": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "556",
+                "species": "Cactus Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Storm Drain",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

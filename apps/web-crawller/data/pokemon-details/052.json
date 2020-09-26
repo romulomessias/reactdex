@@ -1,0 +1,189 @@
+{
+    "generation": 1,
+    "number": "052",
+    "defaultName": "Meowth",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Meowth",
+        "Alolan Meowth",
+        "Galarian Meowth"
+    ],
+    "formsDetails": {
+        "meowth": {
+            "name": "Meowth",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "052",
+                "species": "Scratch Cat Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.2 kg (9.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanMeowth": {
+            "name": "Alolan Meowth",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "052",
+                "species": "Scratch Cat Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.2 kg (9.3 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianMeowth": {
+            "name": "Galarian Meowth",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "052",
+                "species": "Scratch Cat Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "7.5 kg (16.5 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tough Claws",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

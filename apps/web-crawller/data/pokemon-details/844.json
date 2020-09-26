@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "844",
+    "defaultName": "Sandaconda",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Sandaconda"
+    ],
+    "formsDetails": {
+        "sandaconda": {
+            "name": "Sandaconda",
+            "stats": {
+                "hp": {
+                    "base": "72",
+                    "min": "254",
+                    "max": "348"
+                },
+                "attack": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "defense": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "844",
+                "species": "Sand Snake Pokémon",
+                "height": "3.8 m (12′06″)",
+                "weight": "65.5 kg (144.4 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Spit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

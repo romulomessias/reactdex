@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "439",
+    "defaultName": "Mime Jr.",
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "forms": [
+        "Mime Jr."
+    ],
+    "formsDetails": {
+        "mimeJr.": {
+            "name": "Mime Jr.",
+            "stats": {
+                "hp": {
+                    "base": "20",
+                    "min": "150",
+                    "max": "244"
+                },
+                "attack": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "439",
+                "species": "Mime Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "13.0 kg (28.7 lbs)",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Filter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

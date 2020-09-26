@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "513",
+    "defaultName": "Pansear",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Pansear"
+    ],
+    "formsDetails": {
+        "pansear": {
+            "name": "Pansear",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                }
+            },
+            "info": {
+                "number": "513",
+                "species": "High Temp Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "11.0 kg (24.3 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Blaze",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

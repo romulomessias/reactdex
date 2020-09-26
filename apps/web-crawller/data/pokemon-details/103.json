@@ -1,0 +1,125 @@
+{
+    "generation": 1,
+    "number": "103",
+    "defaultName": "Exeggutor",
+    "types": [
+        "grass",
+        "psychic"
+    ],
+    "forms": [
+        "Exeggutor",
+        "Alolan Exeggutor"
+    ],
+    "formsDetails": {
+        "exeggutor": {
+            "name": "Exeggutor",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "103",
+                "species": "Coconut Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "grass",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Harvest",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanExeggutor": {
+            "name": "Alolan Exeggutor",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "103",
+                "species": "Coconut Pokémon",
+                "height": "10.9 m (35′09″)",
+                "weight": "415.6 kg (916.2 lbs)",
+                "types": [
+                    "grass",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Harvest",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

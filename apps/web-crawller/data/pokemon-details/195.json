@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "195",
+    "defaultName": "Quagsire",
+    "types": [
+        "water",
+        "ground"
+    ],
+    "forms": [
+        "Quagsire"
+    ],
+    "formsDetails": {
+        "quagsire": {
+            "name": "Quagsire",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "195",
+                "species": "Water Fish Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "75.0 kg (165.3 lbs)",
+                "types": [
+                    "water",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Damp",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unaware",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

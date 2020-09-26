@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "361",
+    "defaultName": "Snorunt",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Snorunt"
+    ],
+    "formsDetails": {
+        "snorunt": {
+            "name": "Snorunt",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "361",
+                "species": "Snow Hat Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "16.8 kg (37.0 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moody",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

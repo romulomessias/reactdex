@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "516",
+    "defaultName": "Simipour",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Simipour"
+    ],
+    "formsDetails": {
+        "simipour": {
+            "name": "Simipour",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "defense": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spAtk": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                }
+            },
+            "info": {
+                "number": "516",
+                "species": "Geyser Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "29.0 kg (63.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Torrent",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

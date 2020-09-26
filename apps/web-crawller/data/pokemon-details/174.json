@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "174",
+    "defaultName": "Igglybuff",
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "forms": [
+        "Igglybuff"
+    ],
+    "formsDetails": {
+        "igglybuff": {
+            "name": "Igglybuff",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "174",
+                "species": "Balloon Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "normal",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

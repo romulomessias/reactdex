@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "468",
+    "defaultName": "Togekiss",
+    "types": [
+        "fairy",
+        "flying"
+    ],
+    "forms": [
+        "Togekiss"
+    ],
+    "formsDetails": {
+        "togekiss": {
+            "name": "Togekiss",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "468",
+                "species": "Jubilee Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "38.0 kg (83.8 lbs)",
+                "types": [
+                    "fairy",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

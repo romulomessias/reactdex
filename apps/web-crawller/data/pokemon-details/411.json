@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "411",
+    "defaultName": "Bastiodon",
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "forms": [
+        "Bastiodon"
+    ],
+    "formsDetails": {
+        "bastiodon": {
+            "name": "Bastiodon",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "defense": {
+                    "base": "168",
+                    "min": "306",
+                    "max": "478"
+                },
+                "spAtk": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "spDef": {
+                    "base": "138",
+                    "min": "252",
+                    "max": "412"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "411",
+                "species": "Shield Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "149.5 kg (329.6 lbs)",
+                "types": [
+                    "rock",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Soundproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

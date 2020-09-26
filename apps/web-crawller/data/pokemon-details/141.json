@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "141",
+    "defaultName": "Kabutops",
+    "types": [
+        "rock",
+        "water"
+    ],
+    "forms": [
+        "Kabutops"
+    ],
+    "formsDetails": {
+        "kabutops": {
+            "name": "Kabutops",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "141",
+                "species": "Shellfish Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "40.5 kg (89.3 lbs)",
+                "types": [
+                    "rock",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

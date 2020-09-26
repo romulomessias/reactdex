@@ -1,0 +1,131 @@
+{
+    "generation": 3,
+    "number": "263",
+    "defaultName": "Zigzagoon",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Zigzagoon",
+        "Galarian Zigzagoon"
+    ],
+    "formsDetails": {
+        "zigzagoon": {
+            "name": "Zigzagoon",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "263",
+                "species": "TinyRaccoon Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "17.5 kg (38.6 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianZigzagoon": {
+            "name": "Galarian Zigzagoon",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "263",
+                "species": "Tiny Raccoon Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "17.5 kg (38.6 lbs)",
+                "types": [
+                    "dark",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

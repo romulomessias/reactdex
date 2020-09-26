@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "663",
+    "defaultName": "Talonflame",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "forms": [
+        "Talonflame"
+    ],
+    "formsDetails": {
+        "talonflame": {
+            "name": "Talonflame",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "defense": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "spAtk": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "spDef": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "speed": {
+                    "base": "126",
+                    "min": "231",
+                    "max": "386"
+                }
+            },
+            "info": {
+                "number": "663",
+                "species": "Scorching Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "24.5 kg (54.0 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gale Wings",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

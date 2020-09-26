@@ -1,0 +1,65 @@
+{
+    "generation": 3,
+    "number": "344",
+    "defaultName": "Claydol",
+    "types": [
+        "ground",
+        "psychic"
+    ],
+    "forms": [
+        "Claydol"
+    ],
+    "formsDetails": {
+        "claydol": {
+            "name": "Claydol",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "344",
+                "species": "Clay Doll Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "108.0 kg (238.1 lbs)",
+                "types": [
+                    "ground",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

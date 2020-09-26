@@ -1,0 +1,128 @@
+{
+    "generation": 1,
+    "number": "079",
+    "defaultName": "Slowpoke",
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "forms": [
+        "Slowpoke",
+        "Galarian Slowpoke"
+    ],
+    "formsDetails": {
+        "slowpoke": {
+            "name": "Slowpoke",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "079",
+                "species": "Dopey Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "36.0 kg (79.4 lbs)",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianSlowpoke": {
+            "name": "Galarian Slowpoke",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "079",
+                "species": "Dopey Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "36.0 kg (79.4 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

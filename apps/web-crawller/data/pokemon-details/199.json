@@ -1,0 +1,86 @@
+{
+    "generation": 2,
+    "number": "199",
+    "defaultName": "Slowking",
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "forms": [
+        "Slowking",
+        "Galarian Slowking"
+    ],
+    "formsDetails": {
+        "slowking": {
+            "name": "Slowking",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "199",
+                "species": "Royal Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "79.5 kg (175.3 lbs)",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianSlowking": {
+            "name": "Galarian Slowking",
+            "stats": {},
+            "info": {
+                "number": "199",
+                "species": "—",
+                "height": "—",
+                "weight": "—",
+                "types": [],
+                "abilities": []
+            }
+        }
+    }
+}

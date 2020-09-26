@@ -1,0 +1,121 @@
+{
+    "generation": 1,
+    "number": "003",
+    "defaultName": "Venusaur",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "forms": [
+        "Venusaur",
+        "Mega Venusaur"
+    ],
+    "formsDetails": {
+        "venusaur": {
+            "name": "Venusaur",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "003",
+                "species": "Seed Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "100.0 kg (220.5 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaVenusaur": {
+            "name": "Mega Venusaur",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "123",
+                    "min": "225",
+                    "max": "379"
+                },
+                "spAtk": {
+                    "base": "122",
+                    "min": "224",
+                    "max": "377"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "003",
+                "species": "Seed Pokémon",
+                "height": "2.4 m (7′10″)",
+                "weight": "155.5 kg (342.8 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "430",
+    "defaultName": "Honchkrow",
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "forms": [
+        "Honchkrow"
+    ],
+    "formsDetails": {
+        "honchkrow": {
+            "name": "Honchkrow",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "430",
+                "species": "Big Boss Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "27.3 kg (60.2 lbs)",
+                "types": [
+                    "dark",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Insomnia",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

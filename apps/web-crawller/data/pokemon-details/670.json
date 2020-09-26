@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "670",
+    "defaultName": "Floette",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Floette"
+    ],
+    "formsDetails": {
+        "floette": {
+            "name": "Floette",
+            "stats": {
+                "hp": {
+                    "base": "54",
+                    "min": "218",
+                    "max": "312"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "speed": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                }
+            },
+            "info": {
+                "number": "670",
+                "species": "Single Bloom Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.9 kg (2.0 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flower Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Symbiosis",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

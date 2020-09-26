@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "634",
+    "defaultName": "Zweilous",
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "forms": [
+        "Zweilous"
+    ],
+    "formsDetails": {
+        "zweilous": {
+            "name": "Zweilous",
+            "stats": {
+                "hp": {
+                    "base": "72",
+                    "min": "254",
+                    "max": "348"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                }
+            },
+            "info": {
+                "number": "634",
+                "species": "Hostile Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "50.0 kg (110.2 lbs)",
+                "types": [
+                    "dark",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

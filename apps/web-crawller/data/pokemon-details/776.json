@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "776",
+    "defaultName": "Turtonator",
+    "types": [
+        "fire",
+        "dragon"
+    ],
+    "forms": [
+        "Turtonator"
+    ],
+    "formsDetails": {
+        "turtonator": {
+            "name": "Turtonator",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "defense": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spAtk": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "776",
+                "species": "Blast Turtle Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "212.0 kg (467.4 lbs)",
+                "types": [
+                    "fire",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

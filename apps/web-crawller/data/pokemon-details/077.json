@@ -1,0 +1,130 @@
+{
+    "generation": 1,
+    "number": "077",
+    "defaultName": "Ponyta",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Ponyta",
+        "Galarian Ponyta"
+    ],
+    "formsDetails": {
+        "ponyta": {
+            "name": "Ponyta",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "077",
+                "species": "Fire Horse Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "30.0 kg (66.1 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianPonyta": {
+            "name": "Galarian Ponyta",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "077",
+                "species": "Unique Horn Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "24.0 kg (52.9 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pastel Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anticipation",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

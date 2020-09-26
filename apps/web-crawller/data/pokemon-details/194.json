@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "194",
+    "defaultName": "Wooper",
+    "types": [
+        "water",
+        "ground"
+    ],
+    "forms": [
+        "Wooper"
+    ],
+    "formsDetails": {
+        "wooper": {
+            "name": "Wooper",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "194",
+                "species": "Water Fish Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "8.5 kg (18.7 lbs)",
+                "types": [
+                    "water",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Damp",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unaware",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

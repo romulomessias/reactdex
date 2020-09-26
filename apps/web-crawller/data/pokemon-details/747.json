@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "747",
+    "defaultName": "Mareanie",
+    "types": [
+        "poison",
+        "water"
+    ],
+    "forms": [
+        "Mareanie"
+    ],
+    "formsDetails": {
+        "mareanie": {
+            "name": "Mareanie",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "spDef": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "747",
+                "species": "Brutal Star Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "8.0 kg (17.6 lbs)",
+                "types": [
+                    "poison",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Merciless",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

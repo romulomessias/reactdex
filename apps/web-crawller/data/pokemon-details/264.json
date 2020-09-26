@@ -1,0 +1,131 @@
+{
+    "generation": 3,
+    "number": "264",
+    "defaultName": "Linoone",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Linoone",
+        "Galarian Linoone"
+    ],
+    "formsDetails": {
+        "linoone": {
+            "name": "Linoone",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "264",
+                "species": "Rushing Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "32.5 kg (71.7 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianLinoone": {
+            "name": "Galarian Linoone",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "264",
+                "species": "Rushing Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "32.5 kg (71.7 lbs)",
+                "types": [
+                    "dark",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

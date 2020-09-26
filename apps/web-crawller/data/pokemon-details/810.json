@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "810",
+    "defaultName": "Grookey",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Grookey"
+    ],
+    "formsDetails": {
+        "grookey": {
+            "name": "Grookey",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "810",
+                "species": "Chimp Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Grassy Surge",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

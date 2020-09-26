@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "227",
+    "defaultName": "Skarmory",
+    "types": [
+        "steel",
+        "flying"
+    ],
+    "forms": [
+        "Skarmory"
+    ],
+    "formsDetails": {
+        "skarmory": {
+            "name": "Skarmory",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "227",
+                "species": "Armor Bird Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "50.5 kg (111.3 lbs)",
+                "types": [
+                    "steel",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

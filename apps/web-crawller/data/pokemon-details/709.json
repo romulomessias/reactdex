@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "709",
+    "defaultName": "Trevenant",
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "forms": [
+        "Trevenant"
+    ],
+    "formsDetails": {
+        "trevenant": {
+            "name": "Trevenant",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "76",
+                    "min": "141",
+                    "max": "276"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "speed": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                }
+            },
+            "info": {
+                "number": "709",
+                "species": "Elder Tree Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "71.0 kg (156.5 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Harvest",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

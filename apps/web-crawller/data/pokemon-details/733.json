@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "733",
+    "defaultName": "Toucannon",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Toucannon"
+    ],
+    "formsDetails": {
+        "toucannon": {
+            "name": "Toucannon",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "733",
+                "species": "Cannon Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "26.0 kg (57.3 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Skill Link",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

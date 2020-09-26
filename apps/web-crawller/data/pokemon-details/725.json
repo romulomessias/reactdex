@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "number": "725",
+    "defaultName": "Litten",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Litten"
+    ],
+    "formsDetails": {
+        "litten": {
+            "name": "Litten",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "725",
+                "species": "Fire Cat Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.3 kg (9.5 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

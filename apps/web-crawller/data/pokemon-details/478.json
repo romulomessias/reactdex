@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "478",
+    "defaultName": "Froslass",
+    "types": [
+        "ice",
+        "ghost"
+    ],
+    "forms": [
+        "Froslass"
+    ],
+    "formsDetails": {
+        "froslass": {
+            "name": "Froslass",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "478",
+                "species": "Snow Land Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "26.6 kg (58.6 lbs)",
+                "types": [
+                    "ice",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

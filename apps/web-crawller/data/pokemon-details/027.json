@@ -1,0 +1,123 @@
+{
+    "generation": 1,
+    "number": "027",
+    "defaultName": "Sandshrew",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Sandshrew",
+        "Alolan Sandshrew"
+    ],
+    "formsDetails": {
+        "sandshrew": {
+            "name": "Sandshrew",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "027",
+                "species": "Mouse Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Rush",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanSandshrew": {
+            "name": "Alolan Sandshrew",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "027",
+                "species": "Mouse Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "ice",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Slush Rush",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

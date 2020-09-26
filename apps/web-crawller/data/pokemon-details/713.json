@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "713",
+    "defaultName": "Avalugg",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Avalugg"
+    ],
+    "formsDetails": {
+        "avalugg": {
+            "name": "Avalugg",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "117",
+                    "min": "215",
+                    "max": "366"
+                },
+                "defense": {
+                    "base": "184",
+                    "min": "335",
+                    "max": "513"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                },
+                "speed": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                }
+            },
+            "info": {
+                "number": "713",
+                "species": "Iceberg Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "505.0 kg (1113.3 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

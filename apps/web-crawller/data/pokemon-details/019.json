@@ -1,0 +1,131 @@
+{
+    "generation": 1,
+    "number": "019",
+    "defaultName": "Rattata",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Rattata",
+        "Alolan Rattata"
+    ],
+    "formsDetails": {
+        "rattata": {
+            "name": "Rattata",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                }
+            },
+            "info": {
+                "number": "019",
+                "species": "Mouse Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.5 kg (7.7 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanRattata": {
+            "name": "Alolan Rattata",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                }
+            },
+            "info": {
+                "number": "019",
+                "species": "Mouse Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.8 kg (8.4 lbs)",
+                "types": [
+                    "dark",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

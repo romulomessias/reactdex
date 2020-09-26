@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "389",
+    "defaultName": "Torterra",
+    "types": [
+        "grass",
+        "ground"
+    ],
+    "forms": [
+        "Torterra"
+    ],
+    "formsDetails": {
+        "torterra": {
+            "name": "Torterra",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                }
+            },
+            "info": {
+                "number": "389",
+                "species": "Continent Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "310.0 kg (683.4 lbs)",
+                "types": [
+                    "grass",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

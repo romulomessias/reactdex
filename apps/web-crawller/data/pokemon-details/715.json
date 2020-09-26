@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "715",
+    "defaultName": "Noivern",
+    "types": [
+        "flying",
+        "dragon"
+    ],
+    "forms": [
+        "Noivern"
+    ],
+    "formsDetails": {
+        "noivern": {
+            "name": "Noivern",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "123",
+                    "min": "225",
+                    "max": "379"
+                }
+            },
+            "info": {
+                "number": "715",
+                "species": "Sound Wave Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "85.0 kg (187.4 lbs)",
+                "types": [
+                    "flying",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

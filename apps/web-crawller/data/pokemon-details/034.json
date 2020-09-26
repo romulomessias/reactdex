@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "034",
+    "defaultName": "Nidoking",
+    "types": [
+        "poison",
+        "ground"
+    ],
+    "forms": [
+        "Nidoking"
+    ],
+    "formsDetails": {
+        "nidoking": {
+            "name": "Nidoking",
+            "stats": {
+                "hp": {
+                    "base": "81",
+                    "min": "272",
+                    "max": "366"
+                },
+                "attack": {
+                    "base": "102",
+                    "min": "188",
+                    "max": "333"
+                },
+                "defense": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "034",
+                "species": "Drill Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "62.0 kg (136.7 lbs)",
+                "types": [
+                    "poison",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

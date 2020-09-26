@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "366",
+    "defaultName": "Clamperl",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Clamperl"
+    ],
+    "formsDetails": {
+        "clamperl": {
+            "name": "Clamperl",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "366",
+                "species": "Bivalve Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "52.5 kg (115.7 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

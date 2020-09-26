@@ -1,0 +1,125 @@
+{
+    "generation": 2,
+    "number": "214",
+    "defaultName": "Heracross",
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "forms": [
+        "Heracross",
+        "Mega Heracross"
+    ],
+    "formsDetails": {
+        "heracross": {
+            "name": "Heracross",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "214",
+                "species": "Single Horn Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "54.0 kg (119.0 lbs)",
+                "types": [
+                    "bug",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaHeracross": {
+            "name": "Mega Heracross",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "185",
+                    "min": "337",
+                    "max": "515"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "214",
+                "species": "Single Horn Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "62.5 kg (137.8 lbs)",
+                "types": [
+                    "bug",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Skill Link",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

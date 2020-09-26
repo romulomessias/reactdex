@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "779",
+    "defaultName": "Bruxish",
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "forms": [
+        "Bruxish"
+    ],
+    "formsDetails": {
+        "bruxish": {
+            "name": "Bruxish",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                }
+            },
+            "info": {
+                "number": "779",
+                "species": "Gnash Teeth Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "19.0 kg (41.9 lbs)",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dazzling",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Wonder Skin",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

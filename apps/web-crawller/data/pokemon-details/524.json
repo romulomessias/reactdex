@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "524",
+    "defaultName": "Roggenrola",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Roggenrola"
+    ],
+    "formsDetails": {
+        "roggenrola": {
+            "name": "Roggenrola",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "524",
+                "species": "Mantle Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "18.0 kg (39.7 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "599",
+    "defaultName": "Klink",
+    "types": [
+        "steel"
+    ],
+    "forms": [
+        "Klink"
+    ],
+    "formsDetails": {
+        "klink": {
+            "name": "Klink",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "599",
+                "species": "Gear Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "21.0 kg (46.3 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Plus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Minus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Clear Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

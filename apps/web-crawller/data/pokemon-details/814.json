@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "814",
+    "defaultName": "Raboot",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Raboot"
+    ],
+    "formsDetails": {
+        "raboot": {
+            "name": "Raboot",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "94",
+                    "min": "173",
+                    "max": "315"
+                }
+            },
+            "info": {
+                "number": "814",
+                "species": "Rabbit Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "9.0 kg (19.8 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Libero",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "generation": 4,
+    "number": "448",
+    "defaultName": "Lucario",
+    "types": [
+        "fighting",
+        "steel"
+    ],
+    "forms": [
+        "Lucario",
+        "Mega Lucario"
+    ],
+    "formsDetails": {
+        "lucario": {
+            "name": "Lucario",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "448",
+                "species": "Aura Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "54.0 kg (119.0 lbs)",
+                "types": [
+                    "fighting",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Justified",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaLucario": {
+            "name": "Mega Lucario",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "defense": {
+                    "base": "88",
+                    "min": "162",
+                    "max": "302"
+                },
+                "spAtk": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                }
+            },
+            "info": {
+                "number": "448",
+                "species": "Aura Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "57.5 kg (126.8 lbs)",
+                "types": [
+                    "fighting",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Adaptability",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

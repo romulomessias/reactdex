@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "345",
+    "defaultName": "Lileep",
+    "types": [
+        "rock",
+        "grass"
+    ],
+    "forms": [
+        "Lileep"
+    ],
+    "formsDetails": {
+        "lileep": {
+            "name": "Lileep",
+            "stats": {
+                "hp": {
+                    "base": "66",
+                    "min": "242",
+                    "max": "336"
+                },
+                "attack": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "defense": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spAtk": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spDef": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "speed": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                }
+            },
+            "info": {
+                "number": "345",
+                "species": "Sea Lily Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "23.8 kg (52.5 lbs)",
+                "types": [
+                    "rock",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Suction Cups",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Storm Drain",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

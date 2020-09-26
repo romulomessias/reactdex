@@ -1,0 +1,115 @@
+{
+    "generation": 5,
+    "number": "562",
+    "defaultName": "Yamask",
+    "types": [
+        "ghost"
+    ],
+    "forms": [
+        "Yamask",
+        "Galarian Yamask"
+    ],
+    "formsDetails": {
+        "yamask": {
+            "name": "Yamask",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "562",
+                "species": "Spirit Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "1.5 kg (3.3 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mummy",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "galarianYamask": {
+            "name": "Galarian Yamask",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "562",
+                "species": "Spirit Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "1.5 kg (3.3 lbs)",
+                "types": [
+                    "ground",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Wandering Spirit",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

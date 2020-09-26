@@ -1,0 +1,117 @@
+{
+    "generation": 6,
+    "number": "720",
+    "defaultName": "Hoopa",
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "forms": [
+        "Hoopa Confined",
+        "Hoopa Unbound"
+    ],
+    "formsDetails": {
+        "hoopaConfined": {
+            "name": "Hoopa Confined",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spDef": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "720",
+                "species": "Mischief Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.0 kg (19.8 lbs)",
+                "types": [
+                    "psychic",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magician",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "hoopaUnbound": {
+            "name": "Hoopa Unbound",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "170",
+                    "min": "310",
+                    "max": "482"
+                },
+                "spDef": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "720",
+                "species": "Djinn Pokémon",
+                "height": "6.5 m (21′04″)",
+                "weight": "490.0 kg (1080.3 lbs)",
+                "types": [
+                    "psychic",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magician",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

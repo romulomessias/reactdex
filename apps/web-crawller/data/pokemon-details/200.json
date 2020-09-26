@@ -1,0 +1,63 @@
+{
+    "generation": 2,
+    "number": "200",
+    "defaultName": "Misdreavus",
+    "types": [
+        "ghost"
+    ],
+    "forms": [
+        "Misdreavus"
+    ],
+    "formsDetails": {
+        "misdreavus": {
+            "name": "Misdreavus",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "200",
+                "species": "Screech Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

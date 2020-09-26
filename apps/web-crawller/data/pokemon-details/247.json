@@ -1,0 +1,65 @@
+{
+    "generation": 2,
+    "number": "247",
+    "defaultName": "Pupitar",
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "forms": [
+        "Pupitar"
+    ],
+    "formsDetails": {
+        "pupitar": {
+            "name": "Pupitar",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                }
+            },
+            "info": {
+                "number": "247",
+                "species": "Hard Shell Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "152.0 kg (335.1 lbs)",
+                "types": [
+                    "rock",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

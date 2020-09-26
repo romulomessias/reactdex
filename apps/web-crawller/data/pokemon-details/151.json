@@ -1,0 +1,63 @@
+{
+    "generation": 1,
+    "number": "151",
+    "defaultName": "Mew",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Mew"
+    ],
+    "formsDetails": {
+        "mew": {
+            "name": "Mew",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "151",
+                "species": "New Species Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.0 kg (8.8 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

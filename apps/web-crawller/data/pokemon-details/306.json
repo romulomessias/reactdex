@@ -1,0 +1,124 @@
+{
+    "generation": 3,
+    "number": "306",
+    "defaultName": "Aggron",
+    "types": [
+        "steel",
+        "rock"
+    ],
+    "forms": [
+        "Aggron",
+        "Mega Aggron"
+    ],
+    "formsDetails": {
+        "aggron": {
+            "name": "Aggron",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "306",
+                "species": "Iron Armor Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "360.0 kg (793.7 lbs)",
+                "types": [
+                    "steel",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heavy Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaAggron": {
+            "name": "Mega Aggron",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "230",
+                    "min": "418",
+                    "max": "614"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "306",
+                "species": "Iron Armor Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "395.0 kg (870.8 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Filter",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

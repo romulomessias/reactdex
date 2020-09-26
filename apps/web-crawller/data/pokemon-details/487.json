@@ -1,0 +1,121 @@
+{
+    "generation": 4,
+    "number": "487",
+    "defaultName": "Giratina",
+    "types": [
+        "ghost",
+        "dragon"
+    ],
+    "forms": [
+        "Altered Forme",
+        "Origin Forme"
+    ],
+    "formsDetails": {
+        "alteredForme": {
+            "name": "Altered Forme",
+            "stats": {
+                "hp": {
+                    "base": "150",
+                    "min": "410",
+                    "max": "504"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "487",
+                "species": "Renegade Pokémon",
+                "height": "4.5 m (14′09″)",
+                "weight": "750.0 kg (1653.5 lbs)",
+                "types": [
+                    "ghost",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "originForme": {
+            "name": "Origin Forme",
+            "stats": {
+                "hp": {
+                    "base": "150",
+                    "min": "410",
+                    "max": "504"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "487",
+                "species": "Renegade Pokémon",
+                "height": "6.9 m (22′08″)",
+                "weight": "650.0 kg (1433.0 lbs)",
+                "types": [
+                    "ghost",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

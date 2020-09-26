@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "number": "766",
+    "defaultName": "Passimian",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Passimian"
+    ],
+    "formsDetails": {
+        "passimian": {
+            "name": "Passimian",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "766",
+                "species": "Teamwork Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "82.8 kg (182.5 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Receiver",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

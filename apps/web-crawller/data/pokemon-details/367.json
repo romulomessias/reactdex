@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "367",
+    "defaultName": "Huntail",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Huntail"
+    ],
+    "formsDetails": {
+        "huntail": {
+            "name": "Huntail",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "94",
+                    "min": "173",
+                    "max": "315"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                }
+            },
+            "info": {
+                "number": "367",
+                "species": "Deep Sea Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "27.0 kg (59.5 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

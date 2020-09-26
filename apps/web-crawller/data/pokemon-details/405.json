@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "405",
+    "defaultName": "Luxray",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Luxray"
+    ],
+    "formsDetails": {
+        "luxray": {
+            "name": "Luxray",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "405",
+                "species": "Gleam Eyes Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "42.0 kg (92.6 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

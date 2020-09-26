@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "339",
+    "defaultName": "Barboach",
+    "types": [
+        "water",
+        "ground"
+    ],
+    "forms": [
+        "Barboach"
+    ],
+    "formsDetails": {
+        "barboach": {
+            "name": "Barboach",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "spAtk": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                },
+                "spDef": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "339",
+                "species": "Whiskers Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "1.9 kg (4.2 lbs)",
+                "types": [
+                    "water",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anticipation",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

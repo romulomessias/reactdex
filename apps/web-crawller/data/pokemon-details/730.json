@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "730",
+    "defaultName": "Primarina",
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "forms": [
+        "Primarina"
+    ],
+    "formsDetails": {
+        "primarina": {
+            "name": "Primarina",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "defense": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "spAtk": {
+                    "base": "126",
+                    "min": "231",
+                    "max": "386"
+                },
+                "spDef": {
+                    "base": "116",
+                    "min": "213",
+                    "max": "364"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "730",
+                "species": "Soloist Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "44.0 kg (97.0 lbs)",
+                "types": [
+                    "water",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Liquid Voice",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

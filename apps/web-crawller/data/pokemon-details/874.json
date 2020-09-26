@@ -1,0 +1,63 @@
+{
+    "generation": 8,
+    "number": "874",
+    "defaultName": "Stonjourner",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Stonjourner"
+    ],
+    "formsDetails": {
+        "stonjourner": {
+            "name": "Stonjourner",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spAtk": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spDef": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "874",
+                "species": "Big Rock Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "520.0 kg (1146.4 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Power Spot",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

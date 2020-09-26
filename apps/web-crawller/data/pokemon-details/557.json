@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "557",
+    "defaultName": "Dwebble",
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "forms": [
+        "Dwebble"
+    ],
+    "formsDetails": {
+        "dwebble": {
+            "name": "Dwebble",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "557",
+                "species": "Rock Inn Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "14.5 kg (32.0 lbs)",
+                "types": [
+                    "bug",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

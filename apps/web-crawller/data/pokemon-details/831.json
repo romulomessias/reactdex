@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "831",
+    "defaultName": "Wooloo",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Wooloo"
+    ],
+    "formsDetails": {
+        "wooloo": {
+            "name": "Wooloo",
+            "stats": {
+                "hp": {
+                    "base": "42",
+                    "min": "194",
+                    "max": "288"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "831",
+                "species": "Sheep Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "6.0 kg (13.2 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Fluffy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

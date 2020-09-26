@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "311",
+    "defaultName": "Plusle",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Plusle"
+    ],
+    "formsDetails": {
+        "plusle": {
+            "name": "Plusle",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "311",
+                "species": "Cheering Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.2 kg (9.3 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Plus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

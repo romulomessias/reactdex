@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "608",
+    "defaultName": "Lampent",
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "forms": [
+        "Lampent"
+    ],
+    "formsDetails": {
+        "lampent": {
+            "name": "Lampent",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "608",
+                "species": "Lamp Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "13.0 kg (28.7 lbs)",
+                "types": [
+                    "ghost",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

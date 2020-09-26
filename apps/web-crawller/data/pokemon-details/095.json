@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "095",
+    "defaultName": "Onix",
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "forms": [
+        "Onix"
+    ],
+    "formsDetails": {
+        "onix": {
+            "name": "Onix",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "095",
+                "species": "Rock Snake Pokémon",
+                "height": "8.8 m (28′10″)",
+                "weight": "210.0 kg (463.0 lbs)",
+                "types": [
+                    "rock",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

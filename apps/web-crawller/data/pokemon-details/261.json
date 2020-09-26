@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "261",
+    "defaultName": "Poochyena",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Poochyena"
+    ],
+    "formsDetails": {
+        "poochyena": {
+            "name": "Poochyena",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "261",
+                "species": "Bite Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "13.6 kg (30.0 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

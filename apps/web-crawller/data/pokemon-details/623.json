@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "623",
+    "defaultName": "Golurk",
+    "types": [
+        "ground",
+        "ghost"
+    ],
+    "forms": [
+        "Golurk"
+    ],
+    "formsDetails": {
+        "golurk": {
+            "name": "Golurk",
+            "stats": {
+                "hp": {
+                    "base": "89",
+                    "min": "288",
+                    "max": "382"
+                },
+                "attack": {
+                    "base": "124",
+                    "min": "227",
+                    "max": "381"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "623",
+                "species": "Automaton Pokémon",
+                "height": "2.8 m (9′02″)",
+                "weight": "330.0 kg (727.5 lbs)",
+                "types": [
+                    "ground",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Klutz",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "No Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

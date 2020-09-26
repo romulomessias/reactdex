@@ -1,0 +1,65 @@
+{
+    "generation": 1,
+    "number": "093",
+    "defaultName": "Haunter",
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "forms": [
+        "Haunter"
+    ],
+    "formsDetails": {
+        "haunter": {
+            "name": "Haunter",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "093",
+                "species": "Gas Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "0.1 kg (0.2 lbs)",
+                "types": [
+                    "ghost",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "357",
+    "defaultName": "Tropius",
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "forms": [
+        "Tropius"
+    ],
+    "formsDetails": {
+        "tropius": {
+            "name": "Tropius",
+            "stats": {
+                "hp": {
+                    "base": "99",
+                    "min": "308",
+                    "max": "402"
+                },
+                "attack": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "defense": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spAtk": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spDef": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "speed": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                }
+            },
+            "info": {
+                "number": "357",
+                "species": "Fruit Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "100.0 kg (220.5 lbs)",
+                "types": [
+                    "grass",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solar Power",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Harvest",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

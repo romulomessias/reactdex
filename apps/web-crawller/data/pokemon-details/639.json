@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "639",
+    "defaultName": "Terrakion",
+    "types": [
+        "rock",
+        "fighting"
+    ],
+    "forms": [
+        "Terrakion"
+    ],
+    "formsDetails": {
+        "terrakion": {
+            "name": "Terrakion",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "129",
+                    "min": "236",
+                    "max": "392"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "639",
+                "species": "Cavern Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "260.0 kg (573.2 lbs)",
+                "types": [
+                    "rock",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Justified",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

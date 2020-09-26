@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "594",
+    "defaultName": "Alomomola",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Alomomola"
+    ],
+    "formsDetails": {
+        "alomomola": {
+            "name": "Alomomola",
+            "stats": {
+                "hp": {
+                    "base": "165",
+                    "min": "440",
+                    "max": "534"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "594",
+                "species": "Caring Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "31.6 kg (69.7 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Healer",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

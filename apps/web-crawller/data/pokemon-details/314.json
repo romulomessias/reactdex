@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "314",
+    "defaultName": "Illumise",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Illumise"
+    ],
+    "formsDetails": {
+        "illumise": {
+            "name": "Illumise",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "314",
+                "species": "Firefly Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "17.7 kg (39.0 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tinted Lens",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Prankster",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

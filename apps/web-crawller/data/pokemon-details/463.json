@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "463",
+    "defaultName": "Lickilicky",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Lickilicky"
+    ],
+    "formsDetails": {
+        "lickilicky": {
+            "name": "Lickilicky",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "463",
+                "species": "Licking Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "140.0 kg (308.6 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cloud Nine",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "436",
+    "defaultName": "Bronzor",
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "forms": [
+        "Bronzor"
+    ],
+    "formsDetails": {
+        "bronzor": {
+            "name": "Bronzor",
+            "stats": {
+                "hp": {
+                    "base": "57",
+                    "min": "224",
+                    "max": "318"
+                },
+                "attack": {
+                    "base": "24",
+                    "min": "47",
+                    "max": "161"
+                },
+                "defense": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "spAtk": {
+                    "base": "24",
+                    "min": "47",
+                    "max": "161"
+                },
+                "spDef": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "speed": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                }
+            },
+            "info": {
+                "number": "436",
+                "species": "Bronze Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "60.5 kg (133.4 lbs)",
+                "types": [
+                    "steel",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heatproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heavy Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

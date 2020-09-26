@@ -1,0 +1,69 @@
+{
+    "generation": 5,
+    "number": "591",
+    "defaultName": "Amoonguss",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "forms": [
+        "Amoonguss"
+    ],
+    "formsDetails": {
+        "amoonguss": {
+            "name": "Amoonguss",
+            "stats": {
+                "hp": {
+                    "base": "114",
+                    "min": "338",
+                    "max": "432"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "591",
+                "species": "Mushroom Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "10.5 kg (23.1 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

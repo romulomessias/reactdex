@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "068",
+    "defaultName": "Machamp",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Machamp"
+    ],
+    "formsDetails": {
+        "machamp": {
+            "name": "Machamp",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "068",
+                "species": "Superpower Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "130.0 kg (286.6 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "No Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steadfast",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

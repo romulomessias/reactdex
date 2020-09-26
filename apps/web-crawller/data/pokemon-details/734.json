@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "734",
+    "defaultName": "Yungoos",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Yungoos"
+    ],
+    "formsDetails": {
+        "yungoos": {
+            "name": "Yungoos",
+            "stats": {
+                "hp": {
+                    "base": "48",
+                    "min": "206",
+                    "max": "300"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "734",
+                "species": "Loitering Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "6.0 kg (13.2 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stakeout",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

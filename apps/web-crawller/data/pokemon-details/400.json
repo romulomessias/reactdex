@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "400",
+    "defaultName": "Bibarel",
+    "types": [
+        "normal",
+        "water"
+    ],
+    "forms": [
+        "Bibarel"
+    ],
+    "formsDetails": {
+        "bibarel": {
+            "name": "Bibarel",
+            "stats": {
+                "hp": {
+                    "base": "79",
+                    "min": "268",
+                    "max": "362"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "400",
+                "species": "Beaver Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "31.5 kg (69.4 lbs)",
+                "types": [
+                    "normal",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Simple",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unaware",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moody",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

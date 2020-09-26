@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "702",
+    "defaultName": "Dedenne",
+    "types": [
+        "electric",
+        "fairy"
+    ],
+    "forms": [
+        "Dedenne"
+    ],
+    "formsDetails": {
+        "dedenne": {
+            "name": "Dedenne",
+            "stats": {
+                "hp": {
+                    "base": "67",
+                    "min": "244",
+                    "max": "338"
+                },
+                "attack": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "defense": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "spAtk": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "spDef": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "speed": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                }
+            },
+            "info": {
+                "number": "702",
+                "species": "Antenna Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "2.2 kg (4.9 lbs)",
+                "types": [
+                    "electric",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cheek Pouch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Plus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

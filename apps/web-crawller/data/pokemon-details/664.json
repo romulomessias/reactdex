@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "664",
+    "defaultName": "Scatterbug",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Scatterbug"
+    ],
+    "formsDetails": {
+        "scatterbug": {
+            "name": "Scatterbug",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "27",
+                    "min": "53",
+                    "max": "168"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "664",
+                "species": "Scatterdust Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.5 kg (5.5 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Compound Eyes",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

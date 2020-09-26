@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "706",
+    "defaultName": "Goodra",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Goodra"
+    ],
+    "formsDetails": {
+        "goodra": {
+            "name": "Goodra",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "706",
+                "species": "Dragon Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "150.5 kg (331.8 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gooey",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

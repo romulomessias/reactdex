@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "160",
+    "defaultName": "Feraligatr",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Feraligatr"
+    ],
+    "formsDetails": {
+        "feraligatr": {
+            "name": "Feraligatr",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "spDef": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "speed": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                }
+            },
+            "info": {
+                "number": "160",
+                "species": "Big Jaw Pokémon",
+                "height": "2.3 m (7′07″)",
+                "weight": "88.8 kg (195.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

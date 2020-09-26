@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "331",
+    "defaultName": "Cacnea",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Cacnea"
+    ],
+    "formsDetails": {
+        "cacnea": {
+            "name": "Cacnea",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "331",
+                "species": "Cactus Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "51.3 kg (113.1 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

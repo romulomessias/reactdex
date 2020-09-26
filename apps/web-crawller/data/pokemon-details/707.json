@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "707",
+    "defaultName": "Klefki",
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "forms": [
+        "Klefki"
+    ],
+    "formsDetails": {
+        "klefki": {
+            "name": "Klefki",
+            "stats": {
+                "hp": {
+                    "base": "57",
+                    "min": "224",
+                    "max": "318"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "707",
+                "species": "Key Ring Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "3.0 kg (6.6 lbs)",
+                "types": [
+                    "steel",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prankster",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

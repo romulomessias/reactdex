@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "817",
+    "defaultName": "Drizzile",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Drizzile"
+    ],
+    "formsDetails": {
+        "drizzile": {
+            "name": "Drizzile",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "817",
+                "species": "Water lizard Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "11.5 kg (25.4 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

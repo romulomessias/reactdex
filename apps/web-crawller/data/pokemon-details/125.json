@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "number": "125",
+    "defaultName": "Electabuzz",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Electabuzz"
+    ],
+    "formsDetails": {
+        "electabuzz": {
+            "name": "Electabuzz",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "defense": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "125",
+                "species": "Electric Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "30.0 kg (66.1 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

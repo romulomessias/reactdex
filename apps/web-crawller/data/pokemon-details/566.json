@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "566",
+    "defaultName": "Archen",
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "forms": [
+        "Archen"
+    ],
+    "formsDetails": {
+        "archen": {
+            "name": "Archen",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "566",
+                "species": "First Bird Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.5 kg (20.9 lbs)",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Defeatist",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

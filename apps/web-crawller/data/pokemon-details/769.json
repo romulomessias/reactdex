@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "769",
+    "defaultName": "Sandygast",
+    "types": [
+        "ghost",
+        "ground"
+    ],
+    "forms": [
+        "Sandygast"
+    ],
+    "formsDetails": {
+        "sandygast": {
+            "name": "Sandygast",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "769",
+                "species": "Sand Heap Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "70.0 kg (154.3 lbs)",
+                "types": [
+                    "ghost",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Compaction",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

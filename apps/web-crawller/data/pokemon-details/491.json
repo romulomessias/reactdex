@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "491",
+    "defaultName": "Darkrai",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Darkrai"
+    ],
+    "formsDetails": {
+        "darkrai": {
+            "name": "Darkrai",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                }
+            },
+            "info": {
+                "number": "491",
+                "species": "Pitch-Black Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "50.5 kg (111.3 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Bad Dreams",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

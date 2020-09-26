@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "832",
+    "defaultName": "Dubwool",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Dubwool"
+    ],
+    "formsDetails": {
+        "dubwool": {
+            "name": "Dubwool",
+            "stats": {
+                "hp": {
+                    "base": "72",
+                    "min": "254",
+                    "max": "348"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "88",
+                    "min": "162",
+                    "max": "302"
+                }
+            },
+            "info": {
+                "number": "832",
+                "species": "Sheep Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "43.0 kg (94.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Fluffy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

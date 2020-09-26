@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "101",
+    "defaultName": "Electrode",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Electrode"
+    ],
+    "formsDetails": {
+        "electrode": {
+            "name": "Electrode",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                }
+            },
+            "info": {
+                "number": "101",
+                "species": "Ball Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "66.6 kg (146.8 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aftermath",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

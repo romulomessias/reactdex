@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "140",
+    "defaultName": "Kabuto",
+    "types": [
+        "rock",
+        "water"
+    ],
+    "forms": [
+        "Kabuto"
+    ],
+    "formsDetails": {
+        "kabuto": {
+            "name": "Kabuto",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "140",
+                "species": "Shellfish Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "11.5 kg (25.4 lbs)",
+                "types": [
+                    "rock",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

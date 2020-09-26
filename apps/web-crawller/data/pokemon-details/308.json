@@ -1,0 +1,121 @@
+{
+    "generation": 3,
+    "number": "308",
+    "defaultName": "Medicham",
+    "types": [
+        "fighting",
+        "psychic"
+    ],
+    "forms": [
+        "Medicham",
+        "Mega Medicham"
+    ],
+    "formsDetails": {
+        "medicham": {
+            "name": "Medicham",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "308",
+                "species": "Meditate Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "31.5 kg (69.4 lbs)",
+                "types": [
+                    "fighting",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pure Power",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaMedicham": {
+            "name": "Mega Medicham",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "308",
+                "species": "Meditate Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "31.5 kg (69.4 lbs)",
+                "types": [
+                    "fighting",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pure Power",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

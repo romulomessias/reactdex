@@ -1,0 +1,118 @@
+{
+    "generation": 1,
+    "number": "009",
+    "defaultName": "Blastoise",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Blastoise",
+        "Mega Blastoise"
+    ],
+    "formsDetails": {
+        "blastoise": {
+            "name": "Blastoise",
+            "stats": {
+                "hp": {
+                    "base": "79",
+                    "min": "268",
+                    "max": "362"
+                },
+                "attack": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                }
+            },
+            "info": {
+                "number": "009",
+                "species": "Shellfish Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "85.5 kg (188.5 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaBlastoise": {
+            "name": "Mega Blastoise",
+            "stats": {
+                "hp": {
+                    "base": "79",
+                    "min": "268",
+                    "max": "362"
+                },
+                "attack": {
+                    "base": "103",
+                    "min": "189",
+                    "max": "335"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                }
+            },
+            "info": {
+                "number": "009",
+                "species": "Shellfish Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "101.1 kg (222.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mega Launcher",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

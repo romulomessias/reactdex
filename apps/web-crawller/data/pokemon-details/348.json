@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "348",
+    "defaultName": "Armaldo",
+    "types": [
+        "rock",
+        "bug"
+    ],
+    "forms": [
+        "Armaldo"
+    ],
+    "formsDetails": {
+        "armaldo": {
+            "name": "Armaldo",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "348",
+                "species": "Plate Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "68.2 kg (150.4 lbs)",
+                "types": [
+                    "rock",
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

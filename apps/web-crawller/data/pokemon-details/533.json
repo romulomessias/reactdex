@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "533",
+    "defaultName": "Gurdurr",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Gurdurr"
+    ],
+    "formsDetails": {
+        "gurdurr": {
+            "name": "Gurdurr",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "533",
+                "species": "Muscular Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "272",
+    "defaultName": "Ludicolo",
+    "types": [
+        "water",
+        "grass"
+    ],
+    "forms": [
+        "Ludicolo"
+    ],
+    "formsDetails": {
+        "ludicolo": {
+            "name": "Ludicolo",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "272",
+                "species": "Carefree Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "55.0 kg (121.3 lbs)",
+                "types": [
+                    "water",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

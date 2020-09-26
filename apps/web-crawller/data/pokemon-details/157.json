@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "157",
+    "defaultName": "Typhlosion",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Typhlosion"
+    ],
+    "formsDetails": {
+        "typhlosion": {
+            "name": "Typhlosion",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                },
+                "defense": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spAtk": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "157",
+                "species": "Volcano Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "79.5 kg (175.3 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "generation": 1,
+    "number": "020",
+    "defaultName": "Raticate",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Raticate",
+        "Alolan Raticate"
+    ],
+    "formsDetails": {
+        "raticate": {
+            "name": "Raticate",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                }
+            },
+            "info": {
+                "number": "020",
+                "species": "Mouse Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "18.5 kg (40.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanRaticate": {
+            "name": "Alolan Raticate",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                }
+            },
+            "info": {
+                "number": "020",
+                "species": "Mouse Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "25.5 kg (56.2 lbs)",
+                "types": [
+                    "dark",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "073",
+    "defaultName": "Tentacruel",
+    "types": [
+        "water",
+        "poison"
+    ],
+    "forms": [
+        "Tentacruel"
+    ],
+    "formsDetails": {
+        "tentacruel": {
+            "name": "Tentacruel",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "073",
+                "species": "Jellyfish Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "55.0 kg (121.3 lbs)",
+                "types": [
+                    "water",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Liquid Ooze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

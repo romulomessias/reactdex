@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "518",
+    "defaultName": "Musharna",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Musharna"
+    ],
+    "formsDetails": {
+        "musharna": {
+            "name": "Musharna",
+            "stats": {
+                "hp": {
+                    "base": "116",
+                    "min": "342",
+                    "max": "436"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                }
+            },
+            "info": {
+                "number": "518",
+                "species": "Drowsing Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "60.5 kg (133.4 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Forewarn",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "generation": 4,
+    "number": "413",
+    "defaultName": "Wormadam",
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "forms": [
+        "Plant Cloak",
+        "Sandy Cloak",
+        "Trash Cloak"
+    ],
+    "formsDetails": {
+        "plantCloak": {
+            "name": "Plant Cloak",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "413",
+                "species": "Bagworm Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "bug",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Anticipation",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "sandyCloak": {
+            "name": "Sandy Cloak",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "413",
+                "species": "Bagworm Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "bug",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Anticipation",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "trashCloak": {
+            "name": "Trash Cloak",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "413",
+                "species": "Bagworm Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "bug",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Anticipation",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

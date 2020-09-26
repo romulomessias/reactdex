@@ -1,0 +1,219 @@
+{
+    "generation": 7,
+    "number": "800",
+    "defaultName": "Necrozma",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Necrozma",
+        "Dusk Mane Necrozma",
+        "Dawn Wings Necrozma",
+        "Ultra Necrozma"
+    ],
+    "formsDetails": {
+        "necrozma": {
+            "name": "Necrozma",
+            "stats": {
+                "hp": {
+                    "base": "97",
+                    "min": "304",
+                    "max": "398"
+                },
+                "attack": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "defense": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "spAtk": {
+                    "base": "127",
+                    "min": "233",
+                    "max": "388"
+                },
+                "spDef": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "speed": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                }
+            },
+            "info": {
+                "number": "800",
+                "species": "Prism Pokémon",
+                "height": "2.4 m (7′10″)",
+                "weight": "230.0 kg (507.1 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prism Armor",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "duskManeNecrozma": {
+            "name": "Dusk Mane Necrozma",
+            "stats": {
+                "hp": {
+                    "base": "97",
+                    "min": "304",
+                    "max": "398"
+                },
+                "attack": {
+                    "base": "157",
+                    "min": "287",
+                    "max": "454"
+                },
+                "defense": {
+                    "base": "127",
+                    "min": "233",
+                    "max": "388"
+                },
+                "spAtk": {
+                    "base": "113",
+                    "min": "207",
+                    "max": "357"
+                },
+                "spDef": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "speed": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                }
+            },
+            "info": {
+                "number": "800",
+                "species": "Prism Pokémon",
+                "height": "3.8 m (12′06″)",
+                "weight": "460.0 kg (1014.1 lbs)",
+                "types": [
+                    "psychic",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prism Armor",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "dawnWingsNecrozma": {
+            "name": "Dawn Wings Necrozma",
+            "stats": {
+                "hp": {
+                    "base": "97",
+                    "min": "304",
+                    "max": "398"
+                },
+                "attack": {
+                    "base": "113",
+                    "min": "207",
+                    "max": "357"
+                },
+                "defense": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "spAtk": {
+                    "base": "157",
+                    "min": "287",
+                    "max": "454"
+                },
+                "spDef": {
+                    "base": "127",
+                    "min": "233",
+                    "max": "388"
+                },
+                "speed": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                }
+            },
+            "info": {
+                "number": "800",
+                "species": "Prism Pokémon",
+                "height": "4.2 m (13′09″)",
+                "weight": "350.0 kg (771.6 lbs)",
+                "types": [
+                    "psychic",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prism Armor",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "ultraNecrozma": {
+            "name": "Ultra Necrozma",
+            "stats": {
+                "hp": {
+                    "base": "97",
+                    "min": "304",
+                    "max": "398"
+                },
+                "attack": {
+                    "base": "167",
+                    "min": "305",
+                    "max": "476"
+                },
+                "defense": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spAtk": {
+                    "base": "167",
+                    "min": "305",
+                    "max": "476"
+                },
+                "spDef": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "speed": {
+                    "base": "129",
+                    "min": "236",
+                    "max": "392"
+                }
+            },
+            "info": {
+                "number": "800",
+                "species": "Prism Pokémon",
+                "height": "7.5 m (24′07″)",
+                "weight": "230.0 kg (507.1 lbs)",
+                "types": [
+                    "psychic",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Neuroforce",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

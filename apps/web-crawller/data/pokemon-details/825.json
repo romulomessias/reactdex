@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "825",
+    "defaultName": "Dottler",
+    "types": [
+        "bug",
+        "psychic"
+    ],
+    "forms": [
+        "Dottler"
+    ],
+    "formsDetails": {
+        "dottler": {
+            "name": "Dottler",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "825",
+                "species": "Radome Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "19.5 kg (43.0 lbs)",
+                "types": [
+                    "bug",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Compound Eyes",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

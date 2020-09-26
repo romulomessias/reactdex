@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "438",
+    "defaultName": "Bonsly",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Bonsly"
+    ],
+    "formsDetails": {
+        "bonsly": {
+            "name": "Bonsly",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                }
+            },
+            "info": {
+                "number": "438",
+                "species": "Bonsai Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "15.0 kg (33.1 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

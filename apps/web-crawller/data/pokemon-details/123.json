@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "123",
+    "defaultName": "Scyther",
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "forms": [
+        "Scyther"
+    ],
+    "formsDetails": {
+        "scyther": {
+            "name": "Scyther",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "123",
+                "species": "Mantis Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "56.0 kg (123.5 lbs)",
+                "types": [
+                    "bug",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steadfast",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

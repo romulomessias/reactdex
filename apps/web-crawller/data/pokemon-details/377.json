@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "377",
+    "defaultName": "Regirock",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Regirock"
+    ],
+    "formsDetails": {
+        "regirock": {
+            "name": "Regirock",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "200",
+                    "min": "364",
+                    "max": "548"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "377",
+                "species": "Rock Peak Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "230.0 kg (507.1 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

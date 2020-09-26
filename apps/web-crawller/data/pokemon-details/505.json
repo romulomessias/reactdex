@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "505",
+    "defaultName": "Watchog",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Watchog"
+    ],
+    "formsDetails": {
+        "watchog": {
+            "name": "Watchog",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "speed": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                }
+            },
+            "info": {
+                "number": "505",
+                "species": "Lookout Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "27.0 kg (59.5 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illuminate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

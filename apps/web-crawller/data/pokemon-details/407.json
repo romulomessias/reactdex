@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "407",
+    "defaultName": "Roserade",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "forms": [
+        "Roserade"
+    ],
+    "formsDetails": {
+        "roserade": {
+            "name": "Roserade",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "407",
+                "species": "Bouquet Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "14.5 kg (32.0 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

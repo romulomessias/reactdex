@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "540",
+    "defaultName": "Sewaddle",
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "forms": [
+        "Sewaddle"
+    ],
+    "formsDetails": {
+        "sewaddle": {
+            "name": "Sewaddle",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                }
+            },
+            "info": {
+                "number": "540",
+                "species": "Sewing Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.5 kg (5.5 lbs)",
+                "types": [
+                    "bug",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

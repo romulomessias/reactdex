@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "694",
+    "defaultName": "Helioptile",
+    "types": [
+        "electric",
+        "normal"
+    ],
+    "forms": [
+        "Helioptile"
+    ],
+    "formsDetails": {
+        "helioptile": {
+            "name": "Helioptile",
+            "stats": {
+                "hp": {
+                    "base": "44",
+                    "min": "198",
+                    "max": "292"
+                },
+                "attack": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "defense": {
+                    "base": "33",
+                    "min": "63",
+                    "max": "181"
+                },
+                "spAtk": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spDef": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "694",
+                "species": "Generator Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "6.0 kg (13.2 lbs)",
+                "types": [
+                    "electric",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dry Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solar Power",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

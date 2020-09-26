@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "857",
+    "defaultName": "Hattrem",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Hattrem"
+    ],
+    "formsDetails": {
+        "hattrem": {
+            "name": "Hattrem",
+            "stats": {
+                "hp": {
+                    "base": "57",
+                    "min": "224",
+                    "max": "318"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "spDef": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "speed": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                }
+            },
+            "info": {
+                "number": "857",
+                "species": "Serene Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "4.8 kg (10.6 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Healer",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anticipation",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Bounce",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

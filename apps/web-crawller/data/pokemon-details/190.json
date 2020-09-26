@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "190",
+    "defaultName": "Aipom",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Aipom"
+    ],
+    "formsDetails": {
+        "aipom": {
+            "name": "Aipom",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "190",
+                "species": "Long Tail Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "11.5 kg (25.4 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Skill Link",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "generation": 5,
+    "number": "597",
+    "defaultName": "Ferroseed",
+    "types": [
+        "grass",
+        "steel"
+    ],
+    "forms": [
+        "Ferroseed"
+    ],
+    "formsDetails": {
+        "ferroseed": {
+            "name": "Ferroseed",
+            "stats": {
+                "hp": {
+                    "base": "44",
+                    "min": "198",
+                    "max": "292"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "spAtk": {
+                    "base": "24",
+                    "min": "47",
+                    "max": "161"
+                },
+                "spDef": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "speed": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                }
+            },
+            "info": {
+                "number": "597",
+                "species": "Thorn Seed Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "18.8 kg (41.4 lbs)",
+                "types": [
+                    "grass",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Barbs",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anticipation",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

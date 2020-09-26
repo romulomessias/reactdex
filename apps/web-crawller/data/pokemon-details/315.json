@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "315",
+    "defaultName": "Roselia",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "forms": [
+        "Roselia"
+    ],
+    "formsDetails": {
+        "roselia": {
+            "name": "Roselia",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "315",
+                "species": "Thorn Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.0 kg (4.4 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

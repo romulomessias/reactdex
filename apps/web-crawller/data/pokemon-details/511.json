@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "511",
+    "defaultName": "Pansage",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Pansage"
+    ],
+    "formsDetails": {
+        "pansage": {
+            "name": "Pansage",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                }
+            },
+            "info": {
+                "number": "511",
+                "species": "Grass Monkey Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "10.5 kg (23.1 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overgrow",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

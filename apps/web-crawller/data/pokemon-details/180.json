@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "180",
+    "defaultName": "Flaaffy",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Flaaffy"
+    ],
+    "formsDetails": {
+        "flaaffy": {
+            "name": "Flaaffy",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "180",
+                "species": "Wool Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "13.3 kg (29.3 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Plus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

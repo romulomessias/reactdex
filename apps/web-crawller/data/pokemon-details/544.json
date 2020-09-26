@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "544",
+    "defaultName": "Whirlipede",
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "forms": [
+        "Whirlipede"
+    ],
+    "formsDetails": {
+        "whirlipede": {
+            "name": "Whirlipede",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "speed": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                }
+            },
+            "info": {
+                "number": "544",
+                "species": "Curlipede Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "58.5 kg (129.0 lbs)",
+                "types": [
+                    "bug",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Speed Boost",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

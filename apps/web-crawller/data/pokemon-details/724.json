@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "724",
+    "defaultName": "Decidueye",
+    "types": [
+        "grass",
+        "ghost"
+    ],
+    "forms": [
+        "Decidueye"
+    ],
+    "formsDetails": {
+        "decidueye": {
+            "name": "Decidueye",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "724",
+                "species": "Arrow Quill Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "36.6 kg (80.7 lbs)",
+                "types": [
+                    "grass",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Long Reach",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

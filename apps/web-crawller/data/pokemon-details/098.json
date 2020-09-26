@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "098",
+    "defaultName": "Krabby",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Krabby"
+    ],
+    "formsDetails": {
+        "krabby": {
+            "name": "Krabby",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "098",
+                "species": "River Crab Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

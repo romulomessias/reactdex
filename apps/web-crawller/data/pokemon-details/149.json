@@ -1,0 +1,69 @@
+{
+    "generation": 1,
+    "number": "149",
+    "defaultName": "Dragonite",
+    "types": [
+        "dragon",
+        "flying"
+    ],
+    "forms": [
+        "Dragonite"
+    ],
+    "formsDetails": {
+        "dragonite": {
+            "name": "Dragonite",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "134",
+                    "min": "245",
+                    "max": "403"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "149",
+                "species": "Dragon Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "210.0 kg (463.0 lbs)",
+                "types": [
+                    "dragon",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Multiscale",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "284",
+    "defaultName": "Masquerain",
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "forms": [
+        "Masquerain"
+    ],
+    "formsDetails": {
+        "masquerain": {
+            "name": "Masquerain",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "284",
+                "species": "Eyeball Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "3.6 kg (7.9 lbs)",
+                "types": [
+                    "bug",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

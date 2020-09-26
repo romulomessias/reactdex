@@ -1,0 +1,125 @@
+{
+    "generation": 3,
+    "number": "323",
+    "defaultName": "Camerupt",
+    "types": [
+        "fire",
+        "ground"
+    ],
+    "forms": [
+        "Camerupt",
+        "Mega Camerupt"
+    ],
+    "formsDetails": {
+        "camerupt": {
+            "name": "Camerupt",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "323",
+                "species": "Eruption Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "220.0 kg (485.0 lbs)",
+                "types": [
+                    "fire",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magma Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solid Rock",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaCamerupt": {
+            "name": "Mega Camerupt",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "323",
+                "species": "Eruption Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "320.5 kg (706.6 lbs)",
+                "types": [
+                    "fire",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "generation": 5,
+    "number": "587",
+    "defaultName": "Emolga",
+    "types": [
+        "electric",
+        "flying"
+    ],
+    "forms": [
+        "Emolga"
+    ],
+    "formsDetails": {
+        "emolga": {
+            "name": "Emolga",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "103",
+                    "min": "189",
+                    "max": "335"
+                }
+            },
+            "info": {
+                "number": "587",
+                "species": "Sky Squirrel Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "electric",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Motor Drive",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "401",
+    "defaultName": "Kricketot",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Kricketot"
+    ],
+    "formsDetails": {
+        "kricketot": {
+            "name": "Kricketot",
+            "stats": {
+                "hp": {
+                    "base": "37",
+                    "min": "184",
+                    "max": "278"
+                },
+                "attack": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "defense": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "speed": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                }
+            },
+            "info": {
+                "number": "401",
+                "species": "Cricket Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.2 kg (4.9 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Run Away",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

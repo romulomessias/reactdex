@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "761",
+    "defaultName": "Bounsweet",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Bounsweet"
+    ],
+    "formsDetails": {
+        "bounsweet": {
+            "name": "Bounsweet",
+            "stats": {
+                "hp": {
+                    "base": "42",
+                    "min": "194",
+                    "max": "288"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "761",
+                "species": "Fruit Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.2 kg (7.1 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

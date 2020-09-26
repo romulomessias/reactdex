@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "536",
+    "defaultName": "Palpitoad",
+    "types": [
+        "water",
+        "ground"
+    ],
+    "forms": [
+        "Palpitoad"
+    ],
+    "formsDetails": {
+        "palpitoad": {
+            "name": "Palpitoad",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                }
+            },
+            "info": {
+                "number": "536",
+                "species": "Vibration Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "17.0 kg (37.5 lbs)",
+                "types": [
+                    "water",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

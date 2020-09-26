@@ -1,0 +1,121 @@
+{
+    "generation": 1,
+    "number": "130",
+    "defaultName": "Gyarados",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Gyarados",
+        "Mega Gyarados"
+    ],
+    "formsDetails": {
+        "gyarados": {
+            "name": "Gyarados",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                }
+            },
+            "info": {
+                "number": "130",
+                "species": "Atrocious Pokémon",
+                "height": "6.5 m (21′04″)",
+                "weight": "235.0 kg (518.1 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaGyarados": {
+            "name": "Mega Gyarados",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "155",
+                    "min": "283",
+                    "max": "449"
+                },
+                "defense": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "speed": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                }
+            },
+            "info": {
+                "number": "130",
+                "species": "Atrocious Pokémon",
+                "height": "6.5 m (21′04″)",
+                "weight": "305.0 kg (672.4 lbs)",
+                "types": [
+                    "water",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

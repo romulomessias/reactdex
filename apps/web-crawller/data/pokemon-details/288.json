@@ -1,0 +1,63 @@
+{
+    "generation": 3,
+    "number": "288",
+    "defaultName": "Vigoroth",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Vigoroth"
+    ],
+    "formsDetails": {
+        "vigoroth": {
+            "name": "Vigoroth",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "288",
+                "species": "Wild Monkey Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "46.5 kg (102.5 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "217",
+    "defaultName": "Ursaring",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Ursaring"
+    ],
+    "formsDetails": {
+        "ursaring": {
+            "name": "Ursaring",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "217",
+                "species": "Hibernator Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "125.8 kg (277.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

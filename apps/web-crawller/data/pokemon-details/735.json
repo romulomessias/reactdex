@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "735",
+    "defaultName": "Gumshoos",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Gumshoos"
+    ],
+    "formsDetails": {
+        "gumshoos": {
+            "name": "Gumshoos",
+            "stats": {
+                "hp": {
+                    "base": "88",
+                    "min": "286",
+                    "max": "380"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "735",
+                "species": "Stakeout Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "14.2 kg (31.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stakeout",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

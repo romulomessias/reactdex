@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "656",
+    "defaultName": "Froakie",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Froakie"
+    ],
+    "formsDetails": {
+        "froakie": {
+            "name": "Froakie",
+            "stats": {
+                "hp": {
+                    "base": "41",
+                    "min": "192",
+                    "max": "286"
+                },
+                "attack": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spDef": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "656",
+                "species": "Bubble Frog Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "7.0 kg (15.4 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Protean",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

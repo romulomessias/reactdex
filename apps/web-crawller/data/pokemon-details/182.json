@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "182",
+    "defaultName": "Bellossom",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Bellossom"
+    ],
+    "formsDetails": {
+        "bellossom": {
+            "name": "Bellossom",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "182",
+                "species": "Flower Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.8 kg (12.8 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Healer",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

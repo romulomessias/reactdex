@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "332",
+    "defaultName": "Cacturne",
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "forms": [
+        "Cacturne"
+    ],
+    "formsDetails": {
+        "cacturne": {
+            "name": "Cacturne",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "332",
+                "species": "Scarecrow Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "77.4 kg (170.6 lbs)",
+                "types": [
+                    "grass",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

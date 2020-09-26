@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "203",
+    "defaultName": "Girafarig",
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "forms": [
+        "Girafarig"
+    ],
+    "formsDetails": {
+        "girafarig": {
+            "name": "Girafarig",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "203",
+                "species": "Long Neck Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "41.5 kg (91.5 lbs)",
+                "types": [
+                    "normal",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "generation": 5,
+    "number": "647",
+    "defaultName": "Keldeo",
+    "types": [
+        "water",
+        "fighting"
+    ],
+    "forms": [
+        "Ordinary Forme",
+        "Resolute Forme"
+    ],
+    "formsDetails": {
+        "ordinaryForme": {
+            "name": "Ordinary Forme",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "129",
+                    "min": "236",
+                    "max": "392"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "647",
+                "species": "Colt Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "48.5 kg (106.9 lbs)",
+                "types": [
+                    "water",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Justified",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "resoluteForme": {
+            "name": "Resolute Forme",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "129",
+                    "min": "236",
+                    "max": "392"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "647",
+                "species": "Colt Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "48.5 kg (106.9 lbs)",
+                "types": [
+                    "water",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Justified",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

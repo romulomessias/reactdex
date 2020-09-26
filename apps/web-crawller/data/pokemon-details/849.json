@@ -1,0 +1,133 @@
+{
+    "generation": 8,
+    "number": "849",
+    "defaultName": "Toxtricity",
+    "types": [
+        "electric",
+        "poison"
+    ],
+    "forms": [
+        "Low Key Form",
+        "Amped Form"
+    ],
+    "formsDetails": {
+        "lowKeyForm": {
+            "name": "Low Key Form",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "114",
+                    "min": "209",
+                    "max": "359"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "849",
+                "species": "Punk Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "electric",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Punk Rock",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Minus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "ampedForm": {
+            "name": "Amped Form",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "114",
+                    "min": "209",
+                    "max": "359"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "849",
+                "species": "Punk Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "electric",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Punk Rock",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Plus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

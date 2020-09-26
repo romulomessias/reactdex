@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "447",
+    "defaultName": "Riolu",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Riolu"
+    ],
+    "formsDetails": {
+        "riolu": {
+            "name": "Riolu",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "447",
+                "species": "Emanation Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "20.2 kg (44.5 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Prankster",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

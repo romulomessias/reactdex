@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "775",
+    "defaultName": "Komala",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Komala"
+    ],
+    "formsDetails": {
+        "komala": {
+            "name": "Komala",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "775",
+                "species": "Drowsing Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "19.9 kg (43.9 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Comatose",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

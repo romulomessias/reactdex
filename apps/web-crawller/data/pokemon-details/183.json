@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "183",
+    "defaultName": "Marill",
+    "types": [
+        "water",
+        "fairy"
+    ],
+    "forms": [
+        "Marill"
+    ],
+    "formsDetails": {
+        "marill": {
+            "name": "Marill",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "183",
+                "species": "Aqua Mouse Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "8.5 kg (18.7 lbs)",
+                "types": [
+                    "water",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Huge Power",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

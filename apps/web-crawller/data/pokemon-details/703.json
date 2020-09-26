@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "703",
+    "defaultName": "Carbink",
+    "types": [
+        "rock",
+        "fairy"
+    ],
+    "forms": [
+        "Carbink"
+    ],
+    "formsDetails": {
+        "carbink": {
+            "name": "Carbink",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "703",
+                "species": "Jewel Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "5.7 kg (12.6 lbs)",
+                "types": [
+                    "rock",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

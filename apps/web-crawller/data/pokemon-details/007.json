@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "number": "007",
+    "defaultName": "Squirtle",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Squirtle"
+    ],
+    "formsDetails": {
+        "squirtle": {
+            "name": "Squirtle",
+            "stats": {
+                "hp": {
+                    "base": "44",
+                    "min": "198",
+                    "max": "292"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "007",
+                "species": "Tiny Turtle Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.0 kg (19.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

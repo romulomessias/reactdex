@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "number": "147",
+    "defaultName": "Dratini",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Dratini"
+    ],
+    "formsDetails": {
+        "dratini": {
+            "name": "Dratini",
+            "stats": {
+                "hp": {
+                    "base": "41",
+                    "min": "192",
+                    "max": "286"
+                },
+                "attack": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "147",
+                "species": "Dragon Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "3.3 kg (7.3 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Marvel Scale",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

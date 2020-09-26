@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "017",
+    "defaultName": "Pidgeotto",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Pidgeotto"
+    ],
+    "formsDetails": {
+        "pidgeotto": {
+            "name": "Pidgeotto",
+            "stats": {
+                "hp": {
+                    "base": "63",
+                    "min": "236",
+                    "max": "330"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "017",
+                "species": "Bird Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "30.0 kg (66.1 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tangled Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

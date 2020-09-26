@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "316",
+    "defaultName": "Gulpin",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Gulpin"
+    ],
+    "formsDetails": {
+        "gulpin": {
+            "name": "Gulpin",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "spDef": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "316",
+                "species": "Stomach Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "10.3 kg (22.7 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Liquid Ooze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sticky Hold",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

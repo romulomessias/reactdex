@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "274",
+    "defaultName": "Nuzleaf",
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "forms": [
+        "Nuzleaf"
+    ],
+    "formsDetails": {
+        "nuzleaf": {
+            "name": "Nuzleaf",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "274",
+                "species": "Wily Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "grass",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickpocket",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

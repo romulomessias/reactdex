@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "442",
+    "defaultName": "Spiritomb",
+    "types": [
+        "ghost",
+        "dark"
+    ],
+    "forms": [
+        "Spiritomb"
+    ],
+    "formsDetails": {
+        "spiritomb": {
+            "name": "Spiritomb",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                },
+                "spAtk": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "spDef": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "442",
+                "species": "Forbidden Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "108.0 kg (238.1 lbs)",
+                "types": [
+                    "ghost",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

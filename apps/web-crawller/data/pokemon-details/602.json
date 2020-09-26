@@ -1,0 +1,63 @@
+{
+    "generation": 5,
+    "number": "602",
+    "defaultName": "Tynamo",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Tynamo"
+    ],
+    "formsDetails": {
+        "tynamo": {
+            "name": "Tynamo",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "602",
+                "species": "EleFish Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

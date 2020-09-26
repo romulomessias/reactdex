@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "467",
+    "defaultName": "Magmortar",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Magmortar"
+    ],
+    "formsDetails": {
+        "magmortar": {
+            "name": "Magmortar",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                }
+            },
+            "info": {
+                "number": "467",
+                "species": "Blast Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "68.0 kg (149.9 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

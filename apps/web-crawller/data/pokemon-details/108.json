@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "108",
+    "defaultName": "Lickitung",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Lickitung"
+    ],
+    "formsDetails": {
+        "lickitung": {
+            "name": "Lickitung",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "108",
+                "species": "Licking Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "65.5 kg (144.4 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cloud Nine",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "834",
+    "defaultName": "Drednaw",
+    "types": [
+        "water",
+        "rock"
+    ],
+    "forms": [
+        "Drednaw"
+    ],
+    "formsDetails": {
+        "drednaw": {
+            "name": "Drednaw",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spDef": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "speed": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                }
+            },
+            "info": {
+                "number": "834",
+                "species": "Bite Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "115.5 kg (254.6 lbs)",
+                "types": [
+                    "water",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

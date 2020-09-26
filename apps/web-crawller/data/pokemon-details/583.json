@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "583",
+    "defaultName": "Vanillish",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Vanillish"
+    ],
+    "formsDetails": {
+        "vanillish": {
+            "name": "Vanillish",
+            "stats": {
+                "hp": {
+                    "base": "51",
+                    "min": "212",
+                    "max": "306"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                }
+            },
+            "info": {
+                "number": "583",
+                "species": "Icy Snow Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "41.0 kg (90.4 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

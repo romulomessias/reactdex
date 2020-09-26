@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "829",
+    "defaultName": "Gossifleur",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Gossifleur"
+    ],
+    "formsDetails": {
+        "gossifleur": {
+            "name": "Gossifleur",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                }
+            },
+            "info": {
+                "number": "829",
+                "species": "Flowering Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "2.2 kg (4.9 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cotton Down",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

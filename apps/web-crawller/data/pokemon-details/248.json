@@ -1,0 +1,121 @@
+{
+    "generation": 2,
+    "number": "248",
+    "defaultName": "Tyranitar",
+    "types": [
+        "rock",
+        "dark"
+    ],
+    "forms": [
+        "Tyranitar",
+        "Mega Tyranitar"
+    ],
+    "formsDetails": {
+        "tyranitar": {
+            "name": "Tyranitar",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "134",
+                    "min": "245",
+                    "max": "403"
+                },
+                "defense": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                }
+            },
+            "info": {
+                "number": "248",
+                "species": "Armor Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "202.0 kg (445.3 lbs)",
+                "types": [
+                    "rock",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Stream",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaTyranitar": {
+            "name": "Mega Tyranitar",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "164",
+                    "min": "299",
+                    "max": "469"
+                },
+                "defense": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "248",
+                "species": "Armor Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "255.0 kg (562.2 lbs)",
+                "types": [
+                    "rock",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Stream",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

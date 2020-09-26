@@ -1,0 +1,69 @@
+{
+    "generation": 1,
+    "number": "042",
+    "defaultName": "Golbat",
+    "types": [
+        "poison",
+        "flying"
+    ],
+    "forms": [
+        "Golbat"
+    ],
+    "formsDetails": {
+        "golbat": {
+            "name": "Golbat",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "042",
+                "species": "Bat Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "55.0 kg (121.3 lbs)",
+                "types": [
+                    "poison",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

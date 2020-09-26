@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "643",
+    "defaultName": "Reshiram",
+    "types": [
+        "dragon",
+        "fire"
+    ],
+    "forms": [
+        "Reshiram"
+    ],
+    "formsDetails": {
+        "reshiram": {
+            "name": "Reshiram",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "643",
+                "species": "Vast White Pokémon",
+                "height": "3.2 m (10′06″)",
+                "weight": "330.0 kg (727.5 lbs)",
+                "types": [
+                    "dragon",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Turboblaze",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

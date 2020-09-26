@@ -1,0 +1,69 @@
+{
+    "generation": 1,
+    "number": "022",
+    "defaultName": "Fearow",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Fearow"
+    ],
+    "formsDetails": {
+        "fearow": {
+            "name": "Fearow",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spDef": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "022",
+                "species": "Beak Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "38.0 kg (83.8 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

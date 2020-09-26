@@ -1,0 +1,90 @@
+{
+    "generation": 1,
+    "number": "145",
+    "defaultName": "Zapdos",
+    "types": [
+        "electric",
+        "flying"
+    ],
+    "forms": [
+        "Zapdos",
+        "Galarian Zapdos"
+    ],
+    "formsDetails": {
+        "zapdos": {
+            "name": "Zapdos",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "145",
+                "species": "Electric Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "52.6 kg (116.0 lbs)",
+                "types": [
+                    "electric",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Static",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianZapdos": {
+            "name": "Galarian Zapdos",
+            "stats": {},
+            "info": {
+                "number": "145",
+                "species": "Strong Legs Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "58.2 kg (128.3 lbs)",
+                "types": [
+                    "fighting",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Defiant",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

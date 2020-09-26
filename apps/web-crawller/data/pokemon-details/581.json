@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "581",
+    "defaultName": "Swanna",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Swanna"
+    ],
+    "formsDetails": {
+        "swanna": {
+            "name": "Swanna",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "defense": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spAtk": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                }
+            },
+            "info": {
+                "number": "581",
+                "species": "White Bird Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "24.2 kg (53.4 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

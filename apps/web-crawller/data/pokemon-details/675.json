@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "675",
+    "defaultName": "Pangoro",
+    "types": [
+        "fighting",
+        "dark"
+    ],
+    "forms": [
+        "Pangoro"
+    ],
+    "formsDetails": {
+        "pangoro": {
+            "name": "Pangoro",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "124",
+                    "min": "227",
+                    "max": "381"
+                },
+                "defense": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spAtk": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "spDef": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "speed": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                }
+            },
+            "info": {
+                "number": "675",
+                "species": "Daunting Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "136.0 kg (299.8 lbs)",
+                "types": [
+                    "fighting",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Scrappy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

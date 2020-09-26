@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "620",
+    "defaultName": "Mienshao",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Mienshao"
+    ],
+    "formsDetails": {
+        "mienshao": {
+            "name": "Mienshao",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "620",
+                "species": "Martial Arts Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "35.5 kg (78.3 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Reckless",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

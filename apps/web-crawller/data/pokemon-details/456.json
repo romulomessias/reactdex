@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "456",
+    "defaultName": "Finneon",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Finneon"
+    ],
+    "formsDetails": {
+        "finneon": {
+            "name": "Finneon",
+            "stats": {
+                "hp": {
+                    "base": "49",
+                    "min": "208",
+                    "max": "302"
+                },
+                "attack": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "defense": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "spAtk": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "spDef": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "speed": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                }
+            },
+            "info": {
+                "number": "456",
+                "species": "Wing Fish Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "7.0 kg (15.4 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Storm Drain",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

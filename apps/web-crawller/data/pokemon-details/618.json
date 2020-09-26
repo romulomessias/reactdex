@@ -1,0 +1,125 @@
+{
+    "generation": 5,
+    "number": "618",
+    "defaultName": "Stunfisk",
+    "types": [
+        "ground",
+        "electric"
+    ],
+    "forms": [
+        "Stunfisk",
+        "Galarian Stunfisk"
+    ],
+    "formsDetails": {
+        "stunfisk": {
+            "name": "Stunfisk",
+            "stats": {
+                "hp": {
+                    "base": "109",
+                    "min": "328",
+                    "max": "422"
+                },
+                "attack": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "defense": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                },
+                "spAtk": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "spDef": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "618",
+                "species": "Trap Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "11.0 kg (24.3 lbs)",
+                "types": [
+                    "ground",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianStunfisk": {
+            "name": "Galarian Stunfisk",
+            "stats": {
+                "hp": {
+                    "base": "109",
+                    "min": "328",
+                    "max": "422"
+                },
+                "attack": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "defense": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                },
+                "spAtk": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "spDef": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "618",
+                "species": "Trap Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "20.5 kg (45.2 lbs)",
+                "types": [
+                    "ground",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mimicry",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

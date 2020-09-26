@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "232",
+    "defaultName": "Donphan",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Donphan"
+    ],
+    "formsDetails": {
+        "donphan": {
+            "name": "Donphan",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "232",
+                "species": "Armor Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

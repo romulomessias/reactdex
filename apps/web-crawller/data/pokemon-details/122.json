@@ -1,0 +1,133 @@
+{
+    "generation": 1,
+    "number": "122",
+    "defaultName": "Mr. Mime",
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "forms": [
+        "Mr. Mime",
+        "Galarian Mr. Mime"
+    ],
+    "formsDetails": {
+        "mr.Mime": {
+            "name": "Mr. Mime",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "122",
+                "species": "Barrier Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "54.5 kg (120.2 lbs)",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Filter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianMr.Mime": {
+            "name": "Galarian Mr. Mime",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "122",
+                "species": "Dancing Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "56.8 kg (125.2 lbs)",
+                "types": [
+                    "psychic",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Screen Cleaner",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "154",
+    "defaultName": "Meganium",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Meganium"
+    ],
+    "formsDetails": {
+        "meganium": {
+            "name": "Meganium",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "154",
+                "species": "Herb Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "100.5 kg (221.6 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

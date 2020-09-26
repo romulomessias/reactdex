@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "116",
+    "defaultName": "Horsea",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Horsea"
+    ],
+    "formsDetails": {
+        "horsea": {
+            "name": "Horsea",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "116",
+                "species": "Dragon Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "8.0 kg (17.6 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

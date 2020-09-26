@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "187",
+    "defaultName": "Hoppip",
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "forms": [
+        "Hoppip"
+    ],
+    "formsDetails": {
+        "hoppip": {
+            "name": "Hoppip",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "187",
+                "species": "Cottonweed Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "0.5 kg (1.1 lbs)",
+                "types": [
+                    "grass",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

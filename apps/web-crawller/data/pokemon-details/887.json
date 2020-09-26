@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "887",
+    "defaultName": "Dragapult",
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "forms": [
+        "Dragapult"
+    ],
+    "formsDetails": {
+        "dragapult": {
+            "name": "Dragapult",
+            "stats": {
+                "hp": {
+                    "base": "88",
+                    "min": "286",
+                    "max": "380"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "142",
+                    "min": "260",
+                    "max": "421"
+                }
+            },
+            "info": {
+                "number": "887",
+                "species": "Stealth Pokémon",
+                "height": "3.0 m (9′10″)",
+                "weight": "50.0 kg (110.2 lbs)",
+                "types": [
+                    "dragon",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

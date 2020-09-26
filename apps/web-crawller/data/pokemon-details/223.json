@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "223",
+    "defaultName": "Remoraid",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Remoraid"
+    ],
+    "formsDetails": {
+        "remoraid": {
+            "name": "Remoraid",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "223",
+                "species": "Jet Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moody",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

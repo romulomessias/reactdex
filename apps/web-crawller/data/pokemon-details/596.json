@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "596",
+    "defaultName": "Galvantula",
+    "types": [
+        "bug",
+        "electric"
+    ],
+    "forms": [
+        "Galvantula"
+    ],
+    "formsDetails": {
+        "galvantula": {
+            "name": "Galvantula",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "596",
+                "species": "EleSpider Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "14.3 kg (31.5 lbs)",
+                "types": [
+                    "bug",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Compound Eyes",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swarm",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

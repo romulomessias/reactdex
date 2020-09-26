@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "379",
+    "defaultName": "Registeel",
+    "types": [
+        "steel"
+    ],
+    "forms": [
+        "Registeel"
+    ],
+    "formsDetails": {
+        "registeel": {
+            "name": "Registeel",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "379",
+                "species": "Iron Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "205.0 kg (451.9 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Light Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

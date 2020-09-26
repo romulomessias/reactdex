@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "565",
+    "defaultName": "Carracosta",
+    "types": [
+        "water",
+        "rock"
+    ],
+    "forms": [
+        "Carracosta"
+    ],
+    "formsDetails": {
+        "carracosta": {
+            "name": "Carracosta",
+            "stats": {
+                "hp": {
+                    "base": "74",
+                    "min": "258",
+                    "max": "352"
+                },
+                "attack": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                },
+                "defense": {
+                    "base": "133",
+                    "min": "243",
+                    "max": "401"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "565",
+                "species": "Prototurtle Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "81.0 kg (178.6 lbs)",
+                "types": [
+                    "water",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Solid Rock",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

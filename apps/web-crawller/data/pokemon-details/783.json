@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "783",
+    "defaultName": "Hakamo-o",
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "forms": [
+        "Hakamo-o"
+    ],
+    "formsDetails": {
+        "hakamo-o": {
+            "name": "Hakamo-o",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "783",
+                "species": "Scaly Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "47.0 kg (103.6 lbs)",
+                "types": [
+                    "dragon",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

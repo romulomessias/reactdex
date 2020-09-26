@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "340",
+    "defaultName": "Whiscash",
+    "types": [
+        "water",
+        "ground"
+    ],
+    "forms": [
+        "Whiscash"
+    ],
+    "formsDetails": {
+        "whiscash": {
+            "name": "Whiscash",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "defense": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "spAtk": {
+                    "base": "76",
+                    "min": "141",
+                    "max": "276"
+                },
+                "spDef": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "340",
+                "species": "Whiskers Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "23.6 kg (52.0 lbs)",
+                "types": [
+                    "water",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anticipation",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

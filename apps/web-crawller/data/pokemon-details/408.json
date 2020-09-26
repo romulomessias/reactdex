@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "408",
+    "defaultName": "Cranidos",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Cranidos"
+    ],
+    "formsDetails": {
+        "cranidos": {
+            "name": "Cranidos",
+            "stats": {
+                "hp": {
+                    "base": "67",
+                    "min": "244",
+                    "max": "338"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                }
+            },
+            "info": {
+                "number": "408",
+                "species": "Head Butt Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "31.5 kg (69.4 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

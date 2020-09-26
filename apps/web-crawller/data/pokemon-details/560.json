@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "560",
+    "defaultName": "Scrafty",
+    "types": [
+        "dark",
+        "fighting"
+    ],
+    "forms": [
+        "Scrafty"
+    ],
+    "formsDetails": {
+        "scrafty": {
+            "name": "Scrafty",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                }
+            },
+            "info": {
+                "number": "560",
+                "species": "Hoodlum Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "30.0 kg (66.1 lbs)",
+                "types": [
+                    "dark",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

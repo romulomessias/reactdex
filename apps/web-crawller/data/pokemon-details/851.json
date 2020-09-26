@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "851",
+    "defaultName": "Centiskorch",
+    "types": [
+        "fire",
+        "bug"
+    ],
+    "forms": [
+        "Centiskorch"
+    ],
+    "formsDetails": {
+        "centiskorch": {
+            "name": "Centiskorch",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "851",
+                "species": "Radiator Pokémon",
+                "height": "3.0 m (9′10″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "fire",
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "White Smoke",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

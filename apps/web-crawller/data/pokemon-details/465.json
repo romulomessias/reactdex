@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "465",
+    "defaultName": "Tangrowth",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Tangrowth"
+    ],
+    "formsDetails": {
+        "tangrowth": {
+            "name": "Tangrowth",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "465",
+                "species": "Vine Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "128.6 kg (283.5 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "749",
+    "defaultName": "Mudbray",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Mudbray"
+    ],
+    "formsDetails": {
+        "mudbray": {
+            "name": "Mudbray",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "749",
+                "species": "Donkey Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "110.0 kg (242.5 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stamina",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

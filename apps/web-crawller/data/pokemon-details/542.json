@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "542",
+    "defaultName": "Leavanny",
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "forms": [
+        "Leavanny"
+    ],
+    "formsDetails": {
+        "leavanny": {
+            "name": "Leavanny",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "103",
+                    "min": "189",
+                    "max": "335"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                }
+            },
+            "info": {
+                "number": "542",
+                "species": "Nurturing Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "20.5 kg (45.2 lbs)",
+                "types": [
+                    "bug",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

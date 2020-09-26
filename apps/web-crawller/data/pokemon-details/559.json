@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "559",
+    "defaultName": "Scraggy",
+    "types": [
+        "dark",
+        "fighting"
+    ],
+    "forms": [
+        "Scraggy"
+    ],
+    "formsDetails": {
+        "scraggy": {
+            "name": "Scraggy",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "559",
+                "species": "Shedding Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "11.8 kg (26.0 lbs)",
+                "types": [
+                    "dark",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

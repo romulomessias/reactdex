@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "575",
+    "defaultName": "Gothorita",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Gothorita"
+    ],
+    "formsDetails": {
+        "gothorita": {
+            "name": "Gothorita",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "575",
+                "species": "Manipulate Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "18.0 kg (39.7 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shadow Tag",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "881",
+    "defaultName": "Arctozolt",
+    "types": [
+        "electric",
+        "ice"
+    ],
+    "forms": [
+        "Arctozolt"
+    ],
+    "formsDetails": {
+        "arctozolt": {
+            "name": "Arctozolt",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "881",
+                "species": "Fossil Pokémon",
+                "height": "2.3 m (7′07″)",
+                "weight": "150.0 kg (330.7 lbs)",
+                "types": [
+                    "electric",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Volt Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Slush Rush",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

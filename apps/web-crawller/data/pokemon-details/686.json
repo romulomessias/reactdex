@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "686",
+    "defaultName": "Inkay",
+    "types": [
+        "dark",
+        "psychic"
+    ],
+    "forms": [
+        "Inkay"
+    ],
+    "formsDetails": {
+        "inkay": {
+            "name": "Inkay",
+            "stats": {
+                "hp": {
+                    "base": "53",
+                    "min": "216",
+                    "max": "310"
+                },
+                "attack": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                },
+                "spDef": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "686",
+                "species": "Revolving Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "3.5 kg (7.7 lbs)",
+                "types": [
+                    "dark",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Contrary",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Suction Cups",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

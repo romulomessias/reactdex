@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "828",
+    "defaultName": "Thievul",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Thievul"
+    ],
+    "formsDetails": {
+        "thievul": {
+            "name": "Thievul",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "defense": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "spAtk": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "spDef": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "828",
+                "species": "Fox Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "19.9 kg (43.9 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stakeout",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "generation": 3,
+    "number": "351",
+    "defaultName": "Castform",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Castform",
+        "Sunny Form",
+        "Rainy Form",
+        "Snowy Form"
+    ],
+    "formsDetails": {
+        "castform": {
+            "name": "Castform",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "351",
+                "species": "Weather Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.8 kg (1.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Forecast",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "sunnyForm": {
+            "name": "Sunny Form",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "351",
+                "species": "Weather Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.8 kg (1.8 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Forecast",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "rainyForm": {
+            "name": "Rainy Form",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "351",
+                "species": "Weather Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.8 kg (1.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Forecast",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "snowyForm": {
+            "name": "Snowy Form",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "351",
+                "species": "Weather Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.8 kg (1.8 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Forecast",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

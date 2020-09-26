@@ -1,0 +1,114 @@
+{
+    "generation": 3,
+    "number": "382",
+    "defaultName": "Kyogre",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Kyogre",
+        "Primal Kyogre"
+    ],
+    "formsDetails": {
+        "kyogre": {
+            "name": "Kyogre",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spDef": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "382",
+                "species": "Sea Basin Pokémon",
+                "height": "4.5 m (14′09″)",
+                "weight": "352.0 kg (776.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Drizzle",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "primalKyogre": {
+            "name": "Primal Kyogre",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                },
+                "spDef": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "382",
+                "species": "Sea Basin Pokémon",
+                "height": "9.8 m (32′02″)",
+                "weight": "430.0 kg (948.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Primordial Sea",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

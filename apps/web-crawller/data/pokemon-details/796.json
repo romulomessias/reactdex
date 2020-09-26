@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "796",
+    "defaultName": "Xurkitree",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Xurkitree"
+    ],
+    "formsDetails": {
+        "xurkitree": {
+            "name": "Xurkitree",
+            "stats": {
+                "hp": {
+                    "base": "83",
+                    "min": "276",
+                    "max": "370"
+                },
+                "attack": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "defense": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "spAtk": {
+                    "base": "173",
+                    "min": "315",
+                    "max": "489"
+                },
+                "spDef": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "speed": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                }
+            },
+            "info": {
+                "number": "796",
+                "species": "Glowing Pokémon",
+                "height": "3.8 m (12′06″)",
+                "weight": "100.0 kg (220.5 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "209",
+    "defaultName": "Snubbull",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Snubbull"
+    ],
+    "formsDetails": {
+        "snubbull": {
+            "name": "Snubbull",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "209",
+                "species": "Fairy Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "7.8 kg (17.2 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

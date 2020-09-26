@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "280",
+    "defaultName": "Ralts",
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "forms": [
+        "Ralts"
+    ],
+    "formsDetails": {
+        "ralts": {
+            "name": "Ralts",
+            "stats": {
+                "hp": {
+                    "base": "28",
+                    "min": "166",
+                    "max": "260"
+                },
+                "attack": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "defense": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "280",
+                "species": "Feeling Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "6.6 kg (14.6 lbs)",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Trace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

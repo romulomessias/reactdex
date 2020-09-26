@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "432",
+    "defaultName": "Purugly",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Purugly"
+    ],
+    "formsDetails": {
+        "purugly": {
+            "name": "Purugly",
+            "stats": {
+                "hp": {
+                    "base": "71",
+                    "min": "252",
+                    "max": "346"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "spAtk": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "spDef": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                },
+                "speed": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                }
+            },
+            "info": {
+                "number": "432",
+                "species": "Tiger Cat Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "43.8 kg (96.6 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

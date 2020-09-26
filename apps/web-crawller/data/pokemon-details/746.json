@@ -1,0 +1,114 @@
+{
+    "generation": 7,
+    "number": "746",
+    "defaultName": "Wishiwashi",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Solo Form",
+        "School Form"
+    ],
+    "formsDetails": {
+        "soloForm": {
+            "name": "Solo Form",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "746",
+                "species": "Small Fry Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Schooling",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "schoolForm": {
+            "name": "School Form",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spAtk": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spDef": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "746",
+                "species": "Small Fry Pokémon",
+                "height": "8.2 m (26′11″)",
+                "weight": "78.6 kg (173.3 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Schooling",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

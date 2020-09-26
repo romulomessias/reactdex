@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "265",
+    "defaultName": "Wurmple",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Wurmple"
+    ],
+    "formsDetails": {
+        "wurmple": {
+            "name": "Wurmple",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "265",
+                "species": "Worm Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.6 kg (7.9 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Run Away",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

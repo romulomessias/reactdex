@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "805",
+    "defaultName": "Stakataka",
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "forms": [
+        "Stakataka"
+    ],
+    "formsDetails": {
+        "stakataka": {
+            "name": "Stakataka",
+            "stats": {
+                "hp": {
+                    "base": "61",
+                    "min": "232",
+                    "max": "326"
+                },
+                "attack": {
+                    "base": "131",
+                    "min": "240",
+                    "max": "397"
+                },
+                "defense": {
+                    "base": "211",
+                    "min": "384",
+                    "max": "573"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "speed": {
+                    "base": "13",
+                    "min": "27",
+                    "max": "137"
+                }
+            },
+            "info": {
+                "number": "805",
+                "species": "Rampart Pokémon",
+                "height": "5.5 m (18′01″)",
+                "weight": "820.0 kg (1807.8 lbs)",
+                "types": [
+                    "rock",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

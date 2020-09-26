@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "355",
+    "defaultName": "Duskull",
+    "types": [
+        "ghost"
+    ],
+    "forms": [
+        "Duskull"
+    ],
+    "formsDetails": {
+        "duskull": {
+            "name": "Duskull",
+            "stats": {
+                "hp": {
+                    "base": "20",
+                    "min": "150",
+                    "max": "244"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                }
+            },
+            "info": {
+                "number": "355",
+                "species": "Requiem Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "15.0 kg (33.1 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

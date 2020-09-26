@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "327",
+    "defaultName": "Spinda",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Spinda"
+    ],
+    "formsDetails": {
+        "spinda": {
+            "name": "Spinda",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "327",
+                "species": "Spot Panda Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tangled Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Contrary",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

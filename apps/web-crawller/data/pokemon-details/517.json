@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "517",
+    "defaultName": "Munna",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Munna"
+    ],
+    "formsDetails": {
+        "munna": {
+            "name": "Munna",
+            "stats": {
+                "hp": {
+                    "base": "76",
+                    "min": "262",
+                    "max": "356"
+                },
+                "attack": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "24",
+                    "min": "47",
+                    "max": "161"
+                }
+            },
+            "info": {
+                "number": "517",
+                "species": "Dream Eater Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "23.3 kg (51.4 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Forewarn",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

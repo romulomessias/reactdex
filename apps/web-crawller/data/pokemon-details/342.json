@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "342",
+    "defaultName": "Crawdaunt",
+    "types": [
+        "water",
+        "dark"
+    ],
+    "forms": [
+        "Crawdaunt"
+    ],
+    "formsDetails": {
+        "crawdaunt": {
+            "name": "Crawdaunt",
+            "stats": {
+                "hp": {
+                    "base": "63",
+                    "min": "236",
+                    "max": "330"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "342",
+                "species": "Rogue Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "32.8 kg (72.3 lbs)",
+                "types": [
+                    "water",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

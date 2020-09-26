@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "300",
+    "defaultName": "Skitty",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Skitty"
+    ],
+    "formsDetails": {
+        "skitty": {
+            "name": "Skitty",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "300",
+                "species": "Kitten Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "11.0 kg (24.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Normalize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Wonder Skin",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

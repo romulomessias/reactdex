@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "106",
+    "defaultName": "Hitmonlee",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Hitmonlee"
+    ],
+    "formsDetails": {
+        "hitmonlee": {
+            "name": "Hitmonlee",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                }
+            },
+            "info": {
+                "number": "106",
+                "species": "Kicking Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "49.8 kg (109.8 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Reckless",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "generation": 4,
+    "number": "460",
+    "defaultName": "Abomasnow",
+    "types": [
+        "grass",
+        "ice"
+    ],
+    "forms": [
+        "Abomasnow",
+        "Mega Abomasnow"
+    ],
+    "formsDetails": {
+        "abomasnow": {
+            "name": "Abomasnow",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "460",
+                "species": "Frost Tree Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "135.5 kg (298.7 lbs)",
+                "types": [
+                    "grass",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Snow Warning",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Soundproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaAbomasnow": {
+            "name": "Mega Abomasnow",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "132",
+                    "min": "242",
+                    "max": "399"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "132",
+                    "min": "242",
+                    "max": "399"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "460",
+                "species": "Frost Tree Pokémon",
+                "height": "2.7 m (8′10″)",
+                "weight": "185.0 kg (407.9 lbs)",
+                "types": [
+                    "grass",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Snow Warning",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

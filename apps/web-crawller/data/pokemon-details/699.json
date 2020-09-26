@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "699",
+    "defaultName": "Aurorus",
+    "types": [
+        "rock",
+        "ice"
+    ],
+    "forms": [
+        "Aurorus"
+    ],
+    "formsDetails": {
+        "aurorus": {
+            "name": "Aurorus",
+            "stats": {
+                "hp": {
+                    "base": "123",
+                    "min": "356",
+                    "max": "450"
+                },
+                "attack": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "defense": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spAtk": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                },
+                "spDef": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "speed": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                }
+            },
+            "info": {
+                "number": "699",
+                "species": "Tundra Pokémon",
+                "height": "2.7 m (8′10″)",
+                "weight": "225.0 kg (496.0 lbs)",
+                "types": [
+                    "rock",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Refrigerate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Warning",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

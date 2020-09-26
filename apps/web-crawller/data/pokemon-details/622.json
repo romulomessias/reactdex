@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "622",
+    "defaultName": "Golett",
+    "types": [
+        "ground",
+        "ghost"
+    ],
+    "forms": [
+        "Golett"
+    ],
+    "formsDetails": {
+        "golett": {
+            "name": "Golett",
+            "stats": {
+                "hp": {
+                    "base": "59",
+                    "min": "228",
+                    "max": "322"
+                },
+                "attack": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "622",
+                "species": "Automaton Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "92.0 kg (202.8 lbs)",
+                "types": [
+                    "ground",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Klutz",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "No Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

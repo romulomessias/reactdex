@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "216",
+    "defaultName": "Teddiursa",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Teddiursa"
+    ],
+    "formsDetails": {
+        "teddiursa": {
+            "name": "Teddiursa",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "216",
+                "species": "Little Bear Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.8 kg (19.4 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Honey Gather",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

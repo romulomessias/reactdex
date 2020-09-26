@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "221",
+    "defaultName": "Piloswine",
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "forms": [
+        "Piloswine"
+    ],
+    "formsDetails": {
+        "piloswine": {
+            "name": "Piloswine",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "221",
+                "species": "Swine Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "55.8 kg (123.0 lbs)",
+                "types": [
+                    "ice",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

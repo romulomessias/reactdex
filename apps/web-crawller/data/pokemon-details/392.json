@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "392",
+    "defaultName": "Infernape",
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "forms": [
+        "Infernape"
+    ],
+    "formsDetails": {
+        "infernape": {
+            "name": "Infernape",
+            "stats": {
+                "hp": {
+                    "base": "76",
+                    "min": "262",
+                    "max": "356"
+                },
+                "attack": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                },
+                "defense": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "spAtk": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                },
+                "spDef": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "392",
+                "species": "Flame Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "55.0 kg (121.3 lbs)",
+                "types": [
+                    "fire",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

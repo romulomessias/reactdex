@@ -1,0 +1,130 @@
+{
+    "generation": 6,
+    "number": "678",
+    "defaultName": "Meowstic",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Male",
+        "Female"
+    ],
+    "formsDetails": {
+        "male": {
+            "name": "Male",
+            "stats": {
+                "hp": {
+                    "base": "74",
+                    "min": "258",
+                    "max": "352"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "76",
+                    "min": "141",
+                    "max": "276"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "speed": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                }
+            },
+            "info": {
+                "number": "678",
+                "species": "Constraint Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.5 kg (18.7 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Prankster",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "female": {
+            "name": "Female",
+            "stats": {
+                "hp": {
+                    "base": "74",
+                    "min": "258",
+                    "max": "352"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "76",
+                    "min": "141",
+                    "max": "276"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "speed": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                }
+            },
+            "info": {
+                "number": "678",
+                "species": "Constraint Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.5 kg (18.7 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

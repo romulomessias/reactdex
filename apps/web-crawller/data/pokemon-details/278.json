@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "278",
+    "defaultName": "Wingull",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Wingull"
+    ],
+    "formsDetails": {
+        "wingull": {
+            "name": "Wingull",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "278",
+                "species": "Seagull Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "9.5 kg (20.9 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

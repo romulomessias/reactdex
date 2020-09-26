@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "286",
+    "defaultName": "Breloom",
+    "types": [
+        "grass",
+        "fighting"
+    ],
+    "forms": [
+        "Breloom"
+    ],
+    "formsDetails": {
+        "breloom": {
+            "name": "Breloom",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "286",
+                "species": "Mushroom Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "39.2 kg (86.4 lbs)",
+                "types": [
+                    "grass",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Heal",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

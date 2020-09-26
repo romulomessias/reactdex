@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "632",
+    "defaultName": "Durant",
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "forms": [
+        "Durant"
+    ],
+    "formsDetails": {
+        "durant": {
+            "name": "Durant",
+            "stats": {
+                "hp": {
+                    "base": "58",
+                    "min": "226",
+                    "max": "320"
+                },
+                "attack": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "defense": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                },
+                "spAtk": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                }
+            },
+            "info": {
+                "number": "632",
+                "species": "Iron Ant Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "33.0 kg (72.8 lbs)",
+                "types": [
+                    "bug",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Truant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "270",
+    "defaultName": "Lotad",
+    "types": [
+        "water",
+        "grass"
+    ],
+    "forms": [
+        "Lotad"
+    ],
+    "formsDetails": {
+        "lotad": {
+            "name": "Lotad",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "270",
+                "species": "Water Weed Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "2.6 kg (5.7 lbs)",
+                "types": [
+                    "water",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

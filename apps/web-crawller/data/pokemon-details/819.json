@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "819",
+    "defaultName": "Skwovet",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Skwovet"
+    ],
+    "formsDetails": {
+        "skwovet": {
+            "name": "Skwovet",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                }
+            },
+            "info": {
+                "number": "819",
+                "species": "Cheeky Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.5 kg (5.5 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cheek Pouch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

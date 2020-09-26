@@ -1,0 +1,122 @@
+{
+    "generation": 3,
+    "number": "310",
+    "defaultName": "Manectric",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Manectric",
+        "Mega Manectric"
+    ],
+    "formsDetails": {
+        "manectric": {
+            "name": "Manectric",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "310",
+                "species": "Discharge Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "40.2 kg (88.6 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Minus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaManectric": {
+            "name": "Mega Manectric",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                }
+            },
+            "info": {
+                "number": "310",
+                "species": "Discharge Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "44.0 kg (97.0 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

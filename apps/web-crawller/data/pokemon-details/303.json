@@ -1,0 +1,125 @@
+{
+    "generation": 3,
+    "number": "303",
+    "defaultName": "Mawile",
+    "types": [
+        "steel",
+        "fairy"
+    ],
+    "forms": [
+        "Mawile",
+        "Mega Mawile"
+    ],
+    "formsDetails": {
+        "mawile": {
+            "name": "Mawile",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "303",
+                "species": "Deceiver Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "11.5 kg (25.4 lbs)",
+                "types": [
+                    "steel",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaMawile": {
+            "name": "Mega Mawile",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "303",
+                "species": "Deceiver Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "23.5 kg (51.8 lbs)",
+                "types": [
+                    "steel",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Huge Power",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

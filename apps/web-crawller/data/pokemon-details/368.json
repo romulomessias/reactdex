@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "368",
+    "defaultName": "Gorebyss",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Gorebyss"
+    ],
+    "formsDetails": {
+        "gorebyss": {
+            "name": "Gorebyss",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "114",
+                    "min": "209",
+                    "max": "359"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                }
+            },
+            "info": {
+                "number": "368",
+                "species": "South Sea Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "22.6 kg (49.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

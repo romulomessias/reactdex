@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "549",
+    "defaultName": "Lilligant",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Lilligant"
+    ],
+    "formsDetails": {
+        "lilligant": {
+            "name": "Lilligant",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "549",
+                "species": "Flowering Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "16.3 kg (35.9 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

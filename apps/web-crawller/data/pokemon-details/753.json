@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "number": "753",
+    "defaultName": "Fomantis",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Fomantis"
+    ],
+    "formsDetails": {
+        "fomantis": {
+            "name": "Fomantis",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "753",
+                "species": "Sickle Grass Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.5 kg (3.3 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Contrary",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

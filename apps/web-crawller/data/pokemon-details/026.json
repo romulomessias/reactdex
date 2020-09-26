@@ -1,0 +1,119 @@
+{
+    "generation": 1,
+    "number": "026",
+    "defaultName": "Raichu",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Raichu",
+        "Alolan Raichu"
+    ],
+    "formsDetails": {
+        "raichu": {
+            "name": "Raichu",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "026",
+                "species": "Mouse Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "30.0 kg (66.1 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanRaichu": {
+            "name": "Alolan Raichu",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "026",
+                "species": "Mouse Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "21.0 kg (46.3 lbs)",
+                "types": [
+                    "electric",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Surge Surfer",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

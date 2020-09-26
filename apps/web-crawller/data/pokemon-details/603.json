@@ -1,0 +1,63 @@
+{
+    "generation": 5,
+    "number": "603",
+    "defaultName": "Eelektrik",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Eelektrik"
+    ],
+    "formsDetails": {
+        "eelektrik": {
+            "name": "Eelektrik",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "603",
+                "species": "EleFish Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "22.0 kg (48.5 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

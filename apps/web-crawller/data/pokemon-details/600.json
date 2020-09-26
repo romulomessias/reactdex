@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "600",
+    "defaultName": "Klang",
+    "types": [
+        "steel"
+    ],
+    "forms": [
+        "Klang"
+    ],
+    "formsDetails": {
+        "klang": {
+            "name": "Klang",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "600",
+                "species": "Gear Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "51.0 kg (112.4 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Plus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Minus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Clear Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

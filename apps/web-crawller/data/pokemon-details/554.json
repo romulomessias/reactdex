@@ -1,0 +1,122 @@
+{
+    "generation": 5,
+    "number": "554",
+    "defaultName": "Darumaka",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Darumaka",
+        "Galarian Darumaka"
+    ],
+    "formsDetails": {
+        "darumaka": {
+            "name": "Darumaka",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "554",
+                "species": "Zen Charm Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "37.5 kg (82.7 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianDarumaka": {
+            "name": "Galarian Darumaka",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "554",
+                "species": "Zen Charm Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

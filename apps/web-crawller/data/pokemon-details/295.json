@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "295",
+    "defaultName": "Exploud",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Exploud"
+    ],
+    "formsDetails": {
+        "exploud": {
+            "name": "Exploud",
+            "stats": {
+                "hp": {
+                    "base": "104",
+                    "min": "318",
+                    "max": "412"
+                },
+                "attack": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "defense": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spAtk": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "spDef": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "speed": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                }
+            },
+            "info": {
+                "number": "295",
+                "species": "Loud Noise Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "84.0 kg (185.2 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Scrappy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "486",
+    "defaultName": "Regigigas",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Regigigas"
+    ],
+    "formsDetails": {
+        "regigigas": {
+            "name": "Regigigas",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "defense": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "486",
+                "species": "Colossal Pokémon",
+                "height": "3.7 m (12′02″)",
+                "weight": "420.0 kg (925.9 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Slow Start",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "521",
+    "defaultName": "Unfezant",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Unfezant"
+    ],
+    "formsDetails": {
+        "unfezant": {
+            "name": "Unfezant",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "93",
+                    "min": "171",
+                    "max": "313"
+                }
+            },
+            "info": {
+                "number": "521",
+                "species": "Proud Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "29.0 kg (63.9 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rivalry",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

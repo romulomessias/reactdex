@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "696",
+    "defaultName": "Tyrunt",
+    "types": [
+        "rock",
+        "dragon"
+    ],
+    "forms": [
+        "Tyrunt"
+    ],
+    "formsDetails": {
+        "tyrunt": {
+            "name": "Tyrunt",
+            "stats": {
+                "hp": {
+                    "base": "58",
+                    "min": "226",
+                    "max": "320"
+                },
+                "attack": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "defense": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "696",
+                "species": "Royal Heir Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "26.0 kg (57.3 lbs)",
+                "types": [
+                    "rock",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

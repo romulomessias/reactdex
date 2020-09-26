@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "225",
+    "defaultName": "Delibird",
+    "types": [
+        "ice",
+        "flying"
+    ],
+    "forms": [
+        "Delibird"
+    ],
+    "formsDetails": {
+        "delibird": {
+            "name": "Delibird",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "225",
+                "species": "Delivery Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "16.0 kg (35.3 lbs)",
+                "types": [
+                    "ice",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Insomnia",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

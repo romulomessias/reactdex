@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "388",
+    "defaultName": "Grotle",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Grotle"
+    ],
+    "formsDetails": {
+        "grotle": {
+            "name": "Grotle",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "388",
+                "species": "Grove Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "97.0 kg (213.8 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "generation": 2,
+    "number": "181",
+    "defaultName": "Ampharos",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Ampharos",
+        "Mega Ampharos"
+    ],
+    "formsDetails": {
+        "ampharos": {
+            "name": "Ampharos",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "181",
+                "species": "Light Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "61.5 kg (135.6 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Plus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaAmpharos": {
+            "name": "Mega Ampharos",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "165",
+                    "min": "301",
+                    "max": "471"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "181",
+                "species": "Light Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "61.5 kg (135.6 lbs)",
+                "types": [
+                    "electric",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

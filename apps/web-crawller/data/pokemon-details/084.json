@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "084",
+    "defaultName": "Doduo",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Doduo"
+    ],
+    "formsDetails": {
+        "doduo": {
+            "name": "Doduo",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "084",
+                "species": "Twin Bird Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "39.2 kg (86.4 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tangled Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

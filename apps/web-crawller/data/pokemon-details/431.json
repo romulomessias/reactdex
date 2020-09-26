@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "431",
+    "defaultName": "Glameow",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Glameow"
+    ],
+    "formsDetails": {
+        "glameow": {
+            "name": "Glameow",
+            "stats": {
+                "hp": {
+                    "base": "49",
+                    "min": "208",
+                    "max": "302"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "spAtk": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "spDef": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "431",
+                "species": "Catty Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "3.9 kg (8.6 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

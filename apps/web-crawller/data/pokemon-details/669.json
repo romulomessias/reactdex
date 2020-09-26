@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "669",
+    "defaultName": "Flabébé",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Flabébé"
+    ],
+    "formsDetails": {
+        "flabébé": {
+            "name": "Flabébé",
+            "stats": {
+                "hp": {
+                    "base": "44",
+                    "min": "198",
+                    "max": "292"
+                },
+                "attack": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "defense": {
+                    "base": "39",
+                    "min": "74",
+                    "max": "194"
+                },
+                "spAtk": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spDef": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "speed": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                }
+            },
+            "info": {
+                "number": "669",
+                "species": "Single Bloom Pokémon",
+                "height": "0.1 m (0′04″)",
+                "weight": "0.1 kg (0.2 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flower Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Symbiosis",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

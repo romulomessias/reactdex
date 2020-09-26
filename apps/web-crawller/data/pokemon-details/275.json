@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "275",
+    "defaultName": "Shiftry",
+    "types": [
+        "grass",
+        "dark"
+    ],
+    "forms": [
+        "Shiftry"
+    ],
+    "formsDetails": {
+        "shiftry": {
+            "name": "Shiftry",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "275",
+                "species": "Wicked Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "59.6 kg (131.4 lbs)",
+                "types": [
+                    "grass",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickpocket",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

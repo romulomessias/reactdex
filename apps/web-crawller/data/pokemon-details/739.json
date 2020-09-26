@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "739",
+    "defaultName": "Crabrawler",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Crabrawler"
+    ],
+    "formsDetails": {
+        "crabrawler": {
+            "name": "Crabrawler",
+            "stats": {
+                "hp": {
+                    "base": "47",
+                    "min": "204",
+                    "max": "298"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "spAtk": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "spDef": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "speed": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                }
+            },
+            "info": {
+                "number": "739",
+                "species": "Boxing Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "7.0 kg (15.4 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

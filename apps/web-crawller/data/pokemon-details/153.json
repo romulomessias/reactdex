@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "153",
+    "defaultName": "Bayleef",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Bayleef"
+    ],
+    "formsDetails": {
+        "bayleef": {
+            "name": "Bayleef",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "153",
+                "species": "Leaf Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "15.8 kg (34.8 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

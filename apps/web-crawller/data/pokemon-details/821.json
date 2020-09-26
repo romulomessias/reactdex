@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "821",
+    "defaultName": "Rookidee",
+    "types": [
+        "flying"
+    ],
+    "forms": [
+        "Rookidee"
+    ],
+    "formsDetails": {
+        "rookidee": {
+            "name": "Rookidee",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "33",
+                    "min": "63",
+                    "max": "181"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                }
+            },
+            "info": {
+                "number": "821",
+                "species": "Tiny Bird Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "1.8 kg (4.0 lbs)",
+                "types": [
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

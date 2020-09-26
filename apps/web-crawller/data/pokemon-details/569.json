@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "569",
+    "defaultName": "Garbodor",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Garbodor"
+    ],
+    "formsDetails": {
+        "garbodor": {
+            "name": "Garbodor",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "569",
+                "species": "Trash Heap Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "107.3 kg (236.6 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Stench",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aftermath",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

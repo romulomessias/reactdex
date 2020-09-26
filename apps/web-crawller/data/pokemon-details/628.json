@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "628",
+    "defaultName": "Braviary",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Braviary"
+    ],
+    "formsDetails": {
+        "braviary": {
+            "name": "Braviary",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "123",
+                    "min": "225",
+                    "max": "379"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "628",
+                "species": "Valiant Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "41.0 kg (90.4 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

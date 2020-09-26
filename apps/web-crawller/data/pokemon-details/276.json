@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "276",
+    "defaultName": "Taillow",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Taillow"
+    ],
+    "formsDetails": {
+        "taillow": {
+            "name": "Taillow",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "276",
+                "species": "TinySwallow Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.3 kg (5.1 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Scrappy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

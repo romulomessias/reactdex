@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "426",
+    "defaultName": "Drifblim",
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "forms": [
+        "Drifblim"
+    ],
+    "formsDetails": {
+        "drifblim": {
+            "name": "Drifblim",
+            "stats": {
+                "hp": {
+                    "base": "150",
+                    "min": "410",
+                    "max": "504"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "426",
+                "species": "Blimp Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "15.0 kg (33.1 lbs)",
+                "types": [
+                    "ghost",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Aftermath",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flare Boost",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

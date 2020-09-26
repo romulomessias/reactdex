@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "403",
+    "defaultName": "Shinx",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Shinx"
+    ],
+    "formsDetails": {
+        "shinx": {
+            "name": "Shinx",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "34",
+                    "min": "65",
+                    "max": "183"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "34",
+                    "min": "65",
+                    "max": "183"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "403",
+                "species": "Flash Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.5 kg (20.9 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "number": "135",
+    "defaultName": "Jolteon",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Jolteon"
+    ],
+    "formsDetails": {
+        "jolteon": {
+            "name": "Jolteon",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                }
+            },
+            "info": {
+                "number": "135",
+                "species": "Lightning Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "24.5 kg (54.0 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Volt Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

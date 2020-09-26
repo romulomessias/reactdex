@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "318",
+    "defaultName": "Carvanha",
+    "types": [
+        "water",
+        "dark"
+    ],
+    "forms": [
+        "Carvanha"
+    ],
+    "formsDetails": {
+        "carvanha": {
+            "name": "Carvanha",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "318",
+                "species": "Savage Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "20.8 kg (45.9 lbs)",
+                "types": [
+                    "water",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rough Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Speed Boost",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

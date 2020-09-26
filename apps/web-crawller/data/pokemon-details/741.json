@@ -1,0 +1,221 @@
+{
+    "generation": 7,
+    "number": "741",
+    "defaultName": "Oricorio",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "forms": [
+        "Baile Style",
+        "Pom-Pom Style",
+        "Pa'u Style",
+        "Sensu Style"
+    ],
+    "formsDetails": {
+        "baileStyle": {
+            "name": "Baile Style",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "93",
+                    "min": "171",
+                    "max": "313"
+                }
+            },
+            "info": {
+                "number": "741",
+                "species": "Dancing Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "3.4 kg (7.5 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dancer",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "pom-pomStyle": {
+            "name": "Pom-Pom Style",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "93",
+                    "min": "171",
+                    "max": "313"
+                }
+            },
+            "info": {
+                "number": "741",
+                "species": "Dancing Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "3.4 kg (7.5 lbs)",
+                "types": [
+                    "electric",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dancer",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "pa'uStyle": {
+            "name": "Pa'u Style",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "93",
+                    "min": "171",
+                    "max": "313"
+                }
+            },
+            "info": {
+                "number": "741",
+                "species": "Dancing Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "3.4 kg (7.5 lbs)",
+                "types": [
+                    "psychic",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dancer",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "sensuStyle": {
+            "name": "Sensu Style",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "93",
+                    "min": "171",
+                    "max": "313"
+                }
+            },
+            "info": {
+                "number": "741",
+                "species": "Dancing Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "3.4 kg (7.5 lbs)",
+                "types": [
+                    "ghost",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dancer",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

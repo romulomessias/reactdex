@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "176",
+    "defaultName": "Togetic",
+    "types": [
+        "fairy",
+        "flying"
+    ],
+    "forms": [
+        "Togetic"
+    ],
+    "formsDetails": {
+        "togetic": {
+            "name": "Togetic",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "176",
+                "species": "Happiness Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "3.2 kg (7.1 lbs)",
+                "types": [
+                    "fairy",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

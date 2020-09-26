@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "523",
+    "defaultName": "Zebstrika",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Zebstrika"
+    ],
+    "formsDetails": {
+        "zebstrika": {
+            "name": "Zebstrika",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "116",
+                    "min": "213",
+                    "max": "364"
+                }
+            },
+            "info": {
+                "number": "523",
+                "species": "Thunderbolt Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "79.5 kg (175.3 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Motor Drive",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

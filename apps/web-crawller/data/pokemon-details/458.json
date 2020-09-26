@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "458",
+    "defaultName": "Mantyke",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Mantyke"
+    ],
+    "formsDetails": {
+        "mantyke": {
+            "name": "Mantyke",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "458",
+                "species": "Kite Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "65.0 kg (143.3 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

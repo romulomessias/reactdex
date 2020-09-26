@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "816",
+    "defaultName": "Sobble",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Sobble"
+    ],
+    "formsDetails": {
+        "sobble": {
+            "name": "Sobble",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "816",
+                "species": "Water Lizard Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "4.0 kg (8.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

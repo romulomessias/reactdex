@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "682",
+    "defaultName": "Spritzee",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Spritzee"
+    ],
+    "formsDetails": {
+        "spritzee": {
+            "name": "Spritzee",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                }
+            },
+            "info": {
+                "number": "682",
+                "species": "Perfume Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.5 kg (1.1 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Healer",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aroma Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

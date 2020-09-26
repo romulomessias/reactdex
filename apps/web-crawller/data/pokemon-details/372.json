@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "372",
+    "defaultName": "Shelgon",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Shelgon"
+    ],
+    "formsDetails": {
+        "shelgon": {
+            "name": "Shelgon",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "372",
+                "species": "Endurance Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "110.5 kg (243.6 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

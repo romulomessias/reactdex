@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "485",
+    "defaultName": "Heatran",
+    "types": [
+        "fire",
+        "steel"
+    ],
+    "forms": [
+        "Heatran"
+    ],
+    "formsDetails": {
+        "heatran": {
+            "name": "Heatran",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "106",
+                    "min": "195",
+                    "max": "342"
+                },
+                "spAtk": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spDef": {
+                    "base": "106",
+                    "min": "195",
+                    "max": "342"
+                },
+                "speed": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                }
+            },
+            "info": {
+                "number": "485",
+                "species": "Lava Dome Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "430.0 kg (948.0 lbs)",
+                "types": [
+                    "fire",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "883",
+    "defaultName": "Arctovish",
+    "types": [
+        "water",
+        "ice"
+    ],
+    "forms": [
+        "Arctovish"
+    ],
+    "formsDetails": {
+        "arctovish": {
+            "name": "Arctovish",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "883",
+                "species": "Fossil Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "175.0 kg (385.8 lbs)",
+                "types": [
+                    "water",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Slush Rush",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

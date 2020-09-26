@@ -1,0 +1,69 @@
+{
+    "generation": 2,
+    "number": "250",
+    "defaultName": "Ho-oh",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "forms": [
+        "Ho-oh"
+    ],
+    "formsDetails": {
+        "ho-oh": {
+            "name": "Ho-oh",
+            "stats": {
+                "hp": {
+                    "base": "106",
+                    "min": "322",
+                    "max": "416"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "154",
+                    "min": "281",
+                    "max": "447"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "250",
+                "species": "Rainbow Pokémon",
+                "height": "3.8 m (12′06″)",
+                "weight": "199.0 kg (438.7 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

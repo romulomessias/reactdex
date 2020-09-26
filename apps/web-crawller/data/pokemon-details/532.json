@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "532",
+    "defaultName": "Timburr",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Timburr"
+    ],
+    "formsDetails": {
+        "timburr": {
+            "name": "Timburr",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "532",
+                "species": "Muscular Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "12.5 kg (27.6 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

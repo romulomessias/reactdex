@@ -1,0 +1,63 @@
+{
+    "generation": 2,
+    "number": "201",
+    "defaultName": "Unown",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Unown"
+    ],
+    "formsDetails": {
+        "unown": {
+            "name": "Unown",
+            "stats": {
+                "hp": {
+                    "base": "48",
+                    "min": "206",
+                    "max": "300"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "201",
+                "species": "Symbol Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

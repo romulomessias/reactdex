@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "882",
+    "defaultName": "Dracovish",
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "forms": [
+        "Dracovish"
+    ],
+    "formsDetails": {
+        "dracovish": {
+            "name": "Dracovish",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "882",
+                "species": "Fossil Pokémon",
+                "height": "2.3 m (7′07″)",
+                "weight": "215.0 kg (474.0 lbs)",
+                "types": [
+                    "water",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Rush",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

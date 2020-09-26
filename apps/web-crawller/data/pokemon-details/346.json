@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "346",
+    "defaultName": "Cradily",
+    "types": [
+        "rock",
+        "grass"
+    ],
+    "forms": [
+        "Cradily"
+    ],
+    "formsDetails": {
+        "cradily": {
+            "name": "Cradily",
+            "stats": {
+                "hp": {
+                    "base": "86",
+                    "min": "282",
+                    "max": "376"
+                },
+                "attack": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "defense": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spAtk": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "346",
+                "species": "Barnacle Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "60.4 kg (133.2 lbs)",
+                "types": [
+                    "rock",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Suction Cups",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Storm Drain",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

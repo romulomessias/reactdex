@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "885",
+    "defaultName": "Dreepy",
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "forms": [
+        "Dreepy"
+    ],
+    "formsDetails": {
+        "dreepy": {
+            "name": "Dreepy",
+            "stats": {
+                "hp": {
+                    "base": "28",
+                    "min": "166",
+                    "max": "260"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                }
+            },
+            "info": {
+                "number": "885",
+                "species": "Lingering Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "2.0 kg (4.4 lbs)",
+                "types": [
+                    "dragon",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

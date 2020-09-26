@@ -1,0 +1,65 @@
+{
+    "generation": 3,
+    "number": "292",
+    "defaultName": "Shedinja",
+    "types": [
+        "bug",
+        "ghost"
+    ],
+    "forms": [
+        "Shedinja"
+    ],
+    "formsDetails": {
+        "shedinja": {
+            "name": "Shedinja",
+            "stats": {
+                "hp": {
+                    "base": "1",
+                    "min": "1",
+                    "max": "1"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "292",
+                "species": "Shed Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "1.2 kg (2.6 lbs)",
+                "types": [
+                    "bug",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Wonder Guard",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

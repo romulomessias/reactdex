@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "671",
+    "defaultName": "Florges",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Florges"
+    ],
+    "formsDetails": {
+        "florges": {
+            "name": "Florges",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "spAtk": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                },
+                "spDef": {
+                    "base": "154",
+                    "min": "281",
+                    "max": "447"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "671",
+                "species": "Garden Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "10.0 kg (22.0 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flower Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Symbiosis",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

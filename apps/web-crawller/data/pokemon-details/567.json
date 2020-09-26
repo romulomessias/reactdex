@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "567",
+    "defaultName": "Archeops",
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "forms": [
+        "Archeops"
+    ],
+    "formsDetails": {
+        "archeops": {
+            "name": "Archeops",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "567",
+                "species": "First Bird Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "32.0 kg (70.5 lbs)",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Defeatist",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

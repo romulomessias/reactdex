@@ -1,0 +1,121 @@
+{
+    "generation": 6,
+    "number": "658",
+    "defaultName": "Greninja",
+    "types": [
+        "water",
+        "dark"
+    ],
+    "forms": [
+        "Greninja",
+        "Ash-Greninja"
+    ],
+    "formsDetails": {
+        "greninja": {
+            "name": "Greninja",
+            "stats": {
+                "hp": {
+                    "base": "72",
+                    "min": "254",
+                    "max": "348"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "spAtk": {
+                    "base": "103",
+                    "min": "189",
+                    "max": "335"
+                },
+                "spDef": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "speed": {
+                    "base": "122",
+                    "min": "224",
+                    "max": "377"
+                }
+            },
+            "info": {
+                "number": "658",
+                "species": "Ninja Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "water",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Protean",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "ash-greninja": {
+            "name": "Ash-Greninja",
+            "stats": {
+                "hp": {
+                    "base": "72",
+                    "min": "254",
+                    "max": "348"
+                },
+                "attack": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "defense": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "spAtk": {
+                    "base": "153",
+                    "min": "279",
+                    "max": "445"
+                },
+                "spDef": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "speed": {
+                    "base": "132",
+                    "min": "242",
+                    "max": "399"
+                }
+            },
+            "info": {
+                "number": "658",
+                "species": "Ninja Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "water",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Battle Bond",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

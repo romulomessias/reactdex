@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "704",
+    "defaultName": "Goomy",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Goomy"
+    ],
+    "formsDetails": {
+        "goomy": {
+            "name": "Goomy",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "704",
+                "species": "Soft Tissue Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.8 kg (6.2 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gooey",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "886",
+    "defaultName": "Drakloak",
+    "types": [
+        "dragon",
+        "ghost"
+    ],
+    "forms": [
+        "Drakloak"
+    ],
+    "formsDetails": {
+        "drakloak": {
+            "name": "Drakloak",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "102",
+                    "min": "188",
+                    "max": "333"
+                }
+            },
+            "info": {
+                "number": "886",
+                "species": "Caretaker Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "11.0 kg (24.3 lbs)",
+                "types": [
+                    "dragon",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

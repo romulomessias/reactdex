@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "167",
+    "defaultName": "Spinarak",
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "forms": [
+        "Spinarak"
+    ],
+    "formsDetails": {
+        "spinarak": {
+            "name": "Spinarak",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "167",
+                "species": "String Spit Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "8.5 kg (18.7 lbs)",
+                "types": [
+                    "bug",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Insomnia",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

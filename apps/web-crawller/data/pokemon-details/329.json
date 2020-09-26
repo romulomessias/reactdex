@@ -1,0 +1,65 @@
+{
+    "generation": 3,
+    "number": "329",
+    "defaultName": "Vibrava",
+    "types": [
+        "ground",
+        "dragon"
+    ],
+    "forms": [
+        "Vibrava"
+    ],
+    "formsDetails": {
+        "vibrava": {
+            "name": "Vibrava",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "329",
+                "species": "Vibration Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "15.3 kg (33.7 lbs)",
+                "types": [
+                    "ground",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

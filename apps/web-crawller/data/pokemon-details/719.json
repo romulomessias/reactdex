@@ -1,0 +1,117 @@
+{
+    "generation": 6,
+    "number": "719",
+    "defaultName": "Diancie",
+    "types": [
+        "rock",
+        "fairy"
+    ],
+    "forms": [
+        "Diancie",
+        "Mega Diancie"
+    ],
+    "formsDetails": {
+        "diancie": {
+            "name": "Diancie",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "719",
+                "species": "Jewel Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "8.8 kg (19.4 lbs)",
+                "types": [
+                    "rock",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "megaDiancie": {
+            "name": "Mega Diancie",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "defense": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spAtk": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "719",
+                "species": "Jewel Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "27.8 kg (61.3 lbs)",
+                "types": [
+                    "rock",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magic Bounce",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

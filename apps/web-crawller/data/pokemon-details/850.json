@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "850",
+    "defaultName": "Sizzlipede",
+    "types": [
+        "fire",
+        "bug"
+    ],
+    "forms": [
+        "Sizzlipede"
+    ],
+    "formsDetails": {
+        "sizzlipede": {
+            "name": "Sizzlipede",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "850",
+                "species": "Radiator Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "fire",
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "White Smoke",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

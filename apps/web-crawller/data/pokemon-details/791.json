@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "791",
+    "defaultName": "Solgaleo",
+    "types": [
+        "psychic",
+        "steel"
+    ],
+    "forms": [
+        "Solgaleo"
+    ],
+    "formsDetails": {
+        "solgaleo": {
+            "name": "Solgaleo",
+            "stats": {
+                "hp": {
+                    "base": "137",
+                    "min": "384",
+                    "max": "478"
+                },
+                "attack": {
+                    "base": "137",
+                    "min": "251",
+                    "max": "410"
+                },
+                "defense": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spAtk": {
+                    "base": "113",
+                    "min": "207",
+                    "max": "357"
+                },
+                "spDef": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "speed": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                }
+            },
+            "info": {
+                "number": "791",
+                "species": "Sunne Pokémon",
+                "height": "3.4 m (11′02″)",
+                "weight": "230.0 kg (507.1 lbs)",
+                "types": [
+                    "psychic",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Full Metal Body",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

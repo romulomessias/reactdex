@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "390",
+    "defaultName": "Chimchar",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Chimchar"
+    ],
+    "formsDetails": {
+        "chimchar": {
+            "name": "Chimchar",
+            "stats": {
+                "hp": {
+                    "base": "44",
+                    "min": "198",
+                    "max": "292"
+                },
+                "attack": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "defense": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spAtk": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "spDef": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "speed": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                }
+            },
+            "info": {
+                "number": "390",
+                "species": "Chimp Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "6.2 kg (13.7 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

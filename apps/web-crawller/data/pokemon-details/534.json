@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "534",
+    "defaultName": "Conkeldurr",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Conkeldurr"
+    ],
+    "formsDetails": {
+        "conkeldurr": {
+            "name": "Conkeldurr",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "534",
+                "species": "Muscular Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "87.0 kg (191.8 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

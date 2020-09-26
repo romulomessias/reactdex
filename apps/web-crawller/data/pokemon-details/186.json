@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "186",
+    "defaultName": "Politoed",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Politoed"
+    ],
+    "formsDetails": {
+        "politoed": {
+            "name": "Politoed",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "186",
+                "species": "Frog Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "33.9 kg (74.7 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Drizzle",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

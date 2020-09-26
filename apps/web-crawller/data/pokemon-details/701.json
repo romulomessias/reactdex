@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "701",
+    "defaultName": "Hawlucha",
+    "types": [
+        "fighting",
+        "flying"
+    ],
+    "forms": [
+        "Hawlucha"
+    ],
+    "formsDetails": {
+        "hawlucha": {
+            "name": "Hawlucha",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "118",
+                    "min": "216",
+                    "max": "368"
+                }
+            },
+            "info": {
+                "number": "701",
+                "species": "Wrestling Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "21.5 kg (47.4 lbs)",
+                "types": [
+                    "fighting",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

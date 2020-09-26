@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "547",
+    "defaultName": "Whimsicott",
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "forms": [
+        "Whimsicott"
+    ],
+    "formsDetails": {
+        "whimsicott": {
+            "name": "Whimsicott",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "116",
+                    "min": "213",
+                    "max": "364"
+                }
+            },
+            "info": {
+                "number": "547",
+                "species": "Windveiled Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "6.6 kg (14.6 lbs)",
+                "types": [
+                    "grass",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prankster",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

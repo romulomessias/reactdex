@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "780",
+    "defaultName": "Drampa",
+    "types": [
+        "normal",
+        "dragon"
+    ],
+    "forms": [
+        "Drampa"
+    ],
+    "formsDetails": {
+        "drampa": {
+            "name": "Drampa",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "780",
+                "species": "Placid Pokémon",
+                "height": "3.0 m (9′10″)",
+                "weight": "185.0 kg (407.9 lbs)",
+                "types": [
+                    "normal",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Berserk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cloud Nine",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

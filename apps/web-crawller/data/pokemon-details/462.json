@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "462",
+    "defaultName": "Magnezone",
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "forms": [
+        "Magnezone"
+    ],
+    "formsDetails": {
+        "magnezone": {
+            "name": "Magnezone",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "462",
+                "species": "Magnet Area Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "180.0 kg (396.8 lbs)",
+                "types": [
+                    "electric",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magnet Pull",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

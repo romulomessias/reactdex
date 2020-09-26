@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "number": "005",
+    "defaultName": "Charmeleon",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Charmeleon"
+    ],
+    "formsDetails": {
+        "charmeleon": {
+            "name": "Charmeleon",
+            "stats": {
+                "hp": {
+                    "base": "58",
+                    "min": "226",
+                    "max": "320"
+                },
+                "attack": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "defense": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "005",
+                "species": "Flame Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "19.0 kg (41.9 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solar Power",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

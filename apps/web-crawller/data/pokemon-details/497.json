@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "497",
+    "defaultName": "Serperior",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Serperior"
+    ],
+    "formsDetails": {
+        "serperior": {
+            "name": "Serperior",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "113",
+                    "min": "207",
+                    "max": "357"
+                }
+            },
+            "info": {
+                "number": "497",
+                "species": "Regal Pokémon",
+                "height": "3.3 m (10′10″)",
+                "weight": "63.0 kg (138.9 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Contrary",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

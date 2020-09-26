@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "871",
+    "defaultName": "Pincurchin",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Pincurchin"
+    ],
+    "formsDetails": {
+        "pincurchin": {
+            "name": "Pincurchin",
+            "stats": {
+                "hp": {
+                    "base": "48",
+                    "min": "206",
+                    "max": "300"
+                },
+                "attack": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "871",
+                "species": "Sea Urchin Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Electric Surge",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "243",
+    "defaultName": "Raikou",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Raikou"
+    ],
+    "formsDetails": {
+        "raikou": {
+            "name": "Raikou",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                }
+            },
+            "info": {
+                "number": "243",
+                "species": "Thunder Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "178.0 kg (392.4 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

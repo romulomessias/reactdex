@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "349",
+    "defaultName": "Feebas",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Feebas"
+    ],
+    "formsDetails": {
+        "feebas": {
+            "name": "Feebas",
+            "stats": {
+                "hp": {
+                    "base": "20",
+                    "min": "150",
+                    "max": "244"
+                },
+                "attack": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "defense": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spAtk": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "349",
+                "species": "Fish Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "7.4 kg (16.3 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

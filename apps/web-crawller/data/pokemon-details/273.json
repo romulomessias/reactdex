@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "273",
+    "defaultName": "Seedot",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Seedot"
+    ],
+    "formsDetails": {
+        "seedot": {
+            "name": "Seedot",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "273",
+                "species": "Acorn Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "4.0 kg (8.8 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickpocket",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

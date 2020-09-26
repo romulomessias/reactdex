@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "124",
+    "defaultName": "Jynx",
+    "types": [
+        "ice",
+        "psychic"
+    ],
+    "forms": [
+        "Jynx"
+    ],
+    "formsDetails": {
+        "jynx": {
+            "name": "Jynx",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "124",
+                "species": "Human Shape Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "40.6 kg (89.5 lbs)",
+                "types": [
+                    "ice",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Forewarn",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Dry Skin",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

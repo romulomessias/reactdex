@@ -1,0 +1,119 @@
+{
+    "generation": 3,
+    "number": "254",
+    "defaultName": "Sceptile",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Sceptile",
+        "Mega Sceptile"
+    ],
+    "formsDetails": {
+        "sceptile": {
+            "name": "Sceptile",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                }
+            },
+            "info": {
+                "number": "254",
+                "species": "Forest Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "52.2 kg (115.1 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaSceptile": {
+            "name": "Mega Sceptile",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                }
+            },
+            "info": {
+                "number": "254",
+                "species": "Forest Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "55.2 kg (121.7 lbs)",
+                "types": [
+                    "grass",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

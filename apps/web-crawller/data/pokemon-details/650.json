@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "650",
+    "defaultName": "Chespin",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Chespin"
+    ],
+    "formsDetails": {
+        "chespin": {
+            "name": "Chespin",
+            "stats": {
+                "hp": {
+                    "base": "56",
+                    "min": "222",
+                    "max": "316"
+                },
+                "attack": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                }
+            },
+            "info": {
+                "number": "650",
+                "species": "Spiny Nut Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "9.0 kg (19.8 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

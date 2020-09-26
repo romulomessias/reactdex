@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "374",
+    "defaultName": "Beldum",
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "forms": [
+        "Beldum"
+    ],
+    "formsDetails": {
+        "beldum": {
+            "name": "Beldum",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "374",
+                "species": "Iron Ball Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "95.2 kg (209.9 lbs)",
+                "types": [
+                    "steel",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Light Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

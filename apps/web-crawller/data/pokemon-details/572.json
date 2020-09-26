@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "572",
+    "defaultName": "Minccino",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Minccino"
+    ],
+    "formsDetails": {
+        "minccino": {
+            "name": "Minccino",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "572",
+                "species": "Chinchilla Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.8 kg (12.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Skill Link",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

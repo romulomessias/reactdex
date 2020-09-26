@@ -1,0 +1,118 @@
+{
+    "generation": 5,
+    "number": "641",
+    "defaultName": "Tornadus",
+    "types": [
+        "flying"
+    ],
+    "forms": [
+        "Incarnate Forme",
+        "Therian Forme"
+    ],
+    "formsDetails": {
+        "incarnateForme": {
+            "name": "Incarnate Forme",
+            "stats": {
+                "hp": {
+                    "base": "79",
+                    "min": "268",
+                    "max": "362"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "111",
+                    "min": "204",
+                    "max": "353"
+                }
+            },
+            "info": {
+                "number": "641",
+                "species": "Cyclone Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "63.0 kg (138.9 lbs)",
+                "types": [
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prankster",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "therianForme": {
+            "name": "Therian Forme",
+            "stats": {
+                "hp": {
+                    "base": "79",
+                    "min": "268",
+                    "max": "362"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                }
+            },
+            "info": {
+                "number": "641",
+                "species": "Cyclone Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "63.0 kg (138.9 lbs)",
+                "types": [
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Regenerator",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

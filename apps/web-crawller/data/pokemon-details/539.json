@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "539",
+    "defaultName": "Sawk",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Sawk"
+    ],
+    "formsDetails": {
+        "sawk": {
+            "name": "Sawk",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "539",
+                "species": "Karate Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "51.0 kg (112.4 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

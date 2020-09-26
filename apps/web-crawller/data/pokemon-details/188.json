@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "188",
+    "defaultName": "Skiploom",
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "forms": [
+        "Skiploom"
+    ],
+    "formsDetails": {
+        "skiploom": {
+            "name": "Skiploom",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "188",
+                "species": "Cottonweed Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "grass",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

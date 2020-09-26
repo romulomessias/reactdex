@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "564",
+    "defaultName": "Tirtouga",
+    "types": [
+        "water",
+        "rock"
+    ],
+    "forms": [
+        "Tirtouga"
+    ],
+    "formsDetails": {
+        "tirtouga": {
+            "name": "Tirtouga",
+            "stats": {
+                "hp": {
+                    "base": "54",
+                    "min": "218",
+                    "max": "312"
+                },
+                "attack": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "defense": {
+                    "base": "103",
+                    "min": "189",
+                    "max": "335"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "22",
+                    "min": "44",
+                    "max": "157"
+                }
+            },
+            "info": {
+                "number": "564",
+                "species": "Prototurtle Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "16.5 kg (36.4 lbs)",
+                "types": [
+                    "water",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Solid Rock",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

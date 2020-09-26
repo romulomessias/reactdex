@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "495",
+    "defaultName": "Snivy",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Snivy"
+    ],
+    "formsDetails": {
+        "snivy": {
+            "name": "Snivy",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                }
+            },
+            "info": {
+                "number": "495",
+                "species": "Grass Snake Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.1 kg (17.9 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Contrary",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

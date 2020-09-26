@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "799",
+    "defaultName": "Guzzlord",
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "forms": [
+        "Guzzlord"
+    ],
+    "formsDetails": {
+        "guzzlord": {
+            "name": "Guzzlord",
+            "stats": {
+                "hp": {
+                    "base": "223",
+                    "min": "556",
+                    "max": "650"
+                },
+                "attack": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spDef": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "799",
+                "species": "Junkivore Pokémon",
+                "height": "5.5 m (18′01″)",
+                "weight": "888.0 kg (1957.7 lbs)",
+                "types": [
+                    "dark",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "427",
+    "defaultName": "Buneary",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Buneary"
+    ],
+    "formsDetails": {
+        "buneary": {
+            "name": "Buneary",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "defense": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "427",
+                "species": "Rabbit Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.5 kg (12.1 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Klutz",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Limber",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

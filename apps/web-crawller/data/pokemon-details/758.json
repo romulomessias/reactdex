@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "758",
+    "defaultName": "Salazzle",
+    "types": [
+        "poison",
+        "fire"
+    ],
+    "forms": [
+        "Salazzle"
+    ],
+    "formsDetails": {
+        "salazzle": {
+            "name": "Salazzle",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "111",
+                    "min": "204",
+                    "max": "353"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "117",
+                    "min": "215",
+                    "max": "366"
+                }
+            },
+            "info": {
+                "number": "758",
+                "species": "Toxic Lizard Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "22.2 kg (48.9 lbs)",
+                "types": [
+                    "poison",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Corrosion",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

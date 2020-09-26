@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "086",
+    "defaultName": "Seel",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Seel"
+    ],
+    "formsDetails": {
+        "seel": {
+            "name": "Seel",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "086",
+                "species": "Sea Lion Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "90.0 kg (198.4 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

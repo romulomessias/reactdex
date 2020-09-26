@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "321",
+    "defaultName": "Wailord",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Wailord"
+    ],
+    "formsDetails": {
+        "wailord": {
+            "name": "Wailord",
+            "stats": {
+                "hp": {
+                    "base": "170",
+                    "min": "450",
+                    "max": "544"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "321",
+                "species": "Float Whale Pokémon",
+                "height": "14.5 m (47′07″)",
+                "weight": "398.0 kg (877.4 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pressure",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

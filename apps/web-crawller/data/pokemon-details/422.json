@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "422",
+    "defaultName": "Shellos",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Shellos"
+    ],
+    "formsDetails": {
+        "shellos": {
+            "name": "Shellos",
+            "stats": {
+                "hp": {
+                    "base": "76",
+                    "min": "262",
+                    "max": "356"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "spDef": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "speed": {
+                    "base": "34",
+                    "min": "65",
+                    "max": "183"
+                }
+            },
+            "info": {
+                "number": "422",
+                "species": "Sea Slug Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "6.3 kg (13.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sticky Hold",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Storm Drain",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

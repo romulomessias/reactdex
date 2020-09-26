@@ -1,0 +1,177 @@
+{
+    "generation": 1,
+    "number": "080",
+    "defaultName": "Slowbro",
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "forms": [
+        "Slowbro",
+        "Mega Slowbro",
+        "Galarian Slowbro"
+    ],
+    "formsDetails": {
+        "slowbro": {
+            "name": "Slowbro",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "080",
+                "species": "Hermit Crab Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "78.5 kg (173.1 lbs)",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaSlowbro": {
+            "name": "Mega Slowbro",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                },
+                "spAtk": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "080",
+                "species": "Hermit Crab Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "galarianSlowbro": {
+            "name": "Galarian Slowbro",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "080",
+                "species": "Hermit Crab Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "70.5 kg (155.4 lbs)",
+                "types": [
+                    "poison",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Quick Draw",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

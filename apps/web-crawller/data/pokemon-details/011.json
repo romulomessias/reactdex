@@ -1,0 +1,63 @@
+{
+    "generation": 1,
+    "number": "011",
+    "defaultName": "Metapod",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Metapod"
+    ],
+    "formsDetails": {
+        "metapod": {
+            "name": "Metapod",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "011",
+                "species": "Cocoon Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "9.9 kg (21.8 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

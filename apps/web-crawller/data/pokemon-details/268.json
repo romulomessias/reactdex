@@ -1,0 +1,63 @@
+{
+    "generation": 3,
+    "number": "268",
+    "defaultName": "Cascoon",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Cascoon"
+    ],
+    "formsDetails": {
+        "cascoon": {
+            "name": "Cascoon",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "268",
+                "species": "Cocoon Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "11.5 kg (25.4 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "104",
+    "defaultName": "Cubone",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Cubone"
+    ],
+    "formsDetails": {
+        "cubone": {
+            "name": "Cubone",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "104",
+                "species": "Lonely Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

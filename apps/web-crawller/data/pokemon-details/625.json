@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "625",
+    "defaultName": "Bisharp",
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "forms": [
+        "Bisharp"
+    ],
+    "formsDetails": {
+        "bisharp": {
+            "name": "Bisharp",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "625",
+                "species": "Sword Blade Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "70.0 kg (154.3 lbs)",
+                "types": [
+                    "dark",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Defiant",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pressure",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

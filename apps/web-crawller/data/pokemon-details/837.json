@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "837",
+    "defaultName": "Rolycoly",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Rolycoly"
+    ],
+    "formsDetails": {
+        "rolycoly": {
+            "name": "Rolycoly",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "837",
+                "species": "Coal Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steam Engine",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heatproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

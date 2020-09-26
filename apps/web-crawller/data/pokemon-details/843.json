@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "843",
+    "defaultName": "Silicobra",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Silicobra"
+    ],
+    "formsDetails": {
+        "silicobra": {
+            "name": "Silicobra",
+            "stats": {
+                "hp": {
+                    "base": "52",
+                    "min": "214",
+                    "max": "308"
+                },
+                "attack": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                }
+            },
+            "info": {
+                "number": "843",
+                "species": "Sand Snake Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "7.6 kg (16.8 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Spit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

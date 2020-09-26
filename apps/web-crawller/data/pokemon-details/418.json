@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "418",
+    "defaultName": "Buizel",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Buizel"
+    ],
+    "formsDetails": {
+        "buizel": {
+            "name": "Buizel",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "418",
+                "species": "Sea Weasel Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "29.5 kg (65.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

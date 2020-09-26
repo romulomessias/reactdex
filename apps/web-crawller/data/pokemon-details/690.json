@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "690",
+    "defaultName": "Skrelp",
+    "types": [
+        "poison",
+        "water"
+    ],
+    "forms": [
+        "Skrelp"
+    ],
+    "formsDetails": {
+        "skrelp": {
+            "name": "Skrelp",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "690",
+                "species": "Mock Kelp Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "7.3 kg (16.1 lbs)",
+                "types": [
+                    "poison",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Touch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

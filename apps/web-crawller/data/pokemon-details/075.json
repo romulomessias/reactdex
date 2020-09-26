@@ -1,0 +1,133 @@
+{
+    "generation": 1,
+    "number": "075",
+    "defaultName": "Graveler",
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "forms": [
+        "Graveler",
+        "Alolan Graveler"
+    ],
+    "formsDetails": {
+        "graveler": {
+            "name": "Graveler",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "075",
+                "species": "Rock Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "105.0 kg (231.5 lbs)",
+                "types": [
+                    "rock",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanGraveler": {
+            "name": "Alolan Graveler",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "075",
+                "species": "Rock Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "110.0 kg (242.5 lbs)",
+                "types": [
+                    "rock",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magnet Pull",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Galvanize",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

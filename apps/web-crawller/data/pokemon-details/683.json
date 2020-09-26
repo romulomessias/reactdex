@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "683",
+    "defaultName": "Aromatisse",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Aromatisse"
+    ],
+    "formsDetails": {
+        "aromatisse": {
+            "name": "Aromatisse",
+            "stats": {
+                "hp": {
+                    "base": "101",
+                    "min": "312",
+                    "max": "406"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spAtk": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                },
+                "spDef": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "speed": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                }
+            },
+            "info": {
+                "number": "683",
+                "species": "Fragrance Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "15.5 kg (34.2 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Healer",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aroma Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

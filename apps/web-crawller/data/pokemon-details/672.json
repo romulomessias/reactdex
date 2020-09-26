@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "672",
+    "defaultName": "Skiddo",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Skiddo"
+    ],
+    "formsDetails": {
+        "skiddo": {
+            "name": "Skiddo",
+            "stats": {
+                "hp": {
+                    "base": "66",
+                    "min": "242",
+                    "max": "336"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spDef": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "speed": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                }
+            },
+            "info": {
+                "number": "672",
+                "species": "Mount Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "31.0 kg (68.3 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Grass Pelt",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

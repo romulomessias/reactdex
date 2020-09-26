@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "502",
+    "defaultName": "Dewott",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Dewott"
+    ],
+    "formsDetails": {
+        "dewott": {
+            "name": "Dewott",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "502",
+                "species": "Discipline Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "24.5 kg (54.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

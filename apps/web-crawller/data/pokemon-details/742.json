@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "742",
+    "defaultName": "Cutiefly",
+    "types": [
+        "bug",
+        "fairy"
+    ],
+    "forms": [
+        "Cutiefly"
+    ],
+    "formsDetails": {
+        "cutiefly": {
+            "name": "Cutiefly",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                }
+            },
+            "info": {
+                "number": "742",
+                "species": "Bee Fly Pokémon",
+                "height": "0.1 m (0′04″)",
+                "weight": "0.2 kg (0.4 lbs)",
+                "types": [
+                    "bug",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Honey Gather",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

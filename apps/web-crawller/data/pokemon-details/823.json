@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "823",
+    "defaultName": "Corviknight",
+    "types": [
+        "flying",
+        "steel"
+    ],
+    "forms": [
+        "Corviknight"
+    ],
+    "formsDetails": {
+        "corviknight": {
+            "name": "Corviknight",
+            "stats": {
+                "hp": {
+                    "base": "98",
+                    "min": "306",
+                    "max": "400"
+                },
+                "attack": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                }
+            },
+            "info": {
+                "number": "823",
+                "species": "Raven Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "75.0 kg (165.3 lbs)",
+                "types": [
+                    "flying",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mirror Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

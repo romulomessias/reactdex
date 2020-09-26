@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "238",
+    "defaultName": "Smoochum",
+    "types": [
+        "ice",
+        "psychic"
+    ],
+    "forms": [
+        "Smoochum"
+    ],
+    "formsDetails": {
+        "smoochum": {
+            "name": "Smoochum",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "238",
+                "species": "Kiss Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "6.0 kg (13.2 lbs)",
+                "types": [
+                    "ice",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Forewarn",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

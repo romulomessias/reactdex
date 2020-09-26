@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "812",
+    "defaultName": "Rillaboom",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Rillaboom"
+    ],
+    "formsDetails": {
+        "rillaboom": {
+            "name": "Rillaboom",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "812",
+                "species": "Drummer Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "90.0 kg (198.4 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Grassy Surge",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

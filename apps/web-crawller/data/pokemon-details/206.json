@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "206",
+    "defaultName": "Dunsparce",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Dunsparce"
+    ],
+    "formsDetails": {
+        "dunsparce": {
+            "name": "Dunsparce",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "206",
+                "species": "Land Snake Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "14.0 kg (30.9 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "588",
+    "defaultName": "Karrablast",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Karrablast"
+    ],
+    "formsDetails": {
+        "karrablast": {
+            "name": "Karrablast",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "588",
+                "species": "Clamping Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.9 kg (13.0 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "No Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

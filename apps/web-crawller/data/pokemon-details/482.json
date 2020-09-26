@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "482",
+    "defaultName": "Azelf",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Azelf"
+    ],
+    "formsDetails": {
+        "azelf": {
+            "name": "Azelf",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                }
+            },
+            "info": {
+                "number": "482",
+                "species": "Willpower Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

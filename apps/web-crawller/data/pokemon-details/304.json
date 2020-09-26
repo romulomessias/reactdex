@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "304",
+    "defaultName": "Aron",
+    "types": [
+        "steel",
+        "rock"
+    ],
+    "forms": [
+        "Aron"
+    ],
+    "formsDetails": {
+        "aron": {
+            "name": "Aron",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "304",
+                "species": "Iron Armor Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "60.0 kg (132.3 lbs)",
+                "types": [
+                    "steel",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heavy Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

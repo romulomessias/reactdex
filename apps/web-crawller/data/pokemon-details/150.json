@@ -1,0 +1,170 @@
+{
+    "generation": 1,
+    "number": "150",
+    "defaultName": "Mewtwo",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Mewtwo",
+        "Mega Mewtwo X",
+        "Mega Mewtwo Y"
+    ],
+    "formsDetails": {
+        "mewtwo": {
+            "name": "Mewtwo",
+            "stats": {
+                "hp": {
+                    "base": "106",
+                    "min": "322",
+                    "max": "416"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "154",
+                    "min": "281",
+                    "max": "447"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                }
+            },
+            "info": {
+                "number": "150",
+                "species": "Genetic Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "122.0 kg (269.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaMewtwoX": {
+            "name": "Mega Mewtwo X",
+            "stats": {
+                "hp": {
+                    "base": "106",
+                    "min": "322",
+                    "max": "416"
+                },
+                "attack": {
+                    "base": "190",
+                    "min": "346",
+                    "max": "526"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "154",
+                    "min": "281",
+                    "max": "447"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                }
+            },
+            "info": {
+                "number": "150",
+                "species": "Genetic Pokémon",
+                "height": "2.3 m (7′07″)",
+                "weight": "127.0 kg (280.0 lbs)",
+                "types": [
+                    "psychic",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "megaMewtwoY": {
+            "name": "Mega Mewtwo Y",
+            "stats": {
+                "hp": {
+                    "base": "106",
+                    "min": "322",
+                    "max": "416"
+                },
+                "attack": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "194",
+                    "min": "353",
+                    "max": "535"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                }
+            },
+            "info": {
+                "number": "150",
+                "species": "Genetic Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "33.0 kg (72.8 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Insomnia",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

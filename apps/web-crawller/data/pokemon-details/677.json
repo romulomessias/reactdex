@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "677",
+    "defaultName": "Espurr",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Espurr"
+    ],
+    "formsDetails": {
+        "espurr": {
+            "name": "Espurr",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "spAtk": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                }
+            },
+            "info": {
+                "number": "677",
+                "species": "Restraint Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.5 kg (7.7 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

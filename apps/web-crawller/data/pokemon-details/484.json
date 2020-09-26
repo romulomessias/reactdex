@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "484",
+    "defaultName": "Palkia",
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "forms": [
+        "Palkia"
+    ],
+    "formsDetails": {
+        "palkia": {
+            "name": "Palkia",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "484",
+                "species": "Spatial Pokémon",
+                "height": "4.2 m (13′09″)",
+                "weight": "336.0 kg (740.8 lbs)",
+                "types": [
+                    "water",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

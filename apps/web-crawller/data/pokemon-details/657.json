@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "657",
+    "defaultName": "Frogadier",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Frogadier"
+    ],
+    "formsDetails": {
+        "frogadier": {
+            "name": "Frogadier",
+            "stats": {
+                "hp": {
+                    "base": "54",
+                    "min": "218",
+                    "max": "312"
+                },
+                "attack": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "defense": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "speed": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                }
+            },
+            "info": {
+                "number": "657",
+                "species": "Bubble Frog Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "10.9 kg (24.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Protean",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

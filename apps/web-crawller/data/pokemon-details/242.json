@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "242",
+    "defaultName": "Blissey",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Blissey"
+    ],
+    "formsDetails": {
+        "blissey": {
+            "name": "Blissey",
+            "stats": {
+                "hp": {
+                    "base": "255",
+                    "min": "620",
+                    "max": "714"
+                },
+                "attack": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "defense": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "242",
+                "species": "Happiness Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "46.8 kg (103.2 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Healer",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

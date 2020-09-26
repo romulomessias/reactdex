@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "697",
+    "defaultName": "Tyrantrum",
+    "types": [
+        "rock",
+        "dragon"
+    ],
+    "forms": [
+        "Tyrantrum"
+    ],
+    "formsDetails": {
+        "tyrantrum": {
+            "name": "Tyrantrum",
+            "stats": {
+                "hp": {
+                    "base": "82",
+                    "min": "274",
+                    "max": "368"
+                },
+                "attack": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                },
+                "defense": {
+                    "base": "119",
+                    "min": "218",
+                    "max": "370"
+                },
+                "spAtk": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "spDef": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                },
+                "speed": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                }
+            },
+            "info": {
+                "number": "697",
+                "species": "Despot Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "270.0 kg (595.2 lbs)",
+                "types": [
+                    "rock",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rock Head",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

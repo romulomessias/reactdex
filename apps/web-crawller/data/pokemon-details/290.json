@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "290",
+    "defaultName": "Nincada",
+    "types": [
+        "bug",
+        "ground"
+    ],
+    "forms": [
+        "Nincada"
+    ],
+    "formsDetails": {
+        "nincada": {
+            "name": "Nincada",
+            "stats": {
+                "hp": {
+                    "base": "31",
+                    "min": "172",
+                    "max": "266"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "290",
+                "species": "Trainee Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.5 kg (12.1 lbs)",
+                "types": [
+                    "bug",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Compound Eyes",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Run Away",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

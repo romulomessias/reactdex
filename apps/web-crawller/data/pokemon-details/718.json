@@ -1,0 +1,177 @@
+{
+    "generation": 6,
+    "number": "718",
+    "defaultName": "Zygarde",
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "forms": [
+        "50% Forme",
+        "10% Forme",
+        "Complete Forme"
+    ],
+    "formsDetails": {
+        "50%Forme": {
+            "name": "50% Forme",
+            "stats": {
+                "hp": {
+                    "base": "108",
+                    "min": "326",
+                    "max": "420"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                },
+                "spAtk": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "718",
+                "species": "Order Pokémon",
+                "height": "5.0 m (16′05″)",
+                "weight": "305.0 kg (672.4 lbs)",
+                "types": [
+                    "dragon",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Aura Break",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Power Construct",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "10%Forme": {
+            "name": "10% Forme",
+            "stats": {
+                "hp": {
+                    "base": "54",
+                    "min": "218",
+                    "max": "312"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "spAtk": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                }
+            },
+            "info": {
+                "number": "718",
+                "species": "Order Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "33.5 kg (73.9 lbs)",
+                "types": [
+                    "dragon",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Aura Break",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Power Construct",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "completeForme": {
+            "name": "Complete Forme",
+            "stats": {
+                "hp": {
+                    "base": "216",
+                    "min": "542",
+                    "max": "636"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                },
+                "spAtk": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "718",
+                "species": "Order Pokémon",
+                "height": "4.5 m (14′09″)",
+                "weight": "610.0 kg (1344.8 lbs)",
+                "types": [
+                    "dragon",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Power Construct",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

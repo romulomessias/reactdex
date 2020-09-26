@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "621",
+    "defaultName": "Druddigon",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Druddigon"
+    ],
+    "formsDetails": {
+        "druddigon": {
+            "name": "Druddigon",
+            "stats": {
+                "hp": {
+                    "base": "77",
+                    "min": "264",
+                    "max": "358"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "621",
+                "species": "Cave Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "139.0 kg (306.4 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rough Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

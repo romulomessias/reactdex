@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "455",
+    "defaultName": "Carnivine",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Carnivine"
+    ],
+    "formsDetails": {
+        "carnivine": {
+            "name": "Carnivine",
+            "stats": {
+                "hp": {
+                    "base": "74",
+                    "min": "258",
+                    "max": "352"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "speed": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                }
+            },
+            "info": {
+                "number": "455",
+                "species": "Bug Catcher Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "27.0 kg (59.5 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

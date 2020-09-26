@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "655",
+    "defaultName": "Delphox",
+    "types": [
+        "fire",
+        "psychic"
+    ],
+    "forms": [
+        "Delphox"
+    ],
+    "formsDetails": {
+        "delphox": {
+            "name": "Delphox",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "defense": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spAtk": {
+                    "base": "114",
+                    "min": "209",
+                    "max": "359"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                }
+            },
+            "info": {
+                "number": "655",
+                "species": "Fox Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "39.0 kg (86.0 lbs)",
+                "types": [
+                    "fire",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

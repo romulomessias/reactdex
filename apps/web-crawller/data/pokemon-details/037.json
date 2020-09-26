@@ -1,0 +1,122 @@
+{
+    "generation": 1,
+    "number": "037",
+    "defaultName": "Vulpix",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Vulpix",
+        "Alolan Vulpix"
+    ],
+    "formsDetails": {
+        "vulpix": {
+            "name": "Vulpix",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "037",
+                "species": "Fox Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "9.9 kg (21.8 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Drought",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanVulpix": {
+            "name": "Alolan Vulpix",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "037",
+                "species": "Fox Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "9.9 kg (21.8 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Warning",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

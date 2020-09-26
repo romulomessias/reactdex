@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "794",
+    "defaultName": "Buzzwole",
+    "types": [
+        "bug",
+        "fighting"
+    ],
+    "forms": [
+        "Buzzwole"
+    ],
+    "formsDetails": {
+        "buzzwole": {
+            "name": "Buzzwole",
+            "stats": {
+                "hp": {
+                    "base": "107",
+                    "min": "324",
+                    "max": "418"
+                },
+                "attack": {
+                    "base": "139",
+                    "min": "254",
+                    "max": "414"
+                },
+                "defense": {
+                    "base": "139",
+                    "min": "254",
+                    "max": "414"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "speed": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                }
+            },
+            "info": {
+                "number": "794",
+                "species": "Swollen Pokémon",
+                "height": "2.4 m (7′10″)",
+                "weight": "333.6 kg (735.5 lbs)",
+                "types": [
+                    "bug",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "350",
+    "defaultName": "Milotic",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Milotic"
+    ],
+    "formsDetails": {
+        "milotic": {
+            "name": "Milotic",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "speed": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                }
+            },
+            "info": {
+                "number": "350",
+                "species": "Tender Pokémon",
+                "height": "6.2 m (20′04″)",
+                "weight": "162.0 kg (357.1 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Marvel Scale",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

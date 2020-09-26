@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "360",
+    "defaultName": "Wynaut",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Wynaut"
+    ],
+    "formsDetails": {
+        "wynaut": {
+            "name": "Wynaut",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                }
+            },
+            "info": {
+                "number": "360",
+                "species": "Bright Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "14.0 kg (30.9 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shadow Tag",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "063",
+    "defaultName": "Abra",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Abra"
+    ],
+    "formsDetails": {
+        "abra": {
+            "name": "Abra",
+            "stats": {
+                "hp": {
+                    "base": "25",
+                    "min": "160",
+                    "max": "254"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "063",
+                "species": "Psi Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "19.5 kg (43.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

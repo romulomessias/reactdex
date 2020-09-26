@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "179",
+    "defaultName": "Mareep",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Mareep"
+    ],
+    "formsDetails": {
+        "mareep": {
+            "name": "Mareep",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "179",
+                "species": "Wool Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "7.8 kg (17.2 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Plus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "189",
+    "defaultName": "Jumpluff",
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "forms": [
+        "Jumpluff"
+    ],
+    "formsDetails": {
+        "jumpluff": {
+            "name": "Jumpluff",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "189",
+                "species": "Cottonweed Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "3.0 kg (6.6 lbs)",
+                "types": [
+                    "grass",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

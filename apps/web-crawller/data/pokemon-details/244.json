@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "244",
+    "defaultName": "Entei",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Entei"
+    ],
+    "formsDetails": {
+        "entei": {
+            "name": "Entei",
+            "stats": {
+                "hp": {
+                    "base": "115",
+                    "min": "340",
+                    "max": "434"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "244",
+                "species": "Volcano Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "198.0 kg (436.5 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "218",
+    "defaultName": "Slugma",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Slugma"
+    ],
+    "formsDetails": {
+        "slugma": {
+            "name": "Slugma",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "218",
+                "species": "Lava Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "35.0 kg (77.2 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magma Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

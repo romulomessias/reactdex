@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "842",
+    "defaultName": "Appletun",
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "forms": [
+        "Appletun"
+    ],
+    "formsDetails": {
+        "appletun": {
+            "name": "Appletun",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "842",
+                "species": "Apple Nectar Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "13.0 kg (28.7 lbs)",
+                "types": [
+                    "grass",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Ripen",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

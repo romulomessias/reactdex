@@ -1,0 +1,69 @@
+{
+    "generation": 6,
+    "number": "662",
+    "defaultName": "Fletchinder",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "forms": [
+        "Fletchinder"
+    ],
+    "formsDetails": {
+        "fletchinder": {
+            "name": "Fletchinder",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "spDef": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "speed": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                }
+            },
+            "info": {
+                "number": "662",
+                "species": "Ember Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "16.0 kg (35.3 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gale Wings",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

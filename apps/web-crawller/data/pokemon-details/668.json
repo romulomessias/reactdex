@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "668",
+    "defaultName": "Pyroar",
+    "types": [
+        "fire",
+        "normal"
+    ],
+    "forms": [
+        "Pyroar"
+    ],
+    "formsDetails": {
+        "pyroar": {
+            "name": "Pyroar",
+            "stats": {
+                "hp": {
+                    "base": "86",
+                    "min": "282",
+                    "max": "376"
+                },
+                "attack": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "defense": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spAtk": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "spDef": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "speed": {
+                    "base": "106",
+                    "min": "195",
+                    "max": "342"
+                }
+            },
+            "info": {
+                "number": "668",
+                "species": "Royal Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "81.5 kg (179.7 lbs)",
+                "types": [
+                    "fire",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

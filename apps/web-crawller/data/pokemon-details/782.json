@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "782",
+    "defaultName": "Jangmo-o",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Jangmo-o"
+    ],
+    "formsDetails": {
+        "jangmo-o": {
+            "name": "Jangmo-o",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "782",
+                "species": "Scaly Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "29.7 kg (65.5 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "425",
+    "defaultName": "Drifloon",
+    "types": [
+        "ghost",
+        "flying"
+    ],
+    "forms": [
+        "Drifloon"
+    ],
+    "formsDetails": {
+        "drifloon": {
+            "name": "Drifloon",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "34",
+                    "min": "65",
+                    "max": "183"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "425",
+                "species": "Balloon Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "1.2 kg (2.6 lbs)",
+                "types": [
+                    "ghost",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Aftermath",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flare Boost",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

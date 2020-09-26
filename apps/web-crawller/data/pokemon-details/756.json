@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "756",
+    "defaultName": "Shiinotic",
+    "types": [
+        "grass",
+        "fairy"
+    ],
+    "forms": [
+        "Shiinotic"
+    ],
+    "formsDetails": {
+        "shiinotic": {
+            "name": "Shiinotic",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "756",
+                "species": "Illuminating Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "11.5 kg (25.4 lbs)",
+                "types": [
+                    "grass",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illuminate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

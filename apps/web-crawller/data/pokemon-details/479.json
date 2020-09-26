@@ -1,0 +1,325 @@
+{
+    "generation": 4,
+    "number": "479",
+    "defaultName": "Rotom",
+    "types": [
+        "electric",
+        "ghost"
+    ],
+    "forms": [
+        "Rotom",
+        "Heat Rotom",
+        "Wash Rotom",
+        "Frost Rotom",
+        "Fan Rotom",
+        "Mow Rotom"
+    ],
+    "formsDetails": {
+        "rotom": {
+            "name": "Rotom",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "speed": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                }
+            },
+            "info": {
+                "number": "479",
+                "species": "Plasma Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "heatRotom": {
+            "name": "Heat Rotom",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                }
+            },
+            "info": {
+                "number": "479",
+                "species": "Plasma Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "washRotom": {
+            "name": "Wash Rotom",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                }
+            },
+            "info": {
+                "number": "479",
+                "species": "Plasma Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "frostRotom": {
+            "name": "Frost Rotom",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                }
+            },
+            "info": {
+                "number": "479",
+                "species": "Plasma Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "fanRotom": {
+            "name": "Fan Rotom",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                }
+            },
+            "info": {
+                "number": "479",
+                "species": "Plasma Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "mowRotom": {
+            "name": "Mow Rotom",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                }
+            },
+            "info": {
+                "number": "479",
+                "species": "Plasma Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "electric",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

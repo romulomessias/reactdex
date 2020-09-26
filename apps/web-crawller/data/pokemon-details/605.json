@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "605",
+    "defaultName": "Elgyem",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Elgyem"
+    ],
+    "formsDetails": {
+        "elgyem": {
+            "name": "Elgyem",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "605",
+                "species": "Cerebral Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.0 kg (19.8 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Telepathy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

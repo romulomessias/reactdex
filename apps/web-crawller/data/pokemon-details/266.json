@@ -1,0 +1,63 @@
+{
+    "generation": 3,
+    "number": "266",
+    "defaultName": "Silcoon",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Silcoon"
+    ],
+    "formsDetails": {
+        "silcoon": {
+            "name": "Silcoon",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "266",
+                "species": "Cocoon Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "10.0 kg (22.0 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

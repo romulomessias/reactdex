@@ -1,0 +1,1 @@
+export const dataFolder = process.cwd() + "/data";

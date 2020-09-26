@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "016",
+    "defaultName": "Pidgey",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Pidgey"
+    ],
+    "formsDetails": {
+        "pidgey": {
+            "name": "Pidgey",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                }
+            },
+            "info": {
+                "number": "016",
+                "species": "Tiny Bird Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.8 kg (4.0 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tangled Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

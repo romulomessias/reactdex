@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "552",
+    "defaultName": "Krokorok",
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "forms": [
+        "Krokorok"
+    ],
+    "formsDetails": {
+        "krokorok": {
+            "name": "Krokorok",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                }
+            },
+            "info": {
+                "number": "552",
+                "species": "Desert Croc Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "33.4 kg (73.6 lbs)",
+                "types": [
+                    "ground",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "119",
+    "defaultName": "Seaking",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Seaking"
+    ],
+    "formsDetails": {
+        "seaking": {
+            "name": "Seaking",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                }
+            },
+            "info": {
+                "number": "119",
+                "species": "Goldfish Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "39.0 kg (86.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

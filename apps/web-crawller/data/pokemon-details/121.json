@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "121",
+    "defaultName": "Starmie",
+    "types": [
+        "water",
+        "psychic"
+    ],
+    "forms": [
+        "Starmie"
+    ],
+    "formsDetails": {
+        "starmie": {
+            "name": "Starmie",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                }
+            },
+            "info": {
+                "number": "121",
+                "species": "Mysterious Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "80.0 kg (176.4 lbs)",
+                "types": [
+                    "water",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illuminate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

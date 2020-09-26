@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "644",
+    "defaultName": "Zekrom",
+    "types": [
+        "dragon",
+        "electric"
+    ],
+    "forms": [
+        "Zekrom"
+    ],
+    "formsDetails": {
+        "zekrom": {
+            "name": "Zekrom",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "644",
+                "species": "Deep Black Pokémon",
+                "height": "2.9 m (9′06″)",
+                "weight": "345.0 kg (760.6 lbs)",
+                "types": [
+                    "dragon",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Teravolt",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

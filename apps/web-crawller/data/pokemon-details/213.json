@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "213",
+    "defaultName": "Shuckle",
+    "types": [
+        "bug",
+        "rock"
+    ],
+    "forms": [
+        "Shuckle"
+    ],
+    "formsDetails": {
+        "shuckle": {
+            "name": "Shuckle",
+            "stats": {
+                "hp": {
+                    "base": "20",
+                    "min": "150",
+                    "max": "244"
+                },
+                "attack": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "defense": {
+                    "base": "230",
+                    "min": "418",
+                    "max": "614"
+                },
+                "spAtk": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                },
+                "spDef": {
+                    "base": "230",
+                    "min": "418",
+                    "max": "614"
+                },
+                "speed": {
+                    "base": "5",
+                    "min": "13",
+                    "max": "119"
+                }
+            },
+            "info": {
+                "number": "213",
+                "species": "Mold Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "20.5 kg (45.2 lbs)",
+                "types": [
+                    "bug",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Contrary",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

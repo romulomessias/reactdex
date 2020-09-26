@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "039",
+    "defaultName": "Jigglypuff",
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "forms": [
+        "Jigglypuff"
+    ],
+    "formsDetails": {
+        "jigglypuff": {
+            "name": "Jigglypuff",
+            "stats": {
+                "hp": {
+                    "base": "115",
+                    "min": "340",
+                    "max": "434"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "039",
+                "species": "Balloon Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.5 kg (12.1 lbs)",
+                "types": [
+                    "normal",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

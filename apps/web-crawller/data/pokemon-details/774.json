@@ -1,0 +1,117 @@
+{
+    "generation": 7,
+    "number": "774",
+    "defaultName": "Minior",
+    "types": [
+        "rock",
+        "flying"
+    ],
+    "forms": [
+        "Meteor Form",
+        "Core Form"
+    ],
+    "formsDetails": {
+        "meteorForm": {
+            "name": "Meteor Form",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "774",
+                "species": "Meteor Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shields Down",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "coreForm": {
+            "name": "Core Form",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                }
+            },
+            "info": {
+                "number": "774",
+                "species": "Meteor Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "rock",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shields Down",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

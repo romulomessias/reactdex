@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "863",
+    "defaultName": "Perrserker",
+    "types": [
+        "steel"
+    ],
+    "forms": [
+        "Perrserker"
+    ],
+    "formsDetails": {
+        "perrserker": {
+            "name": "Perrserker",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "863",
+                "species": "Viking Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tough Claws",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steely Spirit",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

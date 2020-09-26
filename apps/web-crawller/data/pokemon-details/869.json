@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "869",
+    "defaultName": "Alcremie",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Alcremie"
+    ],
+    "formsDetails": {
+        "alcremie": {
+            "name": "Alcremie",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                },
+                "speed": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                }
+            },
+            "info": {
+                "number": "869",
+                "species": "Cream Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "0.5 kg (1.1 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aroma Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "409",
+    "defaultName": "Rampardos",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Rampardos"
+    ],
+    "formsDetails": {
+        "rampardos": {
+            "name": "Rampardos",
+            "stats": {
+                "hp": {
+                    "base": "97",
+                    "min": "304",
+                    "max": "398"
+                },
+                "attack": {
+                    "base": "165",
+                    "min": "301",
+                    "max": "471"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                }
+            },
+            "info": {
+                "number": "409",
+                "species": "Head Butt Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "102.5 kg (226.0 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

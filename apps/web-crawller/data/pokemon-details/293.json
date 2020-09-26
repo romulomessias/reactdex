@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "293",
+    "defaultName": "Whismur",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Whismur"
+    ],
+    "formsDetails": {
+        "whismur": {
+            "name": "Whismur",
+            "stats": {
+                "hp": {
+                    "base": "64",
+                    "min": "238",
+                    "max": "332"
+                },
+                "attack": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                },
+                "defense": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                },
+                "spAtk": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                },
+                "spDef": {
+                    "base": "23",
+                    "min": "45",
+                    "max": "159"
+                },
+                "speed": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                }
+            },
+            "info": {
+                "number": "293",
+                "species": "Whisper Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "16.3 kg (35.9 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

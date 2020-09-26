@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "207",
+    "defaultName": "Gligar",
+    "types": [
+        "ground",
+        "flying"
+    ],
+    "forms": [
+        "Gligar"
+    ],
+    "formsDetails": {
+        "gligar": {
+            "name": "Gligar",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "207",
+                "species": "FlyScorpion Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "64.8 kg (142.9 lbs)",
+                "types": [
+                    "ground",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Immunity",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

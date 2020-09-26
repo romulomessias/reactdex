@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "824",
+    "defaultName": "Blipbug",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Blipbug"
+    ],
+    "formsDetails": {
+        "blipbug": {
+            "name": "Blipbug",
+            "stats": {
+                "hp": {
+                    "base": "25",
+                    "min": "160",
+                    "max": "254"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spAtk": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "824",
+                "species": "Larva Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "8.0 kg (17.6 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Compound Eyes",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

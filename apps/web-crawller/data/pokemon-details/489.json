@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "489",
+    "defaultName": "Phione",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Phione"
+    ],
+    "formsDetails": {
+        "phione": {
+            "name": "Phione",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "489",
+                "species": "Sea Drifter Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "3.1 kg (6.8 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

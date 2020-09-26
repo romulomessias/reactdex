@@ -1,0 +1,122 @@
+{
+    "generation": 3,
+    "number": "362",
+    "defaultName": "Glalie",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Glalie",
+        "Mega Glalie"
+    ],
+    "formsDetails": {
+        "glalie": {
+            "name": "Glalie",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "362",
+                "species": "Face Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "256.5 kg (565.5 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moody",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaGlalie": {
+            "name": "Mega Glalie",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "362",
+                "species": "Face Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "350.2 kg (772.1 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Refrigerate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "440",
+    "defaultName": "Happiny",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Happiny"
+    ],
+    "formsDetails": {
+        "happiny": {
+            "name": "Happiny",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "5",
+                    "min": "13",
+                    "max": "119"
+                },
+                "defense": {
+                    "base": "5",
+                    "min": "13",
+                    "max": "119"
+                },
+                "spAtk": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "440",
+                "species": "Playhouse Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "24.4 kg (53.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

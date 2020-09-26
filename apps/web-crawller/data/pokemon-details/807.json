@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "807",
+    "defaultName": "Zeraora",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Zeraora"
+    ],
+    "formsDetails": {
+        "zeraora": {
+            "name": "Zeraora",
+            "stats": {
+                "hp": {
+                    "base": "88",
+                    "min": "286",
+                    "max": "380"
+                },
+                "attack": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "102",
+                    "min": "188",
+                    "max": "333"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "143",
+                    "min": "261",
+                    "max": "423"
+                }
+            },
+            "info": {
+                "number": "807",
+                "species": "Thunderclap Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "44.5 kg (98.1 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Volt Absorb",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

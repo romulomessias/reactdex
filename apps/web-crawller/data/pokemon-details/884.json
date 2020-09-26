@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "884",
+    "defaultName": "Duraludon",
+    "types": [
+        "steel",
+        "dragon"
+    ],
+    "forms": [
+        "Duraludon"
+    ],
+    "formsDetails": {
+        "duraludon": {
+            "name": "Duraludon",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "884",
+                "species": "Alloy Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "40.0 kg (88.2 lbs)",
+                "types": [
+                    "steel",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Light Metal",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heavy Metal",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stalwart",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

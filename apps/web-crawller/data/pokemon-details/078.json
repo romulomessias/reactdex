@@ -1,0 +1,131 @@
+{
+    "generation": 1,
+    "number": "078",
+    "defaultName": "Rapidash",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Rapidash",
+        "Galarian Rapidash"
+    ],
+    "formsDetails": {
+        "rapidash": {
+            "name": "Rapidash",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "078",
+                "species": "Fire Horse Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "95.0 kg (209.4 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianRapidash": {
+            "name": "Galarian Rapidash",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "078",
+                "species": "Unique Horn Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "80.0 kg (176.4 lbs)",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pastel Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anticipation",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

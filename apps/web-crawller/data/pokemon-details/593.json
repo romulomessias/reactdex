@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "593",
+    "defaultName": "Jellicent",
+    "types": [
+        "water",
+        "ghost"
+    ],
+    "forms": [
+        "Jellicent"
+    ],
+    "formsDetails": {
+        "jellicent": {
+            "name": "Jellicent",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "593",
+                "species": "Floating Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "135.0 kg (297.6 lbs)",
+                "types": [
+                    "water",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

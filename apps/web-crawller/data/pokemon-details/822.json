@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "822",
+    "defaultName": "Corvisquire",
+    "types": [
+        "flying"
+    ],
+    "forms": [
+        "Corvisquire"
+    ],
+    "formsDetails": {
+        "corvisquire": {
+            "name": "Corvisquire",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                }
+            },
+            "info": {
+                "number": "822",
+                "species": "Raven Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "16.0 kg (35.3 lbs)",
+                "types": [
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

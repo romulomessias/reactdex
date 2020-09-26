@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "477",
+    "defaultName": "Dusknoir",
+    "types": [
+        "ghost"
+    ],
+    "forms": [
+        "Dusknoir"
+    ],
+    "formsDetails": {
+        "dusknoir": {
+            "name": "Dusknoir",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "477",
+                "species": "Gripper Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "106.6 kg (235.0 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "generation": 1,
+    "number": "050",
+    "defaultName": "Diglett",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Diglett",
+        "Alolan Diglett"
+    ],
+    "formsDetails": {
+        "diglett": {
+            "name": "Diglett",
+            "stats": {
+                "hp": {
+                    "base": "10",
+                    "min": "130",
+                    "max": "224"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "050",
+                "species": "Mole Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.8 kg (1.8 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Arena Trap",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanDiglett": {
+            "name": "Alolan Diglett",
+            "stats": {
+                "hp": {
+                    "base": "10",
+                    "min": "130",
+                    "max": "224"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "050",
+                "species": "Mole Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "ground",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tangling Hair",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

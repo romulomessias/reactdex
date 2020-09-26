@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "number": "728",
+    "defaultName": "Popplio",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Popplio"
+    ],
+    "formsDetails": {
+        "popplio": {
+            "name": "Popplio",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "defense": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "spAtk": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "spDef": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "728",
+                "species": "Sea Lion Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "7.5 kg (16.5 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Liquid Voice",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "107",
+    "defaultName": "Hitmonchan",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Hitmonchan"
+    ],
+    "formsDetails": {
+        "hitmonchan": {
+            "name": "Hitmonchan",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "76",
+                    "min": "141",
+                    "max": "276"
+                }
+            },
+            "info": {
+                "number": "107",
+                "species": "Punching Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "50.2 kg (110.7 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

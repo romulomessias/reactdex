@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "853",
+    "defaultName": "Grapploct",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Grapploct"
+    ],
+    "formsDetails": {
+        "grapploct": {
+            "name": "Grapploct",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "118",
+                    "min": "216",
+                    "max": "368"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                }
+            },
+            "info": {
+                "number": "853",
+                "species": "Tantrum Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "39.0 kg (86.0 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

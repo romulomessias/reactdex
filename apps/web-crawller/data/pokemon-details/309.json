@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "309",
+    "defaultName": "Electrike",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Electrike"
+    ],
+    "formsDetails": {
+        "electrike": {
+            "name": "Electrike",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "309",
+                "species": "Lightning Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "15.2 kg (33.5 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Minus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "040",
+    "defaultName": "Wigglytuff",
+    "types": [
+        "normal",
+        "fairy"
+    ],
+    "forms": [
+        "Wigglytuff"
+    ],
+    "formsDetails": {
+        "wigglytuff": {
+            "name": "Wigglytuff",
+            "stats": {
+                "hp": {
+                    "base": "140",
+                    "min": "390",
+                    "max": "484"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "040",
+                "species": "Balloon Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "normal",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

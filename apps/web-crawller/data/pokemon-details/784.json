@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "784",
+    "defaultName": "Kommo-o",
+    "types": [
+        "dragon",
+        "fighting"
+    ],
+    "forms": [
+        "Kommo-o"
+    ],
+    "formsDetails": {
+        "kommo-o": {
+            "name": "Kommo-o",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "784",
+                "species": "Scaly Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "78.2 kg (172.4 lbs)",
+                "types": [
+                    "dragon",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Soundproof",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

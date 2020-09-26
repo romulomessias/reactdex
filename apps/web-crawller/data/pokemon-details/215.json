@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "215",
+    "defaultName": "Sneasel",
+    "types": [
+        "dark",
+        "ice"
+    ],
+    "forms": [
+        "Sneasel"
+    ],
+    "formsDetails": {
+        "sneasel": {
+            "name": "Sneasel",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                }
+            },
+            "info": {
+                "number": "215",
+                "species": "Sharp Claw Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "dark",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickpocket",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

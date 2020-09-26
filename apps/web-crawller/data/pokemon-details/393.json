@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "393",
+    "defaultName": "Piplup",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Piplup"
+    ],
+    "formsDetails": {
+        "piplup": {
+            "name": "Piplup",
+            "stats": {
+                "hp": {
+                    "base": "53",
+                    "min": "216",
+                    "max": "310"
+                },
+                "attack": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "61",
+                    "min": "114",
+                    "max": "243"
+                },
+                "spDef": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "393",
+                "species": "Penguin Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.2 kg (11.5 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

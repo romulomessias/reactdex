@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "297",
+    "defaultName": "Hariyama",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Hariyama"
+    ],
+    "formsDetails": {
+        "hariyama": {
+            "name": "Hariyama",
+            "stats": {
+                "hp": {
+                    "base": "144",
+                    "min": "398",
+                    "max": "492"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "297",
+                "species": "Arm Thrust Pokémon",
+                "height": "2.3 m (7′07″)",
+                "weight": "253.8 kg (559.5 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "635",
+    "defaultName": "Hydreigon",
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "forms": [
+        "Hydreigon"
+    ],
+    "formsDetails": {
+        "hydreigon": {
+            "name": "Hydreigon",
+            "stats": {
+                "hp": {
+                    "base": "92",
+                    "min": "294",
+                    "max": "388"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                }
+            },
+            "info": {
+                "number": "635",
+                "species": "Brutal Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "160.0 kg (352.7 lbs)",
+                "types": [
+                    "dark",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

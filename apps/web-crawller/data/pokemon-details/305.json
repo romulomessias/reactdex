@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "305",
+    "defaultName": "Lairon",
+    "types": [
+        "steel",
+        "rock"
+    ],
+    "forms": [
+        "Lairon"
+    ],
+    "formsDetails": {
+        "lairon": {
+            "name": "Lairon",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "305",
+                "species": "Iron Armor Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "steel",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Heavy Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

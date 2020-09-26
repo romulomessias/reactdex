@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "262",
+    "defaultName": "Mightyena",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Mightyena"
+    ],
+    "formsDetails": {
+        "mightyena": {
+            "name": "Mightyena",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "262",
+                "species": "Bite Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "37.0 kg (81.6 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "231",
+    "defaultName": "Phanpy",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Phanpy"
+    ],
+    "formsDetails": {
+        "phanpy": {
+            "name": "Phanpy",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "231",
+                "species": "Long Nose Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "33.5 kg (73.9 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

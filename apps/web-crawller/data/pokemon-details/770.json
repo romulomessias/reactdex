@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "770",
+    "defaultName": "Palossand",
+    "types": [
+        "ghost",
+        "ground"
+    ],
+    "forms": [
+        "Palossand"
+    ],
+    "formsDetails": {
+        "palossand": {
+            "name": "Palossand",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "770",
+                "species": "Sand Castle Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "250.0 kg (551.2 lbs)",
+                "types": [
+                    "ghost",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Compaction",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

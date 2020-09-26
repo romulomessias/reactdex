@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "866",
+    "defaultName": "Mr. Rime",
+    "types": [
+        "psychic",
+        "ice"
+    ],
+    "forms": [
+        "Mr. Rime"
+    ],
+    "formsDetails": {
+        "mr.Rime": {
+            "name": "Mr. Rime",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "866",
+                "species": "Comedian Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "58.2 kg (128.3 lbs)",
+                "types": [
+                    "psychic",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Tangled Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Screen Cleaner",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

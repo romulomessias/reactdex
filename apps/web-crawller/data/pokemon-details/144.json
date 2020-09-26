@@ -1,0 +1,90 @@
+{
+    "generation": 1,
+    "number": "144",
+    "defaultName": "Articuno",
+    "types": [
+        "ice",
+        "flying"
+    ],
+    "forms": [
+        "Articuno",
+        "Galarian Articuno"
+    ],
+    "formsDetails": {
+        "articuno": {
+            "name": "Articuno",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "144",
+                "species": "Freeze Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "55.4 kg (122.1 lbs)",
+                "types": [
+                    "ice",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianArticuno": {
+            "name": "Galarian Articuno",
+            "stats": {},
+            "info": {
+                "number": "144",
+                "species": "Cruel Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "50.9 kg (112.2 lbs)",
+                "types": [
+                    "psychic",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Competitive",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

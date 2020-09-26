@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "609",
+    "defaultName": "Chandelure",
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "forms": [
+        "Chandelure"
+    ],
+    "formsDetails": {
+        "chandelure": {
+            "name": "Chandelure",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "609",
+                "species": "Luring Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "34.3 kg (75.6 lbs)",
+                "types": [
+                    "ghost",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

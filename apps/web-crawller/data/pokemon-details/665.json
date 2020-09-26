@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "665",
+    "defaultName": "Spewpa",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Spewpa"
+    ],
+    "formsDetails": {
+        "spewpa": {
+            "name": "Spewpa",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "22",
+                    "min": "44",
+                    "max": "157"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "27",
+                    "min": "53",
+                    "max": "168"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                }
+            },
+            "info": {
+                "number": "665",
+                "species": "Scatterdust Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "8.4 kg (18.5 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

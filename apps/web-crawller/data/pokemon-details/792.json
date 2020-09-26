@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "792",
+    "defaultName": "Lunala",
+    "types": [
+        "psychic",
+        "ghost"
+    ],
+    "forms": [
+        "Lunala"
+    ],
+    "formsDetails": {
+        "lunala": {
+            "name": "Lunala",
+            "stats": {
+                "hp": {
+                    "base": "137",
+                    "min": "384",
+                    "max": "478"
+                },
+                "attack": {
+                    "base": "113",
+                    "min": "207",
+                    "max": "357"
+                },
+                "defense": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "spAtk": {
+                    "base": "137",
+                    "min": "251",
+                    "max": "410"
+                },
+                "spDef": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                },
+                "speed": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                }
+            },
+            "info": {
+                "number": "792",
+                "species": "Moone Pokémon",
+                "height": "4.0 m (13′01″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "psychic",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shadow Shield",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

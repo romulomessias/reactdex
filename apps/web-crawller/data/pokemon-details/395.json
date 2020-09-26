@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "395",
+    "defaultName": "Empoleon",
+    "types": [
+        "water",
+        "steel"
+    ],
+    "forms": [
+        "Empoleon"
+    ],
+    "formsDetails": {
+        "empoleon": {
+            "name": "Empoleon",
+            "stats": {
+                "hp": {
+                    "base": "84",
+                    "min": "278",
+                    "max": "372"
+                },
+                "attack": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "defense": {
+                    "base": "88",
+                    "min": "162",
+                    "max": "302"
+                },
+                "spAtk": {
+                    "base": "111",
+                    "min": "204",
+                    "max": "353"
+                },
+                "spDef": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "395",
+                "species": "Emperor Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "84.5 kg (186.3 lbs)",
+                "types": [
+                    "water",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

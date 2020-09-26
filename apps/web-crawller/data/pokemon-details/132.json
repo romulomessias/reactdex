@@ -1,0 +1,67 @@
+{
+    "generation": 1,
+    "number": "132",
+    "defaultName": "Ditto",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Ditto"
+    ],
+    "formsDetails": {
+        "ditto": {
+            "name": "Ditto",
+            "stats": {
+                "hp": {
+                    "base": "48",
+                    "min": "206",
+                    "max": "300"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                }
+            },
+            "info": {
+                "number": "132",
+                "species": "Transform Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "4.0 kg (8.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Imposter",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

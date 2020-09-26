@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "586",
+    "defaultName": "Sawsbuck",
+    "types": [
+        "normal",
+        "grass"
+    ],
+    "forms": [
+        "Sawsbuck"
+    ],
+    "formsDetails": {
+        "sawsbuck": {
+            "name": "Sawsbuck",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "586",
+                "species": "Season Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "92.5 kg (203.9 lbs)",
+                "types": [
+                    "normal",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

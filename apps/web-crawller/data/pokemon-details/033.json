@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "033",
+    "defaultName": "Nidorino",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Nidorino"
+    ],
+    "formsDetails": {
+        "nidorino": {
+            "name": "Nidorino",
+            "stats": {
+                "hp": {
+                    "base": "61",
+                    "min": "232",
+                    "max": "326"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "033",
+                "species": "Poison Pin Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "19.5 kg (43.0 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

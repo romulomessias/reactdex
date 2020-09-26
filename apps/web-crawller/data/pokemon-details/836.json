@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "836",
+    "defaultName": "Boltund",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Boltund"
+    ],
+    "formsDetails": {
+        "boltund": {
+            "name": "Boltund",
+            "stats": {
+                "hp": {
+                    "base": "69",
+                    "min": "248",
+                    "max": "342"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                }
+            },
+            "info": {
+                "number": "836",
+                "species": "Dog Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "34.0 kg (75.0 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Strong Jaw",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Competitive",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

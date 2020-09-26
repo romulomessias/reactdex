@@ -1,0 +1,69 @@
+{
+    "generation": 5,
+    "number": "637",
+    "defaultName": "Volcarona",
+    "types": [
+        "bug",
+        "fire"
+    ],
+    "forms": [
+        "Volcarona"
+    ],
+    "formsDetails": {
+        "volcarona": {
+            "name": "Volcarona",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "637",
+                "species": "Sun Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "46.0 kg (101.4 lbs)",
+                "types": [
+                    "bug",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swarm",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

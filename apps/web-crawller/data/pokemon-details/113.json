@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "113",
+    "defaultName": "Chansey",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Chansey"
+    ],
+    "formsDetails": {
+        "chansey": {
+            "name": "Chansey",
+            "stats": {
+                "hp": {
+                    "base": "250",
+                    "min": "610",
+                    "max": "704"
+                },
+                "attack": {
+                    "base": "5",
+                    "min": "13",
+                    "max": "119"
+                },
+                "defense": {
+                    "base": "5",
+                    "min": "13",
+                    "max": "119"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "113",
+                "species": "Egg Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "34.6 kg (76.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Healer",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

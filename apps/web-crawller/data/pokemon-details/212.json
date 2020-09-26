@@ -1,0 +1,125 @@
+{
+    "generation": 2,
+    "number": "212",
+    "defaultName": "Scizor",
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "forms": [
+        "Scizor",
+        "Mega Scizor"
+    ],
+    "formsDetails": {
+        "scizor": {
+            "name": "Scizor",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "212",
+                "species": "Pincer Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "118.0 kg (260.1 lbs)",
+                "types": [
+                    "bug",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Light Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaScizor": {
+            "name": "Mega Scizor",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "212",
+                "species": "Pincer Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "125.0 kg (275.6 lbs)",
+                "types": [
+                    "bug",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

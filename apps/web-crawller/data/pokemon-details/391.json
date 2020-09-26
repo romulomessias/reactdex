@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "391",
+    "defaultName": "Monferno",
+    "types": [
+        "fire",
+        "fighting"
+    ],
+    "forms": [
+        "Monferno"
+    ],
+    "formsDetails": {
+        "monferno": {
+            "name": "Monferno",
+            "stats": {
+                "hp": {
+                    "base": "64",
+                    "min": "238",
+                    "max": "332"
+                },
+                "attack": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "defense": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "spAtk": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spDef": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "speed": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                }
+            },
+            "info": {
+                "number": "391",
+                "species": "Playful Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "22.0 kg (48.5 lbs)",
+                "types": [
+                    "fire",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

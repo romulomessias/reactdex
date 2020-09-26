@@ -1,0 +1,63 @@
+{
+    "generation": 6,
+    "number": "692",
+    "defaultName": "Clauncher",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Clauncher"
+    ],
+    "formsDetails": {
+        "clauncher": {
+            "name": "Clauncher",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                }
+            },
+            "info": {
+                "number": "692",
+                "species": "Water Gun Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "8.3 kg (18.3 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Mega Launcher",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

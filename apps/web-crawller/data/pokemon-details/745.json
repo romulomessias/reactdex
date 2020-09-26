@@ -1,0 +1,181 @@
+{
+    "generation": 7,
+    "number": "745",
+    "defaultName": "Lycanroc",
+    "types": [
+        "rock"
+    ],
+    "forms": [
+        "Midday Form",
+        "Midnight Form",
+        "Dusk Form"
+    ],
+    "formsDetails": {
+        "middayForm": {
+            "name": "Midday Form",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                }
+            },
+            "info": {
+                "number": "745",
+                "species": "Wolf Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "25.0 kg (55.1 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Rush",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steadfast",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "midnightForm": {
+            "name": "Midnight Form",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                }
+            },
+            "info": {
+                "number": "745",
+                "species": "Wolf Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "25.0 kg (55.1 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "No Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "duskForm": {
+            "name": "Dusk Form",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "117",
+                    "min": "215",
+                    "max": "366"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "745",
+                "species": "Wolf Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "25.0 kg (55.1 lbs)",
+                "types": [
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Tough Claws",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

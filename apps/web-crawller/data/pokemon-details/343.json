@@ -1,0 +1,65 @@
+{
+    "generation": 3,
+    "number": "343",
+    "defaultName": "Baltoy",
+    "types": [
+        "ground",
+        "psychic"
+    ],
+    "forms": [
+        "Baltoy"
+    ],
+    "formsDetails": {
+        "baltoy": {
+            "name": "Baltoy",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "343",
+                "species": "Clay Doll Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "21.5 kg (47.4 lbs)",
+                "types": [
+                    "ground",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

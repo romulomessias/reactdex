@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "328",
+    "defaultName": "Trapinch",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Trapinch"
+    ],
+    "formsDetails": {
+        "trapinch": {
+            "name": "Trapinch",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "10",
+                    "min": "22",
+                    "max": "130"
+                }
+            },
+            "info": {
+                "number": "328",
+                "species": "Ant Pit Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "15.0 kg (33.1 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Arena Trap",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

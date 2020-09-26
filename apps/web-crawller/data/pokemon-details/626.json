@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "626",
+    "defaultName": "Bouffalant",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Bouffalant"
+    ],
+    "formsDetails": {
+        "bouffalant": {
+            "name": "Bouffalant",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "626",
+                "species": "Bash Buffalo Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "94.6 kg (208.6 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Reckless",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Soundproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

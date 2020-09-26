@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "649",
+    "defaultName": "Genesect",
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "forms": [
+        "Genesect"
+    ],
+    "formsDetails": {
+        "genesect": {
+            "name": "Genesect",
+            "stats": {
+                "hp": {
+                    "base": "71",
+                    "min": "252",
+                    "max": "346"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                }
+            },
+            "info": {
+                "number": "649",
+                "species": "Paleozoic Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "82.5 kg (181.9 lbs)",
+                "types": [
+                    "bug",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Download",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

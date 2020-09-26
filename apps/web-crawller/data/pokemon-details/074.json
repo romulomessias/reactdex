@@ -1,0 +1,133 @@
+{
+    "generation": 1,
+    "number": "074",
+    "defaultName": "Geodude",
+    "types": [
+        "rock",
+        "ground"
+    ],
+    "forms": [
+        "Geodude",
+        "Alolan Geodude"
+    ],
+    "formsDetails": {
+        "geodude": {
+            "name": "Geodude",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "074",
+                "species": "Rock Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "20.0 kg (44.1 lbs)",
+                "types": [
+                    "rock",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rock Head",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "alolanGeodude": {
+            "name": "Alolan Geodude",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "074",
+                "species": "Rock Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "20.3 kg (44.8 lbs)",
+                "types": [
+                    "rock",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magnet Pull",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Galvanize",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

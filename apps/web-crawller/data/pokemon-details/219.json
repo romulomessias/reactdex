@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "219",
+    "defaultName": "Magcargo",
+    "types": [
+        "fire",
+        "rock"
+    ],
+    "forms": [
+        "Magcargo"
+    ],
+    "formsDetails": {
+        "magcargo": {
+            "name": "Magcargo",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "219",
+                "species": "Lava Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "55.0 kg (121.3 lbs)",
+                "types": [
+                    "fire",
+                    "rock"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magma Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

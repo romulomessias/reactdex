@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "815",
+    "defaultName": "Cinderace",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Cinderace"
+    ],
+    "formsDetails": {
+        "cinderace": {
+            "name": "Cinderace",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "116",
+                    "min": "213",
+                    "max": "364"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "119",
+                    "min": "218",
+                    "max": "370"
+                }
+            },
+            "info": {
+                "number": "815",
+                "species": "Striker Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "33.0 kg (72.8 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Libero",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

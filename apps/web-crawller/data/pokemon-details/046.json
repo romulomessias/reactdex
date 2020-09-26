@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "046",
+    "defaultName": "Paras",
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "forms": [
+        "Paras"
+    ],
+    "formsDetails": {
+        "paras": {
+            "name": "Paras",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                }
+            },
+            "info": {
+                "number": "046",
+                "species": "Mushroom Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "5.4 kg (11.9 lbs)",
+                "types": [
+                    "bug",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Dry Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

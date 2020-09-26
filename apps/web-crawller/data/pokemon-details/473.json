@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "473",
+    "defaultName": "Mamoswine",
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "forms": [
+        "Mamoswine"
+    ],
+    "formsDetails": {
+        "mamoswine": {
+            "name": "Mamoswine",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "473",
+                "species": "Twin Tusk Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "291.0 kg (641.5 lbs)",
+                "types": [
+                    "ice",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "generation": 6,
+    "number": "681",
+    "defaultName": "Aegislash",
+    "types": [
+        "steel",
+        "ghost"
+    ],
+    "forms": [
+        "Shield Forme",
+        "Blade Forme"
+    ],
+    "formsDetails": {
+        "shieldForme": {
+            "name": "Shield Forme",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "681",
+                "species": "Royal Sword Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "53.0 kg (116.8 lbs)",
+                "types": [
+                    "steel",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Stance Change",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "bladeForme": {
+            "name": "Blade Forme",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "681",
+                "species": "Royal Sword Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "53.0 kg (116.8 lbs)",
+                "types": [
+                    "steel",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Stance Change",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

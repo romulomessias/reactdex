@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "612",
+    "defaultName": "Haxorus",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Haxorus"
+    ],
+    "formsDetails": {
+        "haxorus": {
+            "name": "Haxorus",
+            "stats": {
+                "hp": {
+                    "base": "76",
+                    "min": "262",
+                    "max": "356"
+                },
+                "attack": {
+                    "base": "147",
+                    "min": "269",
+                    "max": "432"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                }
+            },
+            "info": {
+                "number": "612",
+                "species": "Axe Jaw Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "105.5 kg (232.6 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

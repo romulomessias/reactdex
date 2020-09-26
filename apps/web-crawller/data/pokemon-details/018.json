@@ -1,0 +1,125 @@
+{
+    "generation": 1,
+    "number": "018",
+    "defaultName": "Pidgeot",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Pidgeot",
+        "Mega Pidgeot"
+    ],
+    "formsDetails": {
+        "pidgeot": {
+            "name": "Pidgeot",
+            "stats": {
+                "hp": {
+                    "base": "83",
+                    "min": "276",
+                    "max": "370"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                }
+            },
+            "info": {
+                "number": "018",
+                "species": "Bird Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "39.5 kg (87.1 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Tangled Feet",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaPidgeot": {
+            "name": "Mega Pidgeot",
+            "stats": {
+                "hp": {
+                    "base": "83",
+                    "min": "276",
+                    "max": "370"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                }
+            },
+            "info": {
+                "number": "018",
+                "species": "Bird Pokémon",
+                "height": "2.2 m (7′03″)",
+                "weight": "50.5 kg (111.3 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "No Guard",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

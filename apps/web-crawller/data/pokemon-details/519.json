@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "519",
+    "defaultName": "Pidove",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Pidove"
+    ],
+    "formsDetails": {
+        "pidove": {
+            "name": "Pidove",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "519",
+                "species": "Tiny Pigeon Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.1 kg (4.6 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Big Pecks",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rivalry",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

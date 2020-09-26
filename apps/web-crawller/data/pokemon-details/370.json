@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "370",
+    "defaultName": "Luvdisc",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Luvdisc"
+    ],
+    "formsDetails": {
+        "luvdisc": {
+            "name": "Luvdisc",
+            "stats": {
+                "hp": {
+                    "base": "43",
+                    "min": "196",
+                    "max": "290"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                }
+            },
+            "info": {
+                "number": "370",
+                "species": "Rendezvous Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.7 kg (19.2 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

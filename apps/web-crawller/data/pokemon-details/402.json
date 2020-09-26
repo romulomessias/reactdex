@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "402",
+    "defaultName": "Kricketune",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Kricketune"
+    ],
+    "formsDetails": {
+        "kricketune": {
+            "name": "Kricketune",
+            "stats": {
+                "hp": {
+                    "base": "77",
+                    "min": "264",
+                    "max": "358"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "402",
+                "species": "Cricket Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "25.5 kg (56.2 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Technician",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

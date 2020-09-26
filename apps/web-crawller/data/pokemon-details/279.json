@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "279",
+    "defaultName": "Pelipper",
+    "types": [
+        "water",
+        "flying"
+    ],
+    "forms": [
+        "Pelipper"
+    ],
+    "formsDetails": {
+        "pelipper": {
+            "name": "Pelipper",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "279",
+                "species": "Water Bird Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "water",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Drizzle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

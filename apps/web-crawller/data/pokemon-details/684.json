@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "684",
+    "defaultName": "Swirlix",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Swirlix"
+    ],
+    "formsDetails": {
+        "swirlix": {
+            "name": "Swirlix",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "spAtk": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                },
+                "spDef": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "speed": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                }
+            },
+            "info": {
+                "number": "684",
+                "species": "Cotton Candy Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "3.5 kg (7.7 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

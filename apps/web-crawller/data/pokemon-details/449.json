@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "449",
+    "defaultName": "Hippopotas",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Hippopotas"
+    ],
+    "formsDetails": {
+        "hippopotas": {
+            "name": "Hippopotas",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "defense": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spAtk": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "spDef": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "speed": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                }
+            },
+            "info": {
+                "number": "449",
+                "species": "Hippo Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "49.5 kg (109.1 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Stream",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

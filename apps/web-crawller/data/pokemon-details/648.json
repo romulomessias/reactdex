@@ -1,0 +1,117 @@
+{
+    "generation": 5,
+    "number": "648",
+    "defaultName": "Meloetta",
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "forms": [
+        "Aria Forme",
+        "Pirouette Forme"
+    ],
+    "formsDetails": {
+        "ariaForme": {
+            "name": "Aria Forme",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "defense": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spAtk": {
+                    "base": "128",
+                    "min": "234",
+                    "max": "390"
+                },
+                "spDef": {
+                    "base": "128",
+                    "min": "234",
+                    "max": "390"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "648",
+                "species": "Melody Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "normal",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "pirouetteForme": {
+            "name": "Pirouette Forme",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "128",
+                    "min": "234",
+                    "max": "390"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spDef": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "speed": {
+                    "base": "128",
+                    "min": "234",
+                    "max": "390"
+                }
+            },
+            "info": {
+                "number": "648",
+                "species": "Melody Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "normal",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Serene Grace",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

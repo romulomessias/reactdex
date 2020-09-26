@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "545",
+    "defaultName": "Scolipede",
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "forms": [
+        "Scolipede"
+    ],
+    "formsDetails": {
+        "scolipede": {
+            "name": "Scolipede",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "89",
+                    "min": "164",
+                    "max": "304"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "speed": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                }
+            },
+            "info": {
+                "number": "545",
+                "species": "Megapede Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "200.5 kg (442.0 lbs)",
+                "types": [
+                    "bug",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Speed Boost",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

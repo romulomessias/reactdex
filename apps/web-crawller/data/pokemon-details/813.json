@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "813",
+    "defaultName": "Scorbunny",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Scorbunny"
+    ],
+    "formsDetails": {
+        "scorbunny": {
+            "name": "Scorbunny",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "71",
+                    "min": "132",
+                    "max": "265"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                }
+            },
+            "info": {
+                "number": "813",
+                "species": "Rabbit Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "4.5 kg (9.9 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Libero",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

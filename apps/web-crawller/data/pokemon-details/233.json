@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "233",
+    "defaultName": "Porygon2",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Porygon2"
+    ],
+    "formsDetails": {
+        "porygon2": {
+            "name": "Porygon2",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "233",
+                "species": "Virtual Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "32.5 kg (71.7 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Trace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Download",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

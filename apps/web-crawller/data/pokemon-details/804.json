@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "804",
+    "defaultName": "Naganadel",
+    "types": [
+        "poison",
+        "dragon"
+    ],
+    "forms": [
+        "Naganadel"
+    ],
+    "formsDetails": {
+        "naganadel": {
+            "name": "Naganadel",
+            "stats": {
+                "hp": {
+                    "base": "73",
+                    "min": "256",
+                    "max": "350"
+                },
+                "attack": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "defense": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "spAtk": {
+                    "base": "127",
+                    "min": "233",
+                    "max": "388"
+                },
+                "spDef": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "speed": {
+                    "base": "121",
+                    "min": "222",
+                    "max": "375"
+                }
+            },
+            "info": {
+                "number": "804",
+                "species": "Poison Pin Pokémon",
+                "height": "3.6 m (11′10″)",
+                "weight": "150.0 kg (330.7 lbs)",
+                "types": [
+                    "poison",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

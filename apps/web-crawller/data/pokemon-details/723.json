@@ -1,0 +1,69 @@
+{
+    "generation": 7,
+    "number": "723",
+    "defaultName": "Dartrix",
+    "types": [
+        "grass",
+        "flying"
+    ],
+    "forms": [
+        "Dartrix"
+    ],
+    "formsDetails": {
+        "dartrix": {
+            "name": "Dartrix",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                }
+            },
+            "info": {
+                "number": "723",
+                "species": "Blade Quill Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "16.0 kg (35.3 lbs)",
+                "types": [
+                    "grass",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Long Reach",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

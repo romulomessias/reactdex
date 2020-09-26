@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "191",
+    "defaultName": "Sunkern",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Sunkern"
+    ],
+    "formsDetails": {
+        "sunkern": {
+            "name": "Sunkern",
+            "stats": {
+                "hp": {
+                    "base": "30",
+                    "min": "170",
+                    "max": "264"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "191",
+                "species": "Seed Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.8 kg (4.0 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solar Power",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

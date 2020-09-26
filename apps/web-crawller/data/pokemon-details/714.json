@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "714",
+    "defaultName": "Noibat",
+    "types": [
+        "flying",
+        "dragon"
+    ],
+    "forms": [
+        "Noibat"
+    ],
+    "formsDetails": {
+        "noibat": {
+            "name": "Noibat",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "714",
+                "species": "Sound Wave Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "8.0 kg (17.6 lbs)",
+                "types": [
+                    "flying",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

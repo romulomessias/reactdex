@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "764",
+    "defaultName": "Comfey",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Comfey"
+    ],
+    "formsDetails": {
+        "comfey": {
+            "name": "Comfey",
+            "stats": {
+                "hp": {
+                    "base": "51",
+                    "min": "212",
+                    "max": "306"
+                },
+                "attack": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "764",
+                "species": "Posy Picker Pokémon",
+                "height": "0.1 m (0′04″)",
+                "weight": "0.3 kg (0.7 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flower Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Triage",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "172",
+    "defaultName": "Pichu",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Pichu"
+    ],
+    "formsDetails": {
+        "pichu": {
+            "name": "Pichu",
+            "stats": {
+                "hp": {
+                    "base": "20",
+                    "min": "150",
+                    "max": "244"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "172",
+                "species": "Tiny Mouse Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.0 kg (4.4 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Static",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "610",
+    "defaultName": "Axew",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Axew"
+    ],
+    "formsDetails": {
+        "axew": {
+            "name": "Axew",
+            "stats": {
+                "hp": {
+                    "base": "46",
+                    "min": "202",
+                    "max": "296"
+                },
+                "attack": {
+                    "base": "87",
+                    "min": "161",
+                    "max": "300"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                }
+            },
+            "info": {
+                "number": "610",
+                "species": "Tusk Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "18.0 kg (39.7 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

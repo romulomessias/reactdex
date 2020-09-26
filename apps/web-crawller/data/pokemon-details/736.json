@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "736",
+    "defaultName": "Grubbin",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Grubbin"
+    ],
+    "formsDetails": {
+        "grubbin": {
+            "name": "Grubbin",
+            "stats": {
+                "hp": {
+                    "base": "47",
+                    "min": "204",
+                    "max": "298"
+                },
+                "attack": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                }
+            },
+            "info": {
+                "number": "736",
+                "species": "Larva Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.4 kg (9.7 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "450",
+    "defaultName": "Hippowdon",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Hippowdon"
+    ],
+    "formsDetails": {
+        "hippowdon": {
+            "name": "Hippowdon",
+            "stats": {
+                "hp": {
+                    "base": "108",
+                    "min": "326",
+                    "max": "420"
+                },
+                "attack": {
+                    "base": "112",
+                    "min": "206",
+                    "max": "355"
+                },
+                "defense": {
+                    "base": "118",
+                    "min": "216",
+                    "max": "368"
+                },
+                "spAtk": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "spDef": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "speed": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                }
+            },
+            "info": {
+                "number": "450",
+                "species": "Heavyweight Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "300.0 kg (661.4 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Stream",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

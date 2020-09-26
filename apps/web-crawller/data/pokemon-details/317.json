@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "317",
+    "defaultName": "Swalot",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Swalot"
+    ],
+    "formsDetails": {
+        "swalot": {
+            "name": "Swalot",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "defense": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spAtk": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "spDef": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "317",
+                "species": "Poison Bag Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "80.0 kg (176.4 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Liquid Ooze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sticky Hold",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

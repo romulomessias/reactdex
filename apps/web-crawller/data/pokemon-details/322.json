@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "322",
+    "defaultName": "Numel",
+    "types": [
+        "fire",
+        "ground"
+    ],
+    "forms": [
+        "Numel"
+    ],
+    "formsDetails": {
+        "numel": {
+            "name": "Numel",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "322",
+                "species": "Numb Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "24.0 kg (52.9 lbs)",
+                "types": [
+                    "fire",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Simple",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

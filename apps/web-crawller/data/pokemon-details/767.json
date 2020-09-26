@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "767",
+    "defaultName": "Wimpod",
+    "types": [
+        "bug",
+        "water"
+    ],
+    "forms": [
+        "Wimpod"
+    ],
+    "formsDetails": {
+        "wimpod": {
+            "name": "Wimpod",
+            "stats": {
+                "hp": {
+                    "base": "25",
+                    "min": "160",
+                    "max": "254"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "767",
+                "species": "Turn Tail Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "bug",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Wimp Out",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

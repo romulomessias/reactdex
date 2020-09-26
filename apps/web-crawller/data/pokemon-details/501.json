@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "501",
+    "defaultName": "Oshawott",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Oshawott"
+    ],
+    "formsDetails": {
+        "oshawott": {
+            "name": "Oshawott",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "501",
+                "species": "Sea Otter Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "5.9 kg (13.0 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

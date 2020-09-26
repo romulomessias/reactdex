@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "861",
+    "defaultName": "Grimmsnarl",
+    "types": [
+        "dark",
+        "fairy"
+    ],
+    "forms": [
+        "Grimmsnarl"
+    ],
+    "formsDetails": {
+        "grimmsnarl": {
+            "name": "Grimmsnarl",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "861",
+                "species": "Bulk Up Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "61.0 kg (134.5 lbs)",
+                "types": [
+                    "dark",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Prankster",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickpocket",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

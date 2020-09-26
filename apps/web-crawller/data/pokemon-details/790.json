@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "790",
+    "defaultName": "Cosmoem",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Cosmoem"
+    ],
+    "formsDetails": {
+        "cosmoem": {
+            "name": "Cosmoem",
+            "stats": {
+                "hp": {
+                    "base": "43",
+                    "min": "196",
+                    "max": "290"
+                },
+                "attack": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                },
+                "defense": {
+                    "base": "131",
+                    "min": "240",
+                    "max": "397"
+                },
+                "spAtk": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                },
+                "spDef": {
+                    "base": "131",
+                    "min": "240",
+                    "max": "397"
+                },
+                "speed": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                }
+            },
+            "info": {
+                "number": "790",
+                "species": "Protostar Pokémon",
+                "height": "0.1 m (0′04″)",
+                "weight": "999.9 kg (2204.4 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

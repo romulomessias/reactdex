@@ -1,0 +1,63 @@
+{
+    "generation": 5,
+    "number": "604",
+    "defaultName": "Eelektross",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Eelektross"
+    ],
+    "formsDetails": {
+        "eelektross": {
+            "name": "Eelektross",
+            "stats": {
+                "hp": {
+                    "base": "85",
+                    "min": "280",
+                    "max": "374"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "604",
+                "species": "EleFish Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "80.5 kg (177.5 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

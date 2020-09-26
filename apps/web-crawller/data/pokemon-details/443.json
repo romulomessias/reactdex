@@ -1,0 +1,69 @@
+{
+    "generation": 4,
+    "number": "443",
+    "defaultName": "Gible",
+    "types": [
+        "dragon",
+        "ground"
+    ],
+    "forms": [
+        "Gible"
+    ],
+    "formsDetails": {
+        "gible": {
+            "name": "Gible",
+            "stats": {
+                "hp": {
+                    "base": "58",
+                    "min": "226",
+                    "max": "320"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                }
+            },
+            "info": {
+                "number": "443",
+                "species": "Land Shark Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "20.5 kg (45.2 lbs)",
+                "types": [
+                    "dragon",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rough Skin",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

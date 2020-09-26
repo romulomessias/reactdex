@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "056",
+    "defaultName": "Mankey",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Mankey"
+    ],
+    "formsDetails": {
+        "mankey": {
+            "name": "Mankey",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "056",
+                "species": "Pig Monkey Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

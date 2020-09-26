@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "772",
+    "defaultName": "Type: Null",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Type: Null"
+    ],
+    "formsDetails": {
+        "type:Null": {
+            "name": "Type: Null",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "59",
+                    "min": "110",
+                    "max": "238"
+                }
+            },
+            "info": {
+                "number": "772",
+                "species": "Synthetic Pokémon",
+                "height": "1.9 m (6′03″)",
+                "weight": "120.5 kg (265.7 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

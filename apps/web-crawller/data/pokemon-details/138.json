@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "138",
+    "defaultName": "Omanyte",
+    "types": [
+        "rock",
+        "water"
+    ],
+    "forms": [
+        "Omanyte"
+    ],
+    "formsDetails": {
+        "omanyte": {
+            "name": "Omanyte",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "138",
+                "species": "Spiral Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "7.5 kg (16.5 lbs)",
+                "types": [
+                    "rock",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

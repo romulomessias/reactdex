@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "691",
+    "defaultName": "Dragalge",
+    "types": [
+        "poison",
+        "dragon"
+    ],
+    "forms": [
+        "Dragalge"
+    ],
+    "formsDetails": {
+        "dragalge": {
+            "name": "Dragalge",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spDef": {
+                    "base": "123",
+                    "min": "225",
+                    "max": "379"
+                },
+                "speed": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                }
+            },
+            "info": {
+                "number": "691",
+                "species": "Mock Kelp Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "81.5 kg (179.7 lbs)",
+                "types": [
+                    "poison",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Touch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Adaptability",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

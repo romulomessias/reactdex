@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "748",
+    "defaultName": "Toxapex",
+    "types": [
+        "poison",
+        "water"
+    ],
+    "forms": [
+        "Toxapex"
+    ],
+    "formsDetails": {
+        "toxapex": {
+            "name": "Toxapex",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "defense": {
+                    "base": "152",
+                    "min": "278",
+                    "max": "443"
+                },
+                "spAtk": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spDef": {
+                    "base": "142",
+                    "min": "260",
+                    "max": "421"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "748",
+                "species": "Brutal Star Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "14.5 kg (32.0 lbs)",
+                "types": [
+                    "poison",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Merciless",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

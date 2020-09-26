@@ -1,0 +1,71 @@
+{
+    "generation": 7,
+    "number": "762",
+    "defaultName": "Steenee",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Steenee"
+    ],
+    "formsDetails": {
+        "steenee": {
+            "name": "Steenee",
+            "stats": {
+                "hp": {
+                    "base": "52",
+                    "min": "214",
+                    "max": "308"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                }
+            },
+            "info": {
+                "number": "762",
+                "species": "Fruit Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "8.2 kg (18.1 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

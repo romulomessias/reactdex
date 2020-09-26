@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "535",
+    "defaultName": "Tympole",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Tympole"
+    ],
+    "formsDetails": {
+        "tympole": {
+            "name": "Tympole",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                }
+            },
+            "info": {
+                "number": "535",
+                "species": "Tadpole Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "4.5 kg (9.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

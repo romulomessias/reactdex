@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "659",
+    "defaultName": "Bunnelby",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Bunnelby"
+    ],
+    "formsDetails": {
+        "bunnelby": {
+            "name": "Bunnelby",
+            "stats": {
+                "hp": {
+                    "base": "38",
+                    "min": "186",
+                    "max": "280"
+                },
+                "attack": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                },
+                "defense": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "spAtk": {
+                    "base": "32",
+                    "min": "62",
+                    "max": "179"
+                },
+                "spDef": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                },
+                "speed": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                }
+            },
+            "info": {
+                "number": "659",
+                "species": "Digging Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cheek Pouch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Huge Power",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

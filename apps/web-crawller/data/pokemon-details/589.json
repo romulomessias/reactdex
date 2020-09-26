@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "589",
+    "defaultName": "Escavalier",
+    "types": [
+        "bug",
+        "steel"
+    ],
+    "forms": [
+        "Escavalier"
+    ],
+    "formsDetails": {
+        "escavalier": {
+            "name": "Escavalier",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "589",
+                "species": "Cavalry Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "33.0 kg (72.8 lbs)",
+                "types": [
+                    "bug",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

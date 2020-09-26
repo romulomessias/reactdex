@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "509",
+    "defaultName": "Purrloin",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Purrloin"
+    ],
+    "formsDetails": {
+        "purrloin": {
+            "name": "Purrloin",
+            "stats": {
+                "hp": {
+                    "base": "41",
+                    "min": "192",
+                    "max": "286"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                },
+                "speed": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                }
+            },
+            "info": {
+                "number": "509",
+                "species": "Devious Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "10.1 kg (22.3 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Limber",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Prankster",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

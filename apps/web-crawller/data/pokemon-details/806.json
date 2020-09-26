@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "806",
+    "defaultName": "Blacephalon",
+    "types": [
+        "fire",
+        "ghost"
+    ],
+    "forms": [
+        "Blacephalon"
+    ],
+    "formsDetails": {
+        "blacephalon": {
+            "name": "Blacephalon",
+            "stats": {
+                "hp": {
+                    "base": "53",
+                    "min": "216",
+                    "max": "310"
+                },
+                "attack": {
+                    "base": "127",
+                    "min": "233",
+                    "max": "388"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "151",
+                    "min": "276",
+                    "max": "441"
+                },
+                "spDef": {
+                    "base": "79",
+                    "min": "146",
+                    "max": "282"
+                },
+                "speed": {
+                    "base": "107",
+                    "min": "197",
+                    "max": "344"
+                }
+            },
+            "info": {
+                "number": "806",
+                "species": "Fireworks Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "13.0 kg (28.7 lbs)",
+                "types": [
+                    "fire",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Beast Boost",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

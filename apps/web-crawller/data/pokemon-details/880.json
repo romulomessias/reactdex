@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "880",
+    "defaultName": "Dracozolt",
+    "types": [
+        "electric",
+        "dragon"
+    ],
+    "forms": [
+        "Dracozolt"
+    ],
+    "formsDetails": {
+        "dracozolt": {
+            "name": "Dracozolt",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "880",
+                "species": "Fossil Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "190.0 kg (418.9 lbs)",
+                "types": [
+                    "electric",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Volt Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Rush",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

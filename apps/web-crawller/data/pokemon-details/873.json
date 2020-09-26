@@ -1,0 +1,69 @@
+{
+    "generation": 8,
+    "number": "873",
+    "defaultName": "Frosmoth",
+    "types": [
+        "ice",
+        "bug"
+    ],
+    "forms": [
+        "Frosmoth"
+    ],
+    "formsDetails": {
+        "frosmoth": {
+            "name": "Frosmoth",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "873",
+                "species": "Frost Moth Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "42.0 kg (92.6 lbs)",
+                "types": [
+                    "ice",
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Scales",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

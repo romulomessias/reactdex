@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "512",
+    "defaultName": "Simisage",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Simisage"
+    ],
+    "formsDetails": {
+        "simisage": {
+            "name": "Simisage",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "defense": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spAtk": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "spDef": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "speed": {
+                    "base": "101",
+                    "min": "186",
+                    "max": "331"
+                }
+            },
+            "info": {
+                "number": "512",
+                "species": "Thorn Monkey Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "30.5 kg (67.2 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overgrow",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

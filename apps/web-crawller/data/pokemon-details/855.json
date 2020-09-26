@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "855",
+    "defaultName": "Polteageist",
+    "types": [
+        "ghost"
+    ],
+    "forms": [
+        "Polteageist"
+    ],
+    "formsDetails": {
+        "polteageist": {
+            "name": "Polteageist",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "134",
+                    "min": "245",
+                    "max": "403"
+                },
+                "spDef": {
+                    "base": "114",
+                    "min": "209",
+                    "max": "359"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "855",
+                "species": "Black Tea Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.4 kg (0.9 lbs)",
+                "types": [
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

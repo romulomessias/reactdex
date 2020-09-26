@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "365",
+    "defaultName": "Walrein",
+    "types": [
+        "ice",
+        "water"
+    ],
+    "forms": [
+        "Walrein"
+    ],
+    "formsDetails": {
+        "walrein": {
+            "name": "Walrein",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "365",
+                "species": "Ice Break Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "150.6 kg (332.0 lbs)",
+                "types": [
+                    "ice",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Oblivious",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

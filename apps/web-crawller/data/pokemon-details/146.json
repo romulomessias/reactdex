@@ -1,0 +1,90 @@
+{
+    "generation": 1,
+    "number": "146",
+    "defaultName": "Moltres",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "forms": [
+        "Moltres",
+        "Galarian Moltres"
+    ],
+    "formsDetails": {
+        "moltres": {
+            "name": "Moltres",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "146",
+                "species": "Flame Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "60.0 kg (132.3 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianMoltres": {
+            "name": "Galarian Moltres",
+            "stats": {},
+            "info": {
+                "number": "146",
+                "species": "Malevolent Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "66.0 kg (145.5 lbs)",
+                "types": [
+                    "dark",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Berserk",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

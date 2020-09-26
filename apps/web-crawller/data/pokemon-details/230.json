@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "230",
+    "defaultName": "Kingdra",
+    "types": [
+        "water",
+        "dragon"
+    ],
+    "forms": [
+        "Kingdra"
+    ],
+    "formsDetails": {
+        "kingdra": {
+            "name": "Kingdra",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "230",
+                "species": "Dragon Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "152.0 kg (335.1 lbs)",
+                "types": [
+                    "water",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Damp",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

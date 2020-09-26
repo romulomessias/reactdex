@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "840",
+    "defaultName": "Applin",
+    "types": [
+        "grass",
+        "dragon"
+    ],
+    "forms": [
+        "Applin"
+    ],
+    "formsDetails": {
+        "applin": {
+            "name": "Applin",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "840",
+                "species": "Apple Core Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.5 kg (1.1 lbs)",
+                "types": [
+                    "grass",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Ripen",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gluttony",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Bulletproof",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

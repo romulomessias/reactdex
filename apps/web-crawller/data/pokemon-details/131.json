@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "131",
+    "defaultName": "Lapras",
+    "types": [
+        "water",
+        "ice"
+    ],
+    "forms": [
+        "Lapras"
+    ],
+    "formsDetails": {
+        "lapras": {
+            "name": "Lapras",
+            "stats": {
+                "hp": {
+                    "base": "130",
+                    "min": "370",
+                    "max": "464"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "131",
+                "species": "Transport Pokémon",
+                "height": "2.5 m (8′02″)",
+                "weight": "220.0 kg (485.0 lbs)",
+                "types": [
+                    "water",
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shell Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

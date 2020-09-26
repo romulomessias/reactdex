@@ -1,0 +1,69 @@
+{
+    "generation": 3,
+    "number": "375",
+    "defaultName": "Metang",
+    "types": [
+        "steel",
+        "psychic"
+    ],
+    "forms": [
+        "Metang"
+    ],
+    "formsDetails": {
+        "metang": {
+            "name": "Metang",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "375",
+                "species": "Iron Claw Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "202.5 kg (446.4 lbs)",
+                "types": [
+                    "steel",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Light Metal",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

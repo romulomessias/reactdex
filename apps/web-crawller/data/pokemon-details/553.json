@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "553",
+    "defaultName": "Krookodile",
+    "types": [
+        "ground",
+        "dark"
+    ],
+    "forms": [
+        "Krookodile"
+    ],
+    "formsDetails": {
+        "krookodile": {
+            "name": "Krookodile",
+            "stats": {
+                "hp": {
+                    "base": "95",
+                    "min": "300",
+                    "max": "394"
+                },
+                "attack": {
+                    "base": "117",
+                    "min": "215",
+                    "max": "366"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                }
+            },
+            "info": {
+                "number": "553",
+                "species": "Intimidation Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "96.3 kg (212.3 lbs)",
+                "types": [
+                    "ground",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

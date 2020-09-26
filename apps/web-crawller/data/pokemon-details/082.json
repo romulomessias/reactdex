@@ -1,0 +1,73 @@
+{
+    "generation": 1,
+    "number": "082",
+    "defaultName": "Magneton",
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "forms": [
+        "Magneton"
+    ],
+    "formsDetails": {
+        "magneton": {
+            "name": "Magneton",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "082",
+                "species": "Magnet Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "60.0 kg (132.3 lbs)",
+                "types": [
+                    "electric",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Magnet Pull",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Analytic",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

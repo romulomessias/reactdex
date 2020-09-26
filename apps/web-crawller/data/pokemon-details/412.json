@@ -1,0 +1,67 @@
+{
+    "generation": 4,
+    "number": "412",
+    "defaultName": "Burmy",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Burmy"
+    ],
+    "formsDetails": {
+        "burmy": {
+            "name": "Burmy",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                },
+                "spDef": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "speed": {
+                    "base": "36",
+                    "min": "69",
+                    "max": "188"
+                }
+            },
+            "info": {
+                "number": "412",
+                "species": "Bagworm Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "3.4 kg (7.5 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

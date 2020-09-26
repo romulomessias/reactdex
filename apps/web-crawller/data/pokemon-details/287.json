@@ -1,0 +1,63 @@
+{
+    "generation": 3,
+    "number": "287",
+    "defaultName": "Slakoth",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Slakoth"
+    ],
+    "formsDetails": {
+        "slakoth": {
+            "name": "Slakoth",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "287",
+                "species": "Slacker Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "24.0 kg (52.9 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Truant",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "640",
+    "defaultName": "Virizion",
+    "types": [
+        "grass",
+        "fighting"
+    ],
+    "forms": [
+        "Virizion"
+    ],
+    "formsDetails": {
+        "virizion": {
+            "name": "Virizion",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "129",
+                    "min": "236",
+                    "max": "392"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "640",
+                "species": "Grassland Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "200.0 kg (440.9 lbs)",
+                "types": [
+                    "grass",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Justified",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "170",
+    "defaultName": "Chinchou",
+    "types": [
+        "water",
+        "electric"
+    ],
+    "forms": [
+        "Chinchou"
+    ],
+    "formsDetails": {
+        "chinchou": {
+            "name": "Chinchou",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "defense": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                },
+                "spAtk": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "spDef": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                },
+                "speed": {
+                    "base": "67",
+                    "min": "125",
+                    "max": "256"
+                }
+            },
+            "info": {
+                "number": "170",
+                "species": "Angler Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "12.0 kg (26.5 lbs)",
+                "types": [
+                    "water",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Volt Absorb",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Illuminate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Absorb",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

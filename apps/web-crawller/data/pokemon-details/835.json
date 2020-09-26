@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "835",
+    "defaultName": "Yamper",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Yamper"
+    ],
+    "formsDetails": {
+        "yamper": {
+            "name": "Yamper",
+            "stats": {
+                "hp": {
+                    "base": "59",
+                    "min": "228",
+                    "max": "322"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "26",
+                    "min": "51",
+                    "max": "166"
+                }
+            },
+            "info": {
+                "number": "835",
+                "species": "Puppy Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "13.5 kg (29.8 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Ball Fetch",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

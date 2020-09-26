@@ -1,0 +1,131 @@
+{
+    "generation": 1,
+    "number": "110",
+    "defaultName": "Weezing",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Weezing",
+        "Galarian Weezing"
+    ],
+    "formsDetails": {
+        "weezing": {
+            "name": "Weezing",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "110",
+                "species": "Poison Gas Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "9.5 kg (20.9 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Neutralizing Gas",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stench",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianWeezing": {
+            "name": "Galarian Weezing",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "110",
+                "species": "Poison Gas Pokémon",
+                "height": "3.0 m (9′10″)",
+                "weight": "16.0 kg (35.3 lbs)",
+                "types": [
+                    "poison",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Neutralizing Gas",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Misty Surge",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

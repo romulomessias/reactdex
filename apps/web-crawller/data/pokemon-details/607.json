@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "607",
+    "defaultName": "Litwick",
+    "types": [
+        "ghost",
+        "fire"
+    ],
+    "forms": [
+        "Litwick"
+    ],
+    "formsDetails": {
+        "litwick": {
+            "name": "Litwick",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                }
+            },
+            "info": {
+                "number": "607",
+                "species": "Candle Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.1 kg (6.8 lbs)",
+                "types": [
+                    "ghost",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

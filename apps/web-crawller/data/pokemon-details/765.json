@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "765",
+    "defaultName": "Oranguru",
+    "types": [
+        "normal",
+        "psychic"
+    ],
+    "forms": [
+        "Oranguru"
+    ],
+    "formsDetails": {
+        "oranguru": {
+            "name": "Oranguru",
+            "stats": {
+                "hp": {
+                    "base": "90",
+                    "min": "290",
+                    "max": "384"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "765",
+                "species": "Sage Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "76.0 kg (167.6 lbs)",
+                "types": [
+                    "normal",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Symbiosis",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

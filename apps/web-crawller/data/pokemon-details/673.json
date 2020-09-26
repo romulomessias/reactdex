@@ -1,0 +1,67 @@
+{
+    "generation": 6,
+    "number": "673",
+    "defaultName": "Gogoat",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Gogoat"
+    ],
+    "formsDetails": {
+        "gogoat": {
+            "name": "Gogoat",
+            "stats": {
+                "hp": {
+                    "base": "123",
+                    "min": "356",
+                    "max": "450"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "97",
+                    "min": "179",
+                    "max": "322"
+                },
+                "spDef": {
+                    "base": "81",
+                    "min": "150",
+                    "max": "287"
+                },
+                "speed": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                }
+            },
+            "info": {
+                "number": "673",
+                "species": "Mount Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "91.0 kg (200.6 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Grass Pelt",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "865",
+    "defaultName": "Sirfetch'd",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Sirfetch'd"
+    ],
+    "formsDetails": {
+        "sirfetch'd": {
+            "name": "Sirfetch'd",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "spDef": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "865",
+                "species": "Wild Duck Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "117.0 kg (257.9 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Scrappy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

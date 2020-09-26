@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "234",
+    "defaultName": "Stantler",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Stantler"
+    ],
+    "formsDetails": {
+        "stantler": {
+            "name": "Stantler",
+            "stats": {
+                "hp": {
+                    "base": "73",
+                    "min": "256",
+                    "max": "350"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "234",
+                "species": "Big Horn Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "71.2 kg (157.0 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

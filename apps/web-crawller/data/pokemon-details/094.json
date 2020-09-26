@@ -1,0 +1,117 @@
+{
+    "generation": 1,
+    "number": "094",
+    "defaultName": "Gengar",
+    "types": [
+        "ghost",
+        "poison"
+    ],
+    "forms": [
+        "Gengar",
+        "Mega Gengar"
+    ],
+    "formsDetails": {
+        "gengar": {
+            "name": "Gengar",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "094",
+                "species": "Shadow Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "40.5 kg (89.3 lbs)",
+                "types": [
+                    "ghost",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cursed Body",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "megaGengar": {
+            "name": "Mega Gengar",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "170",
+                    "min": "310",
+                    "max": "482"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                }
+            },
+            "info": {
+                "number": "094",
+                "species": "Shadow Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "40.5 kg (89.3 lbs)",
+                "types": [
+                    "ghost",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Shadow Tag",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

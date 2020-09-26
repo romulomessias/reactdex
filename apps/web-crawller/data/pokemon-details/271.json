@@ -1,0 +1,73 @@
+{
+    "generation": 3,
+    "number": "271",
+    "defaultName": "Lombre",
+    "types": [
+        "water",
+        "grass"
+    ],
+    "forms": [
+        "Lombre"
+    ],
+    "formsDetails": {
+        "lombre": {
+            "name": "Lombre",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "271",
+                "species": "Jolly Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "32.5 kg (71.7 lbs)",
+                "types": [
+                    "water",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rain Dish",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

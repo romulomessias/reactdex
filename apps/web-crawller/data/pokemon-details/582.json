@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "582",
+    "defaultName": "Vanillite",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Vanillite"
+    ],
+    "formsDetails": {
+        "vanillite": {
+            "name": "Vanillite",
+            "stats": {
+                "hp": {
+                    "base": "36",
+                    "min": "182",
+                    "max": "276"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                }
+            },
+            "info": {
+                "number": "582",
+                "species": "Fresh Snow Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.7 kg (12.6 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Ice Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Weak Armor",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

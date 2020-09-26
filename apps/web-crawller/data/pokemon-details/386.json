@@ -1,0 +1,216 @@
+{
+    "generation": 3,
+    "number": "386",
+    "defaultName": "Deoxys",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Normal Forme",
+        "Attack Forme",
+        "Defense Forme",
+        "Speed Forme"
+    ],
+    "formsDetails": {
+        "normalForme": {
+            "name": "Normal Forme",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                }
+            },
+            "info": {
+                "number": "386",
+                "species": "DNA Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "60.8 kg (134.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "attackForme": {
+            "name": "Attack Forme",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                },
+                "defense": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "spAtk": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                },
+                "spDef": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "speed": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                }
+            },
+            "info": {
+                "number": "386",
+                "species": "DNA Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "60.8 kg (134.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "defenseForme": {
+            "name": "Defense Forme",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "386",
+                "species": "DNA Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "60.8 kg (134.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "speedForme": {
+            "name": "Speed Forme",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                }
+            },
+            "info": {
+                "number": "386",
+                "species": "DNA Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "60.8 kg (134.0 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "generation": 4,
+    "number": "475",
+    "defaultName": "Gallade",
+    "types": [
+        "psychic",
+        "fighting"
+    ],
+    "forms": [
+        "Gallade",
+        "Mega Gallade"
+    ],
+    "formsDetails": {
+        "gallade": {
+            "name": "Gallade",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "475",
+                "species": "Blade Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "52.0 kg (114.6 lbs)",
+                "types": [
+                    "psychic",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Justified",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaGallade": {
+            "name": "Mega Gallade",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "165",
+                    "min": "301",
+                    "max": "471"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "110",
+                    "min": "202",
+                    "max": "350"
+                }
+            },
+            "info": {
+                "number": "475",
+                "species": "Blade Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "56.4 kg (124.3 lbs)",
+                "types": [
+                    "psychic",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

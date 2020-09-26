@@ -1,0 +1,67 @@
+{
+    "generation": 7,
+    "number": "771",
+    "defaultName": "Pyukumuku",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Pyukumuku"
+    ],
+    "formsDetails": {
+        "pyukumuku": {
+            "name": "Pyukumuku",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "speed": {
+                    "base": "5",
+                    "min": "13",
+                    "max": "119"
+                }
+            },
+            "info": {
+                "number": "771",
+                "species": "Sea Cucumber Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "1.2 kg (2.6 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Innards Out",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unaware",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

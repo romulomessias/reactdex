@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "777",
+    "defaultName": "Togedemaru",
+    "types": [
+        "electric",
+        "steel"
+    ],
+    "forms": [
+        "Togedemaru"
+    ],
+    "formsDetails": {
+        "togedemaru": {
+            "name": "Togedemaru",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "defense": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "speed": {
+                    "base": "96",
+                    "min": "177",
+                    "max": "320"
+                }
+            },
+            "info": {
+                "number": "777",
+                "species": "Roly-Poly Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.3 kg (7.3 lbs)",
+                "types": [
+                    "electric",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Barbs",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Lightning Rod",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sturdy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

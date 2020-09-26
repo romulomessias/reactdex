@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "601",
+    "defaultName": "Klinklang",
+    "types": [
+        "steel"
+    ],
+    "forms": [
+        "Klinklang"
+    ],
+    "formsDetails": {
+        "klinklang": {
+            "name": "Klinklang",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "601",
+                "species": "Gear Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "81.0 kg (178.6 lbs)",
+                "types": [
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Plus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Minus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Clear Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

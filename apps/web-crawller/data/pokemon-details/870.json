@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "870",
+    "defaultName": "Falinks",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Falinks"
+    ],
+    "formsDetails": {
+        "falinks": {
+            "name": "Falinks",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                }
+            },
+            "info": {
+                "number": "870",
+                "species": "Formation Pokémon",
+                "height": "3.0 m (9′10″)",
+                "weight": "62.0 kg (136.7 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Battle Armor",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

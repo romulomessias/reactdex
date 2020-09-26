@@ -1,0 +1,125 @@
+{
+    "generation": 3,
+    "number": "282",
+    "defaultName": "Gardevoir",
+    "types": [
+        "psychic",
+        "fairy"
+    ],
+    "forms": [
+        "Gardevoir",
+        "Mega Gardevoir"
+    ],
+    "formsDetails": {
+        "gardevoir": {
+            "name": "Gardevoir",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "282",
+                "species": "Embrace Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "48.4 kg (106.7 lbs)",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Trace",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Telepathy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaGardevoir": {
+            "name": "Mega Gardevoir",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "165",
+                    "min": "301",
+                    "max": "471"
+                },
+                "spDef": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "282",
+                "species": "Embrace Pokémon",
+                "height": "1.6 m (5′03″)",
+                "weight": "48.4 kg (106.7 lbs)",
+                "types": [
+                    "psychic",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pixilate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

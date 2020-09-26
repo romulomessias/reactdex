@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "035",
+    "defaultName": "Clefairy",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Clefairy"
+    ],
+    "formsDetails": {
+        "clefairy": {
+            "name": "Clefairy",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "defense": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "035",
+                "species": "Fairy Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "7.5 kg (16.5 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

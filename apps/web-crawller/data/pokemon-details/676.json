@@ -1,0 +1,63 @@
+{
+    "generation": 6,
+    "number": "676",
+    "defaultName": "Furfrou",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Furfrou"
+    ],
+    "formsDetails": {
+        "furfrou": {
+            "name": "Furfrou",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "102",
+                    "min": "188",
+                    "max": "333"
+                }
+            },
+            "info": {
+                "number": "676",
+                "species": "Poodle Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Fur Coat",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

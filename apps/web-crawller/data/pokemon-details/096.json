@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "096",
+    "defaultName": "Drowzee",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Drowzee"
+    ],
+    "formsDetails": {
+        "drowzee": {
+            "name": "Drowzee",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                }
+            },
+            "info": {
+                "number": "096",
+                "species": "Hypnosis Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "32.4 kg (71.4 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Insomnia",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Forewarn",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

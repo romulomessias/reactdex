@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "830",
+    "defaultName": "Eldegoss",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Eldegoss"
+    ],
+    "formsDetails": {
+        "eldegoss": {
+            "name": "Eldegoss",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "830",
+                "species": "Cotton Bloom Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "2.5 kg (5.5 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cotton Down",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

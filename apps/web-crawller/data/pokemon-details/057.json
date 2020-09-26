@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "057",
+    "defaultName": "Primeape",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Primeape"
+    ],
+    "formsDetails": {
+        "primeape": {
+            "name": "Primeape",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "057",
+                "species": "Pig Monkey Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "32.0 kg (70.5 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Anger Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Defiant",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

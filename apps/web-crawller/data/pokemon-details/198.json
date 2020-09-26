@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "198",
+    "defaultName": "Murkrow",
+    "types": [
+        "dark",
+        "flying"
+    ],
+    "forms": [
+        "Murkrow"
+    ],
+    "formsDetails": {
+        "murkrow": {
+            "name": "Murkrow",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "spAtk": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "spDef": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                },
+                "speed": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                }
+            },
+            "info": {
+                "number": "198",
+                "species": "Darkness Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "2.1 kg (4.6 lbs)",
+                "types": [
+                    "dark",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Insomnia",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Super Luck",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Prankster",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

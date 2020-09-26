@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "638",
+    "defaultName": "Cobalion",
+    "types": [
+        "steel",
+        "fighting"
+    ],
+    "forms": [
+        "Cobalion"
+    ],
+    "formsDetails": {
+        "cobalion": {
+            "name": "Cobalion",
+            "stats": {
+                "hp": {
+                    "base": "91",
+                    "min": "292",
+                    "max": "386"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "129",
+                    "min": "236",
+                    "max": "392"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "72",
+                    "min": "134",
+                    "max": "267"
+                },
+                "speed": {
+                    "base": "108",
+                    "min": "198",
+                    "max": "346"
+                }
+            },
+            "info": {
+                "number": "638",
+                "species": "Iron Will Pokémon",
+                "height": "2.1 m (6′11″)",
+                "weight": "250.0 kg (551.2 lbs)",
+                "types": [
+                    "steel",
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Justified",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "624",
+    "defaultName": "Pawniard",
+    "types": [
+        "dark",
+        "steel"
+    ],
+    "forms": [
+        "Pawniard"
+    ],
+    "formsDetails": {
+        "pawniard": {
+            "name": "Pawniard",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "624",
+                "species": "Sharp Blade Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "10.2 kg (22.5 lbs)",
+                "types": [
+                    "dark",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Defiant",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pressure",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "434",
+    "defaultName": "Stunky",
+    "types": [
+        "poison",
+        "dark"
+    ],
+    "forms": [
+        "Stunky"
+    ],
+    "formsDetails": {
+        "stunky": {
+            "name": "Stunky",
+            "stats": {
+                "hp": {
+                    "base": "63",
+                    "min": "236",
+                    "max": "330"
+                },
+                "attack": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "defense": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "spAtk": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "spDef": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                },
+                "speed": {
+                    "base": "74",
+                    "min": "137",
+                    "max": "271"
+                }
+            },
+            "info": {
+                "number": "434",
+                "species": "Skunk Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "19.2 kg (42.3 lbs)",
+                "types": [
+                    "poison",
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Stench",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Aftermath",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

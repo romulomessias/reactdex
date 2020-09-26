@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "424",
+    "defaultName": "Ambipom",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Ambipom"
+    ],
+    "formsDetails": {
+        "ambipom": {
+            "name": "Ambipom",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "defense": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "speed": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                }
+            },
+            "info": {
+                "number": "424",
+                "species": "Long Tail Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "20.3 kg (44.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Technician",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Skill Link",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

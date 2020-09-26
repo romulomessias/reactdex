@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "335",
+    "defaultName": "Zangoose",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Zangoose"
+    ],
+    "formsDetails": {
+        "zangoose": {
+            "name": "Zangoose",
+            "stats": {
+                "hp": {
+                    "base": "73",
+                    "min": "256",
+                    "max": "350"
+                },
+                "attack": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "335",
+                "species": "Cat Ferret Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "40.3 kg (88.8 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Immunity",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Toxic Boost",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "778",
+    "defaultName": "Mimikyu",
+    "types": [
+        "ghost",
+        "fairy"
+    ],
+    "forms": [
+        "Mimikyu"
+    ],
+    "formsDetails": {
+        "mimikyu": {
+            "name": "Mimikyu",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "defense": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "96",
+                    "min": "177",
+                    "max": "320"
+                }
+            },
+            "info": {
+                "number": "778",
+                "species": "Disguise Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.7 kg (1.5 lbs)",
+                "types": [
+                    "ghost",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Disguise",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

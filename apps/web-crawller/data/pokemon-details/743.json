@@ -1,0 +1,73 @@
+{
+    "generation": 7,
+    "number": "743",
+    "defaultName": "Ribombee",
+    "types": [
+        "bug",
+        "fairy"
+    ],
+    "forms": [
+        "Ribombee"
+    ],
+    "formsDetails": {
+        "ribombee": {
+            "name": "Ribombee",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "124",
+                    "min": "227",
+                    "max": "381"
+                }
+            },
+            "info": {
+                "number": "743",
+                "species": "Bee Fly Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.5 kg (1.1 lbs)",
+                "types": [
+                    "bug",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Honey Gather",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shield Dust",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sweet Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

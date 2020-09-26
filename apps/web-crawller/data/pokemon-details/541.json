@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "541",
+    "defaultName": "Swadloon",
+    "types": [
+        "bug",
+        "grass"
+    ],
+    "forms": [
+        "Swadloon"
+    ],
+    "formsDetails": {
+        "swadloon": {
+            "name": "Swadloon",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "42",
+                    "min": "80",
+                    "max": "201"
+                }
+            },
+            "info": {
+                "number": "541",
+                "species": "Leaf-Wrapped Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "7.3 kg (16.1 lbs)",
+                "types": [
+                    "bug",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

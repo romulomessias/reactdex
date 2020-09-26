@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "165",
+    "defaultName": "Ledyba",
+    "types": [
+        "bug",
+        "flying"
+    ],
+    "forms": [
+        "Ledyba"
+    ],
+    "formsDetails": {
+        "ledyba": {
+            "name": "Ledyba",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "20",
+                    "min": "40",
+                    "max": "152"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "165",
+                "species": "Five Star Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "10.8 kg (23.8 lbs)",
+                "types": [
+                    "bug",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Early Bird",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rattled",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

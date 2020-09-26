@@ -1,0 +1,73 @@
+{
+    "generation": 8,
+    "number": "839",
+    "defaultName": "Coalossal",
+    "types": [
+        "rock",
+        "fire"
+    ],
+    "forms": [
+        "Coalossal"
+    ],
+    "formsDetails": {
+        "coalossal": {
+            "name": "Coalossal",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "839",
+                "species": "Coal Pokémon",
+                "height": "2.8 m (9′02″)",
+                "weight": "310.5 kg (684.5 lbs)",
+                "types": [
+                    "rock",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Steam Engine",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flame Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

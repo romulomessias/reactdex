@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "530",
+    "defaultName": "Excadrill",
+    "types": [
+        "ground",
+        "steel"
+    ],
+    "forms": [
+        "Excadrill"
+    ],
+    "formsDetails": {
+        "excadrill": {
+            "name": "Excadrill",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "88",
+                    "min": "162",
+                    "max": "302"
+                }
+            },
+            "info": {
+                "number": "530",
+                "species": "Subterrene Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "40.4 kg (89.1 lbs)",
+                "types": [
+                    "ground",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sand Rush",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

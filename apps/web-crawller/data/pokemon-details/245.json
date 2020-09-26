@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "245",
+    "defaultName": "Suicune",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Suicune"
+    ],
+    "formsDetails": {
+        "suicune": {
+            "name": "Suicune",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "spAtk": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "245",
+                "species": "Aurora Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "187.0 kg (412.3 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pressure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

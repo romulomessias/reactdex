@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "674",
+    "defaultName": "Pancham",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Pancham"
+    ],
+    "formsDetails": {
+        "pancham": {
+            "name": "Pancham",
+            "stats": {
+                "hp": {
+                    "base": "67",
+                    "min": "244",
+                    "max": "338"
+                },
+                "attack": {
+                    "base": "82",
+                    "min": "152",
+                    "max": "289"
+                },
+                "defense": {
+                    "base": "62",
+                    "min": "116",
+                    "max": "245"
+                },
+                "spAtk": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "674",
+                "species": "Playful Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.0 kg (17.6 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Iron Fist",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Scrappy",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

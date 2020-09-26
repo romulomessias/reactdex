@@ -1,0 +1,63 @@
+{
+    "generation": 6,
+    "number": "716",
+    "defaultName": "Xerneas",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Xerneas"
+    ],
+    "formsDetails": {
+        "xerneas": {
+            "name": "Xerneas",
+            "stats": {
+                "hp": {
+                    "base": "126",
+                    "min": "362",
+                    "max": "456"
+                },
+                "attack": {
+                    "base": "131",
+                    "min": "240",
+                    "max": "397"
+                },
+                "defense": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spAtk": {
+                    "base": "131",
+                    "min": "240",
+                    "max": "397"
+                },
+                "spDef": {
+                    "base": "98",
+                    "min": "180",
+                    "max": "324"
+                },
+                "speed": {
+                    "base": "99",
+                    "min": "182",
+                    "max": "326"
+                }
+            },
+            "info": {
+                "number": "716",
+                "species": "Life Pokémon",
+                "height": "3.0 m (9′10″)",
+                "weight": "215.0 kg (474.0 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Fairy Aura",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "generation": 1,
+    "number": "127",
+    "defaultName": "Pinsir",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Pinsir",
+        "Mega Pinsir"
+    ],
+    "formsDetails": {
+        "pinsir": {
+            "name": "Pinsir",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "127",
+                "species": "Stag Beetle Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "55.0 kg (121.3 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hyper Cutter",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Mold Breaker",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Moxie",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaPinsir": {
+            "name": "Mega Pinsir",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "155",
+                    "min": "283",
+                    "max": "449"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "127",
+                "species": "Stag Beetle Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "59.0 kg (130.1 lbs)",
+                "types": [
+                    "bug",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Aerilate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

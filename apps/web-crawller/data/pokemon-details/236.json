@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "236",
+    "defaultName": "Tyrogue",
+    "types": [
+        "fighting"
+    ],
+    "forms": [
+        "Tyrogue"
+    ],
+    "formsDetails": {
+        "tyrogue": {
+            "name": "Tyrogue",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "236",
+                "species": "Scuffle Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "21.0 kg (46.3 lbs)",
+                "types": [
+                    "fighting"
+                ],
+                "abilities": [
+                    {
+                        "name": "Guts",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Steadfast",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Vital Spirit",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

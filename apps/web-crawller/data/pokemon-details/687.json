@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "687",
+    "defaultName": "Malamar",
+    "types": [
+        "dark",
+        "psychic"
+    ],
+    "forms": [
+        "Malamar"
+    ],
+    "formsDetails": {
+        "malamar": {
+            "name": "Malamar",
+            "stats": {
+                "hp": {
+                    "base": "86",
+                    "min": "282",
+                    "max": "376"
+                },
+                "attack": {
+                    "base": "92",
+                    "min": "170",
+                    "max": "311"
+                },
+                "defense": {
+                    "base": "88",
+                    "min": "162",
+                    "max": "302"
+                },
+                "spAtk": {
+                    "base": "68",
+                    "min": "126",
+                    "max": "258"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                }
+            },
+            "info": {
+                "number": "687",
+                "species": "Overturning Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "47.0 kg (103.6 lbs)",
+                "types": [
+                    "dark",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Contrary",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Suction Cups",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Infiltrator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

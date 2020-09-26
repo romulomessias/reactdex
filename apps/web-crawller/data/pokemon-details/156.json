@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "156",
+    "defaultName": "Quilava",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Quilava"
+    ],
+    "formsDetails": {
+        "quilava": {
+            "name": "Quilava",
+            "stats": {
+                "hp": {
+                    "base": "58",
+                    "min": "226",
+                    "max": "320"
+                },
+                "attack": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "defense": {
+                    "base": "58",
+                    "min": "108",
+                    "max": "236"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                }
+            },
+            "info": {
+                "number": "156",
+                "species": "Volcano Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "19.0 kg (41.9 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Flash Fire",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

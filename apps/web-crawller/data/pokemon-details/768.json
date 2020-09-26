@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "768",
+    "defaultName": "Golisopod",
+    "types": [
+        "bug",
+        "water"
+    ],
+    "forms": [
+        "Golisopod"
+    ],
+    "formsDetails": {
+        "golisopod": {
+            "name": "Golisopod",
+            "stats": {
+                "hp": {
+                    "base": "75",
+                    "min": "260",
+                    "max": "354"
+                },
+                "attack": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "768",
+                "species": "Hard Scale Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "108.0 kg (238.1 lbs)",
+                "types": [
+                    "bug",
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Emergency Exit",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

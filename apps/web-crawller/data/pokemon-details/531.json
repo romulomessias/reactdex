@@ -1,0 +1,123 @@
+{
+    "generation": 5,
+    "number": "531",
+    "defaultName": "Audino",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Audino",
+        "Mega Audino"
+    ],
+    "formsDetails": {
+        "audino": {
+            "name": "Audino",
+            "stats": {
+                "hp": {
+                    "base": "103",
+                    "min": "316",
+                    "max": "410"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "531",
+                "species": "Hearing Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "31.0 kg (68.3 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Healer",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Klutz",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaAudino": {
+            "name": "Mega Audino",
+            "stats": {
+                "hp": {
+                    "base": "103",
+                    "min": "316",
+                    "max": "410"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "126",
+                    "min": "231",
+                    "max": "386"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "126",
+                    "min": "231",
+                    "max": "386"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "531",
+                "species": "Hearing Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "32.0 kg (70.5 lbs)",
+                "types": [
+                    "normal",
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Healer",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

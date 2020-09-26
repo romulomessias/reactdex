@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "404",
+    "defaultName": "Luxio",
+    "types": [
+        "electric"
+    ],
+    "forms": [
+        "Luxio"
+    ],
+    "formsDetails": {
+        "luxio": {
+            "name": "Luxio",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "defense": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "404",
+                "species": "Spark Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "30.5 kg (67.2 lbs)",
+                "types": [
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Guts",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

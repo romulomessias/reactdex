@@ -1,0 +1,65 @@
+{
+    "generation": 7,
+    "number": "738",
+    "defaultName": "Vikavolt",
+    "types": [
+        "bug",
+        "electric"
+    ],
+    "forms": [
+        "Vikavolt"
+    ],
+    "formsDetails": {
+        "vikavolt": {
+            "name": "Vikavolt",
+            "stats": {
+                "hp": {
+                    "base": "77",
+                    "min": "264",
+                    "max": "358"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "738",
+                "species": "Stag Beetle Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "45.0 kg (99.2 lbs)",
+                "types": [
+                    "bug",
+                    "electric"
+                ],
+                "abilities": [
+                    {
+                        "name": "Levitate",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

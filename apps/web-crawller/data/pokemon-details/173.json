@@ -1,0 +1,71 @@
+{
+    "generation": 2,
+    "number": "173",
+    "defaultName": "Cleffa",
+    "types": [
+        "fairy"
+    ],
+    "forms": [
+        "Cleffa"
+    ],
+    "formsDetails": {
+        "cleffa": {
+            "name": "Cleffa",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "25",
+                    "min": "49",
+                    "max": "163"
+                },
+                "defense": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "173",
+                "species": "Star Shape Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.0 kg (6.6 lbs)",
+                "types": [
+                    "fairy"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Friend Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

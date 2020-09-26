@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "406",
+    "defaultName": "Budew",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "forms": [
+        "Budew"
+    ],
+    "formsDetails": {
+        "budew": {
+            "name": "Budew",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spAtk": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spDef": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "406",
+                "species": "Bud Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "1.2 kg (2.6 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Natural Cure",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

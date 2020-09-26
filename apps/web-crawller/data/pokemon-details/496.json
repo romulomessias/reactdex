@@ -1,0 +1,67 @@
+{
+    "generation": 5,
+    "number": "496",
+    "defaultName": "Servine",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Servine"
+    ],
+    "formsDetails": {
+        "servine": {
+            "name": "Servine",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spDef": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "speed": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                }
+            },
+            "info": {
+                "number": "496",
+                "species": "Grass Snake Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "16.0 kg (35.3 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Contrary",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

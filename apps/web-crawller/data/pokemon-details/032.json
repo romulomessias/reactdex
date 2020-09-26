@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "032",
+    "defaultName": "Nidoran♂",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Nidoran♂"
+    ],
+    "formsDetails": {
+        "nidoran♂": {
+            "name": "Nidoran♂",
+            "stats": {
+                "hp": {
+                    "base": "46",
+                    "min": "202",
+                    "max": "296"
+                },
+                "attack": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "032",
+                "species": "Poison Pin Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "9.0 kg (19.8 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Poison Point",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Rivalry",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hustle",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

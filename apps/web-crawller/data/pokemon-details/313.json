@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "313",
+    "defaultName": "Volbeat",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Volbeat"
+    ],
+    "formsDetails": {
+        "volbeat": {
+            "name": "Volbeat",
+            "stats": {
+                "hp": {
+                    "base": "65",
+                    "min": "240",
+                    "max": "334"
+                },
+                "attack": {
+                    "base": "73",
+                    "min": "135",
+                    "max": "269"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "313",
+                "species": "Firefly Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "17.7 kg (39.0 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illuminate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Swarm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Prankster",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

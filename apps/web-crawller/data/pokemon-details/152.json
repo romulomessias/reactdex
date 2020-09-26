@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "152",
+    "defaultName": "Chikorita",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Chikorita"
+    ],
+    "formsDetails": {
+        "chikorita": {
+            "name": "Chikorita",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "152",
+                "species": "Leaf Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "6.4 kg (14.1 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

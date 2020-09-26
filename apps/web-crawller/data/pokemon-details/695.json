@@ -1,0 +1,73 @@
+{
+    "generation": 6,
+    "number": "695",
+    "defaultName": "Heliolisk",
+    "types": [
+        "electric",
+        "normal"
+    ],
+    "forms": [
+        "Heliolisk"
+    ],
+    "formsDetails": {
+        "heliolisk": {
+            "name": "Heliolisk",
+            "stats": {
+                "hp": {
+                    "base": "62",
+                    "min": "234",
+                    "max": "328"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "spAtk": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "spDef": {
+                    "base": "94",
+                    "min": "173",
+                    "max": "315"
+                },
+                "speed": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                }
+            },
+            "info": {
+                "number": "695",
+                "species": "Generator Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "21.0 kg (46.3 lbs)",
+                "types": [
+                    "electric",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Dry Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Veil",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solar Power",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

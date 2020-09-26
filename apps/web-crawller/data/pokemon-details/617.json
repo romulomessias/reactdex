@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "617",
+    "defaultName": "Accelgor",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Accelgor"
+    ],
+    "formsDetails": {
+        "accelgor": {
+            "name": "Accelgor",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                }
+            },
+            "info": {
+                "number": "617",
+                "species": "Shell Out Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "25.3 kg (55.8 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sticky Hold",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "204",
+    "defaultName": "Pineco",
+    "types": [
+        "bug"
+    ],
+    "forms": [
+        "Pineco"
+    ],
+    "formsDetails": {
+        "pineco": {
+            "name": "Pineco",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "speed": {
+                    "base": "15",
+                    "min": "31",
+                    "max": "141"
+                }
+            },
+            "info": {
+                "number": "204",
+                "species": "Bagworm Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "7.2 kg (15.9 lbs)",
+                "types": [
+                    "bug"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Overcoat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

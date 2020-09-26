@@ -1,0 +1,115 @@
+{
+    "generation": 3,
+    "number": "383",
+    "defaultName": "Groudon",
+    "types": [
+        "ground"
+    ],
+    "forms": [
+        "Groudon",
+        "Primal Groudon"
+    ],
+    "formsDetails": {
+        "groudon": {
+            "name": "Groudon",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "defense": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "383",
+                "species": "Continent Pokémon",
+                "height": "3.5 m (11′06″)",
+                "weight": "950.0 kg (2094.4 lbs)",
+                "types": [
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Drought",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "primalGroudon": {
+            "name": "Primal Groudon",
+            "stats": {
+                "hp": {
+                    "base": "100",
+                    "min": "310",
+                    "max": "404"
+                },
+                "attack": {
+                    "base": "180",
+                    "min": "328",
+                    "max": "504"
+                },
+                "defense": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "spAtk": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "spDef": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "383",
+                "species": "Continent Pokémon",
+                "height": "5.0 m (16′05″)",
+                "weight": "999.7 kg (2204.0 lbs)",
+                "types": [
+                    "ground",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Desolate Land",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

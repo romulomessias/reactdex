@@ -1,0 +1,67 @@
+{
+    "generation": 2,
+    "number": "158",
+    "defaultName": "Totodile",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Totodile"
+    ],
+    "formsDetails": {
+        "totodile": {
+            "name": "Totodile",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "64",
+                    "min": "119",
+                    "max": "249"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "48",
+                    "min": "90",
+                    "max": "214"
+                },
+                "speed": {
+                    "base": "43",
+                    "min": "81",
+                    "max": "203"
+                }
+            },
+            "info": {
+                "number": "158",
+                "species": "Big Jaw Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "9.5 kg (20.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Torrent",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

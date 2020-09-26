@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "285",
+    "defaultName": "Shroomish",
+    "types": [
+        "grass"
+    ],
+    "forms": [
+        "Shroomish"
+    ],
+    "formsDetails": {
+        "shroomish": {
+            "name": "Shroomish",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "defense": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "speed": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                }
+            },
+            "info": {
+                "number": "285",
+                "species": "Mushroom Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "4.5 kg (9.9 lbs)",
+                "types": [
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Effect Spore",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Poison Heal",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Quick Feet",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

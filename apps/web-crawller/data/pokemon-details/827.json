@@ -1,0 +1,71 @@
+{
+    "generation": 8,
+    "number": "827",
+    "defaultName": "Nickit",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Nickit"
+    ],
+    "formsDetails": {
+        "nickit": {
+            "name": "Nickit",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                },
+                "defense": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                },
+                "spAtk": {
+                    "base": "47",
+                    "min": "89",
+                    "max": "212"
+                },
+                "spDef": {
+                    "base": "52",
+                    "min": "98",
+                    "max": "223"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "827",
+                "species": "Fox Pokémon",
+                "height": "0.6 m (2′00″)",
+                "weight": "8.9 kg (19.6 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Run Away",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unburden",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Stakeout",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

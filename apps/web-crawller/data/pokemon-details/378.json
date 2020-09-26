@@ -1,0 +1,67 @@
+{
+    "generation": 3,
+    "number": "378",
+    "defaultName": "Regice",
+    "types": [
+        "ice"
+    ],
+    "forms": [
+        "Regice"
+    ],
+    "formsDetails": {
+        "regice": {
+            "name": "Regice",
+            "stats": {
+                "hp": {
+                    "base": "80",
+                    "min": "270",
+                    "max": "364"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spDef": {
+                    "base": "200",
+                    "min": "364",
+                    "max": "548"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "378",
+                "species": "Iceberg Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "175.0 kg (385.8 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Clear Body",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Ice Body",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

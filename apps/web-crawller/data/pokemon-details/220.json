@@ -1,0 +1,73 @@
+{
+    "generation": 2,
+    "number": "220",
+    "defaultName": "Swinub",
+    "types": [
+        "ice",
+        "ground"
+    ],
+    "forms": [
+        "Swinub"
+    ],
+    "formsDetails": {
+        "swinub": {
+            "name": "Swinub",
+            "stats": {
+                "hp": {
+                    "base": "50",
+                    "min": "210",
+                    "max": "304"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                }
+            },
+            "info": {
+                "number": "220",
+                "species": "Pig Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "6.5 kg (14.3 lbs)",
+                "types": [
+                    "ice",
+                    "ground"
+                ],
+                "abilities": [
+                    {
+                        "name": "Oblivious",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Snow Cloak",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Thick Fat",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

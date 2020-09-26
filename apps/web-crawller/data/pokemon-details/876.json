@@ -1,0 +1,133 @@
+{
+    "generation": 8,
+    "number": "876",
+    "defaultName": "Indeedee",
+    "types": [
+        "psychic",
+        "normal"
+    ],
+    "forms": [
+        "Male",
+        "Female"
+    ],
+    "formsDetails": {
+        "male": {
+            "name": "Male",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "876",
+                "species": "Emotion Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "psychic",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Psychic Surge",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "female": {
+            "name": "Female",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                }
+            },
+            "info": {
+                "number": "876",
+                "species": "Emotion Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "28.0 kg (61.7 lbs)",
+                "types": [
+                    "psychic",
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Own Tempo",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Psychic Surge",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

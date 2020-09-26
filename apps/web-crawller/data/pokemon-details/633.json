@@ -1,0 +1,65 @@
+{
+    "generation": 5,
+    "number": "633",
+    "defaultName": "Deino",
+    "types": [
+        "dark",
+        "dragon"
+    ],
+    "forms": [
+        "Deino"
+    ],
+    "formsDetails": {
+        "deino": {
+            "name": "Deino",
+            "stats": {
+                "hp": {
+                    "base": "52",
+                    "min": "214",
+                    "max": "308"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "spAtk": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spDef": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "speed": {
+                    "base": "38",
+                    "min": "72",
+                    "max": "192"
+                }
+            },
+            "info": {
+                "number": "633",
+                "species": "Irate Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "17.3 kg (38.1 lbs)",
+                "types": [
+                    "dark",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Hustle",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

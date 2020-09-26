@@ -1,0 +1,71 @@
+{
+    "generation": 1,
+    "number": "023",
+    "defaultName": "Ekans",
+    "types": [
+        "poison"
+    ],
+    "forms": [
+        "Ekans"
+    ],
+    "formsDetails": {
+        "ekans": {
+            "name": "Ekans",
+            "stats": {
+                "hp": {
+                    "base": "35",
+                    "min": "180",
+                    "max": "274"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "54",
+                    "min": "101",
+                    "max": "227"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "023",
+                "species": "Snake Pokémon",
+                "height": "2.0 m (6′07″)",
+                "weight": "6.9 kg (15.2 lbs)",
+                "types": [
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Intimidate",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Shed Skin",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Unnerve",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

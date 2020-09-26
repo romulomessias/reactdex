@@ -1,0 +1,69 @@
+{
+    "generation": 1,
+    "number": "021",
+    "defaultName": "Spearow",
+    "types": [
+        "normal",
+        "flying"
+    ],
+    "forms": [
+        "Spearow"
+    ],
+    "formsDetails": {
+        "spearow": {
+            "name": "Spearow",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                },
+                "defense": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spAtk": {
+                    "base": "31",
+                    "min": "60",
+                    "max": "177"
+                },
+                "spDef": {
+                    "base": "31",
+                    "min": "60",
+                    "max": "177"
+                },
+                "speed": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                }
+            },
+            "info": {
+                "number": "021",
+                "species": "Tiny Bird Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "2.0 kg (4.4 lbs)",
+                "types": [
+                    "normal",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Keen Eye",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sniper",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

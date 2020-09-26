@@ -1,0 +1,69 @@
+{
+    "generation": 1,
+    "number": "001",
+    "defaultName": "Bulbasaur",
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "forms": [
+        "Bulbasaur"
+    ],
+    "formsDetails": {
+        "bulbasaur": {
+            "name": "Bulbasaur",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "defense": {
+                    "base": "49",
+                    "min": "92",
+                    "max": "216"
+                },
+                "spAtk": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spDef": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "speed": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                }
+            },
+            "info": {
+                "number": "001",
+                "species": "Seed Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "6.9 kg (15.2 lbs)",
+                "types": [
+                    "grass",
+                    "poison"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overgrow",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Chlorophyll",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

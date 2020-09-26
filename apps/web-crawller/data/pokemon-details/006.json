@@ -1,0 +1,173 @@
+{
+    "generation": 1,
+    "number": "006",
+    "defaultName": "Charizard",
+    "types": [
+        "fire",
+        "flying"
+    ],
+    "forms": [
+        "Charizard",
+        "Mega Charizard X",
+        "Mega Charizard Y"
+    ],
+    "formsDetails": {
+        "charizard": {
+            "name": "Charizard",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "84",
+                    "min": "155",
+                    "max": "293"
+                },
+                "defense": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spAtk": {
+                    "base": "109",
+                    "min": "200",
+                    "max": "348"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "006",
+                "species": "Flame Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "90.5 kg (199.5 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Blaze",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Solar Power",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaCharizardX": {
+            "name": "Mega Charizard X",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "defense": {
+                    "base": "111",
+                    "min": "204",
+                    "max": "353"
+                },
+                "spAtk": {
+                    "base": "130",
+                    "min": "238",
+                    "max": "394"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "006",
+                "species": "Flame Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "110.5 kg (243.6 lbs)",
+                "types": [
+                    "fire",
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Tough Claws",
+                        "isHidden": false
+                    }
+                ]
+            }
+        },
+        "megaCharizardY": {
+            "name": "Mega Charizard Y",
+            "stats": {
+                "hp": {
+                    "base": "78",
+                    "min": "266",
+                    "max": "360"
+                },
+                "attack": {
+                    "base": "104",
+                    "min": "191",
+                    "max": "337"
+                },
+                "defense": {
+                    "base": "78",
+                    "min": "144",
+                    "max": "280"
+                },
+                "spAtk": {
+                    "base": "159",
+                    "min": "290",
+                    "max": "458"
+                },
+                "spDef": {
+                    "base": "115",
+                    "min": "211",
+                    "max": "361"
+                },
+                "speed": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                }
+            },
+            "info": {
+                "number": "006",
+                "species": "Flame Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "100.5 kg (221.6 lbs)",
+                "types": [
+                    "fire",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Drought",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "generation": 8,
+    "number": "846",
+    "defaultName": "Arrokuda",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Arrokuda"
+    ],
+    "formsDetails": {
+        "arrokuda": {
+            "name": "Arrokuda",
+            "stats": {
+                "hp": {
+                    "base": "41",
+                    "min": "192",
+                    "max": "286"
+                },
+                "attack": {
+                    "base": "63",
+                    "min": "117",
+                    "max": "247"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spDef": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "speed": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                }
+            },
+            "info": {
+                "number": "846",
+                "species": "Rush Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "1.0 kg (2.2 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Propeller Tail",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "generation": 5,
+    "number": "528",
+    "defaultName": "Swoobat",
+    "types": [
+        "psychic",
+        "flying"
+    ],
+    "forms": [
+        "Swoobat"
+    ],
+    "formsDetails": {
+        "swoobat": {
+            "name": "Swoobat",
+            "stats": {
+                "hp": {
+                    "base": "67",
+                    "min": "244",
+                    "max": "338"
+                },
+                "attack": {
+                    "base": "57",
+                    "min": "107",
+                    "max": "234"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "77",
+                    "min": "143",
+                    "max": "278"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "114",
+                    "min": "209",
+                    "max": "359"
+                }
+            },
+            "info": {
+                "number": "528",
+                "species": "Courting Pokémon",
+                "height": "0.9 m (2′11″)",
+                "weight": "10.5 kg (23.1 lbs)",
+                "types": [
+                    "psychic",
+                    "flying"
+                ],
+                "abilities": [
+                    {
+                        "name": "Unaware",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Klutz",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Simple",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

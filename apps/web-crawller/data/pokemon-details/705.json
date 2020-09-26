@@ -1,0 +1,71 @@
+{
+    "generation": 6,
+    "number": "705",
+    "defaultName": "Sliggoo",
+    "types": [
+        "dragon"
+    ],
+    "forms": [
+        "Sliggoo"
+    ],
+    "formsDetails": {
+        "sliggoo": {
+            "name": "Sliggoo",
+            "stats": {
+                "hp": {
+                    "base": "68",
+                    "min": "246",
+                    "max": "340"
+                },
+                "attack": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "defense": {
+                    "base": "53",
+                    "min": "99",
+                    "max": "225"
+                },
+                "spAtk": {
+                    "base": "83",
+                    "min": "153",
+                    "max": "291"
+                },
+                "spDef": {
+                    "base": "113",
+                    "min": "207",
+                    "max": "357"
+                },
+                "speed": {
+                    "base": "60",
+                    "min": "112",
+                    "max": "240"
+                }
+            },
+            "info": {
+                "number": "705",
+                "species": "Soft Tissue Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "17.5 kg (38.6 lbs)",
+                "types": [
+                    "dragon"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sap Sipper",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Hydration",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Gooey",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

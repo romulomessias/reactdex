@@ -1,0 +1,71 @@
+{
+    "generation": 5,
+    "number": "579",
+    "defaultName": "Reuniclus",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Reuniclus"
+    ],
+    "formsDetails": {
+        "reuniclus": {
+            "name": "Reuniclus",
+            "stats": {
+                "hp": {
+                    "base": "110",
+                    "min": "330",
+                    "max": "424"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spAtk": {
+                    "base": "125",
+                    "min": "229",
+                    "max": "383"
+                },
+                "spDef": {
+                    "base": "85",
+                    "min": "157",
+                    "max": "295"
+                },
+                "speed": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                }
+            },
+            "info": {
+                "number": "579",
+                "species": "Multiplying Pokémon",
+                "height": "1.0 m (3′03″)",
+                "weight": "20.1 kg (44.3 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Overcoat",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Guard",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Regenerator",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

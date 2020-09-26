@@ -1,0 +1,63 @@
+{
+    "generation": 5,
+    "number": "570",
+    "defaultName": "Zorua",
+    "types": [
+        "dark"
+    ],
+    "forms": [
+        "Zorua"
+    ],
+    "formsDetails": {
+        "zorua": {
+            "name": "Zorua",
+            "stats": {
+                "hp": {
+                    "base": "40",
+                    "min": "190",
+                    "max": "284"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "spAtk": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "spDef": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                },
+                "speed": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                }
+            },
+            "info": {
+                "number": "570",
+                "species": "Tricky Fox Pokémon",
+                "height": "0.7 m (2′04″)",
+                "weight": "12.5 kg (27.6 lbs)",
+                "types": [
+                    "dark"
+                ],
+                "abilities": [
+                    {
+                        "name": "Illusion",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

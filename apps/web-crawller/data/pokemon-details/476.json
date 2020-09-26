@@ -1,0 +1,73 @@
+{
+    "generation": 4,
+    "number": "476",
+    "defaultName": "Probopass",
+    "types": [
+        "rock",
+        "steel"
+    ],
+    "forms": [
+        "Probopass"
+    ],
+    "formsDetails": {
+        "probopass": {
+            "name": "Probopass",
+            "stats": {
+                "hp": {
+                    "base": "60",
+                    "min": "230",
+                    "max": "324"
+                },
+                "attack": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "defense": {
+                    "base": "145",
+                    "min": "265",
+                    "max": "427"
+                },
+                "spAtk": {
+                    "base": "75",
+                    "min": "139",
+                    "max": "273"
+                },
+                "spDef": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                },
+                "speed": {
+                    "base": "40",
+                    "min": "76",
+                    "max": "196"
+                }
+            },
+            "info": {
+                "number": "476",
+                "species": "Compass Pokémon",
+                "height": "1.4 m (4′07″)",
+                "weight": "340.0 kg (749.6 lbs)",
+                "types": [
+                    "rock",
+                    "steel"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sturdy",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magnet Pull",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Sand Force",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

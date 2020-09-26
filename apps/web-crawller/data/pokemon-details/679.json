@@ -1,0 +1,65 @@
+{
+    "generation": 6,
+    "number": "679",
+    "defaultName": "Honedge",
+    "types": [
+        "steel",
+        "ghost"
+    ],
+    "forms": [
+        "Honedge"
+    ],
+    "formsDetails": {
+        "honedge": {
+            "name": "Honedge",
+            "stats": {
+                "hp": {
+                    "base": "45",
+                    "min": "200",
+                    "max": "294"
+                },
+                "attack": {
+                    "base": "80",
+                    "min": "148",
+                    "max": "284"
+                },
+                "defense": {
+                    "base": "100",
+                    "min": "184",
+                    "max": "328"
+                },
+                "spAtk": {
+                    "base": "35",
+                    "min": "67",
+                    "max": "185"
+                },
+                "spDef": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                },
+                "speed": {
+                    "base": "28",
+                    "min": "54",
+                    "max": "170"
+                }
+            },
+            "info": {
+                "number": "679",
+                "species": "Sword Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "2.0 kg (4.4 lbs)",
+                "types": [
+                    "steel",
+                    "ghost"
+                ],
+                "abilities": [
+                    {
+                        "name": "No Guard",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

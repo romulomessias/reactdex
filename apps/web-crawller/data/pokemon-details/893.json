@@ -1,0 +1,65 @@
+{
+    "generation": 8,
+    "number": "893",
+    "defaultName": "Zarude",
+    "types": [
+        "dark",
+        "grass"
+    ],
+    "forms": [
+        "Zarude"
+    ],
+    "formsDetails": {
+        "zarude": {
+            "name": "Zarude",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                }
+            },
+            "info": {
+                "number": "893",
+                "species": "Rogue Monkey Pokémon",
+                "height": "1.8 m (5′11″)",
+                "weight": "70.0 kg (154.3 lbs)",
+                "types": [
+                    "dark",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Leaf Guard",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

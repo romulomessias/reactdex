@@ -1,0 +1,71 @@
+{
+    "generation": 4,
+    "number": "457",
+    "defaultName": "Lumineon",
+    "types": [
+        "water"
+    ],
+    "forms": [
+        "Lumineon"
+    ],
+    "formsDetails": {
+        "lumineon": {
+            "name": "Lumineon",
+            "stats": {
+                "hp": {
+                    "base": "69",
+                    "min": "248",
+                    "max": "342"
+                },
+                "attack": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "defense": {
+                    "base": "76",
+                    "min": "141",
+                    "max": "276"
+                },
+                "spAtk": {
+                    "base": "69",
+                    "min": "128",
+                    "max": "260"
+                },
+                "spDef": {
+                    "base": "86",
+                    "min": "159",
+                    "max": "298"
+                },
+                "speed": {
+                    "base": "91",
+                    "min": "168",
+                    "max": "309"
+                }
+            },
+            "info": {
+                "number": "457",
+                "species": "Neon Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "24.0 kg (52.9 lbs)",
+                "types": [
+                    "water"
+                ],
+                "abilities": [
+                    {
+                        "name": "Swift Swim",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Storm Drain",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Water Veil",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "generation": 7,
+    "number": "789",
+    "defaultName": "Cosmog",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Cosmog"
+    ],
+    "formsDetails": {
+        "cosmog": {
+            "name": "Cosmog",
+            "stats": {
+                "hp": {
+                    "base": "43",
+                    "min": "196",
+                    "max": "290"
+                },
+                "attack": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                },
+                "defense": {
+                    "base": "31",
+                    "min": "60",
+                    "max": "177"
+                },
+                "spAtk": {
+                    "base": "29",
+                    "min": "56",
+                    "max": "172"
+                },
+                "spDef": {
+                    "base": "31",
+                    "min": "60",
+                    "max": "177"
+                },
+                "speed": {
+                    "base": "37",
+                    "min": "71",
+                    "max": "190"
+                }
+            },
+            "info": {
+                "number": "789",
+                "species": "Nebula Pokémon",
+                "height": "0.2 m (0′08″)",
+                "weight": "0.1 kg (0.2 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Unaware",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

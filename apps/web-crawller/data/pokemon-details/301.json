@@ -1,0 +1,71 @@
+{
+    "generation": 3,
+    "number": "301",
+    "defaultName": "Delcatty",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Delcatty"
+    ],
+    "formsDetails": {
+        "delcatty": {
+            "name": "Delcatty",
+            "stats": {
+                "hp": {
+                    "base": "70",
+                    "min": "250",
+                    "max": "344"
+                },
+                "attack": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "90",
+                    "min": "166",
+                    "max": "306"
+                }
+            },
+            "info": {
+                "number": "301",
+                "species": "Prim Pokémon",
+                "height": "1.1 m (3′07″)",
+                "weight": "32.6 kg (71.9 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Cute Charm",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Normalize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Wonder Skin",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

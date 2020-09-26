@@ -1,0 +1,253 @@
+{
+    "generation": 6,
+    "number": "710",
+    "defaultName": "Pumpkaboo",
+    "types": [
+        "ghost",
+        "grass"
+    ],
+    "forms": [
+        "Average Size",
+        "Small Size",
+        "Large Size",
+        "Super Size"
+    ],
+    "formsDetails": {
+        "averageSize": {
+            "name": "Average Size",
+            "stats": {
+                "hp": {
+                    "base": "49",
+                    "min": "208",
+                    "max": "302"
+                },
+                "attack": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "51",
+                    "min": "96",
+                    "max": "221"
+                }
+            },
+            "info": {
+                "number": "710",
+                "species": "Pumpkin Pokémon",
+                "height": "0.4 m (1′04″)",
+                "weight": "5.0 kg (11.0 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Insomnia",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "smallSize": {
+            "name": "Small Size",
+            "stats": {
+                "hp": {
+                    "base": "44",
+                    "min": "198",
+                    "max": "292"
+                },
+                "attack": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "56",
+                    "min": "105",
+                    "max": "232"
+                }
+            },
+            "info": {
+                "number": "710",
+                "species": "Pumpkin Pokémon",
+                "height": "0.3 m (1′00″)",
+                "weight": "3.5 kg (7.7 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Insomnia",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "largeSize": {
+            "name": "Large Size",
+            "stats": {
+                "hp": {
+                    "base": "54",
+                    "min": "218",
+                    "max": "312"
+                },
+                "attack": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "46",
+                    "min": "87",
+                    "max": "210"
+                }
+            },
+            "info": {
+                "number": "710",
+                "species": "Pumpkin Pokémon",
+                "height": "0.5 m (1′08″)",
+                "weight": "7.5 kg (16.5 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Insomnia",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "superSize": {
+            "name": "Super Size",
+            "stats": {
+                "hp": {
+                    "base": "59",
+                    "min": "228",
+                    "max": "322"
+                },
+                "attack": {
+                    "base": "66",
+                    "min": "123",
+                    "max": "254"
+                },
+                "defense": {
+                    "base": "70",
+                    "min": "130",
+                    "max": "262"
+                },
+                "spAtk": {
+                    "base": "44",
+                    "min": "83",
+                    "max": "205"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "41",
+                    "min": "78",
+                    "max": "199"
+                }
+            },
+            "info": {
+                "number": "710",
+                "species": "Pumpkin Pokémon",
+                "height": "0.8 m (2′07″)",
+                "weight": "15.0 kg (33.1 lbs)",
+                "types": [
+                    "ghost",
+                    "grass"
+                ],
+                "abilities": [
+                    {
+                        "name": "Pickup",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Frisk",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Insomnia",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

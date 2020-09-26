@@ -1,0 +1,234 @@
+{
+    "generation": 5,
+    "number": "555",
+    "defaultName": "Darmanitan",
+    "types": [
+        "fire"
+    ],
+    "forms": [
+        "Standard Mode",
+        "Zen Mode",
+        "Galarian Standard Mode",
+        "Galarian Zen Mode"
+    ],
+    "formsDetails": {
+        "standardMode": {
+            "name": "Standard Mode",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "555",
+                "species": "Blazing Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "92.9 kg (204.8 lbs)",
+                "types": [
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Zen Mode",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "zenMode": {
+            "name": "Zen Mode",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "defense": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "spAtk": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                }
+            },
+            "info": {
+                "number": "555",
+                "species": "Blazing Pokémon",
+                "height": "1.3 m (4′03″)",
+                "weight": "92.9 kg (204.8 lbs)",
+                "types": [
+                    "fire",
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Sheer Force",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Zen Mode",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianStandardMode": {
+            "name": "Galarian Standard Mode",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "140",
+                    "min": "256",
+                    "max": "416"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                }
+            },
+            "info": {
+                "number": "555",
+                "species": "Zen Charm Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "ice"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gorilla Tactics",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Zen Mode",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "galarianZenMode": {
+            "name": "Galarian Zen Mode",
+            "stats": {
+                "hp": {
+                    "base": "105",
+                    "min": "320",
+                    "max": "414"
+                },
+                "attack": {
+                    "base": "160",
+                    "min": "292",
+                    "max": "460"
+                },
+                "defense": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "spAtk": {
+                    "base": "30",
+                    "min": "58",
+                    "max": "174"
+                },
+                "spDef": {
+                    "base": "55",
+                    "min": "103",
+                    "max": "229"
+                },
+                "speed": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                }
+            },
+            "info": {
+                "number": "555",
+                "species": "Zen Charm Pokémon",
+                "height": "1.7 m (5′07″)",
+                "weight": "120.0 kg (264.6 lbs)",
+                "types": [
+                    "ice",
+                    "fire"
+                ],
+                "abilities": [
+                    {
+                        "name": "Gorilla Tactics",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Zen Mode",
+                        "isHidden": true
+                    }
+                ]
+            }
+        }
+    }
+}

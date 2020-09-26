@@ -1,0 +1,122 @@
+{
+    "generation": 1,
+    "number": "065",
+    "defaultName": "Alakazam",
+    "types": [
+        "psychic"
+    ],
+    "forms": [
+        "Alakazam",
+        "Mega Alakazam"
+    ],
+    "formsDetails": {
+        "alakazam": {
+            "name": "Alakazam",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "45",
+                    "min": "85",
+                    "max": "207"
+                },
+                "spAtk": {
+                    "base": "135",
+                    "min": "247",
+                    "max": "405"
+                },
+                "spDef": {
+                    "base": "95",
+                    "min": "175",
+                    "max": "317"
+                },
+                "speed": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                }
+            },
+            "info": {
+                "number": "065",
+                "species": "Psi Pokémon",
+                "height": "1.5 m (4′11″)",
+                "weight": "48.0 kg (105.8 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Synchronize",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Inner Focus",
+                        "isHidden": false
+                    },
+                    {
+                        "name": "Magic Guard",
+                        "isHidden": true
+                    }
+                ]
+            }
+        },
+        "megaAlakazam": {
+            "name": "Mega Alakazam",
+            "stats": {
+                "hp": {
+                    "base": "55",
+                    "min": "220",
+                    "max": "314"
+                },
+                "attack": {
+                    "base": "50",
+                    "min": "94",
+                    "max": "218"
+                },
+                "defense": {
+                    "base": "65",
+                    "min": "121",
+                    "max": "251"
+                },
+                "spAtk": {
+                    "base": "175",
+                    "min": "319",
+                    "max": "493"
+                },
+                "spDef": {
+                    "base": "105",
+                    "min": "193",
+                    "max": "339"
+                },
+                "speed": {
+                    "base": "150",
+                    "min": "274",
+                    "max": "438"
+                }
+            },
+            "info": {
+                "number": "065",
+                "species": "Psi Pokémon",
+                "height": "1.2 m (3′11″)",
+                "weight": "48.0 kg (105.8 lbs)",
+                "types": [
+                    "psychic"
+                ],
+                "abilities": [
+                    {
+                        "name": "Trace",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}

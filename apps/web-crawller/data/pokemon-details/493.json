@@ -1,0 +1,63 @@
+{
+    "generation": 4,
+    "number": "493",
+    "defaultName": "Arceus",
+    "types": [
+        "normal"
+    ],
+    "forms": [
+        "Arceus"
+    ],
+    "formsDetails": {
+        "arceus": {
+            "name": "Arceus",
+            "stats": {
+                "hp": {
+                    "base": "120",
+                    "min": "350",
+                    "max": "444"
+                },
+                "attack": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "defense": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spAtk": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "spDef": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                },
+                "speed": {
+                    "base": "120",
+                    "min": "220",
+                    "max": "372"
+                }
+            },
+            "info": {
+                "number": "493",
+                "species": "Alpha Pokémon",
+                "height": "3.2 m (10′06″)",
+                "weight": "320.0 kg (705.5 lbs)",
+                "types": [
+                    "normal"
+                ],
+                "abilities": [
+                    {
+                        "name": "Multitype",
+                        "isHidden": false
+                    }
+                ]
+            }
+        }
+    }
+}
