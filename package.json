@@ -7,5 +7,9 @@
   "workspaces": [
     "library/*",
     "apps/*"
-  ]
+  ],
+  "scripts": {
+    "start:server": "yarn workspace @reactdex/server start",
+    "start:webapp": "yarn workspace @reactdex/webapp start"
+  }
 }
