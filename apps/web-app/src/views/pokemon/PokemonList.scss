@@ -19,6 +19,7 @@
    
     @include down($md) {
         max-width: 100%;
+        grid-template-columns: repeat(auto-fill, 100%);
     }
 
     @include down($sm) {

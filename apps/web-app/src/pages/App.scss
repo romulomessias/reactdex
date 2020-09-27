@@ -9,6 +9,7 @@
         margin: {
             top: 8px;
             left: 12px;
+            right: 12px;
         }
         display: flex;
         justify-content: center;
@@ -17,7 +18,10 @@
         background-color: darken($color: $bg-color, $amount: 5);
     }
     @include down($sm) {
-        .layout_navbar {
+        > .layout__container {
+            grid-template-columns: auto;
+        }
+        .layout__navbar {
             display: none;
         }
     }

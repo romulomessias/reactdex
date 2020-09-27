@@ -5,7 +5,7 @@ import Pokemon from '@reactdex/models/Pokemon'
 
 import './PokemonListItem.scss'
 import typesColors from '../../infra/constants/typesColors.json'
-import useGradientBorderEffect from '../../hooks/stylesEffect/useGradientBorderEffect'
+import useGradientBorderEffect from '../../hooks/ui/useGradientBorderEffect'
 import Typography from '../../components/typographies/Typography'
 
 interface PokemonListItemProps {
