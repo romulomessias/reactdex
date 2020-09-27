@@ -1,18 +1,18 @@
+import './PokemonListItem.scss'
 import clsx from 'clsx'
-import React, { useRef } from 'react'
+import React from 'react'
 import useHover from '../../hooks/events/useHover'
 import Pokemon from '@reactdex/models/Pokemon'
 
-import './PokemonListItem.scss'
 import typesColors from '../../infra/constants/typesColors.json'
 import useGradientBorderEffect from '../../hooks/ui/useGradientBorderEffect'
 import Typography from '../../components/typographies/Typography'
 
 interface PokemonListItemProps {
     pokemon: Pokemon
-    isSelected: boolean
-    hasSelection: boolean
-    onClick?: Function
+    // isSelected: boolean
+    // hasSelection: boolean
+    // onClick?: Function
 }
 
 const url =
@@ -36,12 +36,7 @@ const Type: React.FC<TypeProps> = ({ type }) => {
     )
 }
 
-const PokemonListItem: React.FC<PokemonListItemProps> = ({
-    pokemon,
-    isSelected,
-    hasSelection,
-    onClick,
-}) => {
+const PokemonListItem: React.FC<PokemonListItemProps> = ({ pokemon }) => {
     const [primary, secondary] = pokemon.types
     //@ts-ignore
     const primaryColor: string = typesColors[primary]
@@ -50,27 +45,18 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({
           typesColors[secondary]
         : primaryColor
     const { ref, value: isOnHover } = useHover<HTMLButtonElement>()
-    const { onMouseMove, elementRef, background } = useGradientBorderEffect<
+    const { elementRef, background: backgroundColor } = useGradientBorderEffect<
         HTMLLIElement
     >(primaryColor, secondaryColor)
 
     const rootClass = clsx('pokemon-list-item', {})
 
-    const containerClass = clsx('pokemon-list-item__container', {
-        selected: isSelected,
-        disabled: !isSelected && hasSelection,
-    })
+    const containerClass = clsx('pokemon-list-item__container', {})
 
     const imgClass = clsx('pokemon-list-item__img')
-
+    const background = isOnHover ? backgroundColor : 'none'
     return (
-        <li
-            ref={elementRef}
-            className={containerClass}
-            style={{
-                background: isOnHover ? background : 'none',
-            }}
-        >
+        <li ref={elementRef} className={containerClass} style={{ background }}>
             <section ref={ref} className={rootClass}>
                 <img
                     className={imgClass}

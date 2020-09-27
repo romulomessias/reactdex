@@ -8,30 +8,16 @@ import PokemonList from '../views/pokemon/PokemonList'
 import { getPokemon } from '../services/pokemon'
 import MenuList from '../components/menus/MenuList'
 import MenuItem from '../components/menus/MenuItem'
+import useRequest from '../hooks/network/useRequest'
 
 const App: React.FC = () => {
-    const [isLoadind, setIsloading] = useState(false)
-    const [pokemon, setPokemon] = useState<Pokemon[]>([])
-
-    useEffect(() => {
-        setIsloading(true)
-        getPokemon()
-            .then(pokemon => {
-                setPokemon(pokemon)
-            })
-            .catch(error => {
-                console.error(error)
-            })
-            .finally(() => {
-                setIsloading(false)
-            })
-    }, [])
+    const { isLoading, data: pokemon } = useRequest<Pokemon[]>(getPokemon, [])
 
     return (
         <Layout className="app__content">
             <Layout.Content>
                 <section className="toolbar">
-                    {isLoadind && 'Carregando Pokemon'}
+                    {isLoading && 'Carregando Pokemon'}
                 </section>
                 <PokemonList>
                     {pokemon
