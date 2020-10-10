@@ -1,22 +1,72 @@
 import './PokemonListItem.scss'
-import clsx from 'clsx'
-import React from 'react'
-import useHover from '../../hooks/events/useHover'
-import Pokemon from '@reactdex/models/Pokemon'
 
-import typesColors from '../../infra/constants/typesColors.json'
-import useGradientBorderEffect from '../../hooks/ui/useGradientBorderEffect'
-import Typography from '../../components/typographies/Typography'
+import React from 'react'
+import clsx from 'clsx'
+import Pokemon from '@reactdex/models/Pokemon'
+import Typography from '@reactdex/components/typographies/Typography'
+
+import useHover from 'hooks/events/useHover'
+import useGradientBorderEffect from 'hooks/ui/useGradientBorderEffect'
+import typesColors from 'infra/constants/typesColors.json'
+
 
 interface PokemonListItemProps {
     pokemon: Pokemon
-    // isSelected: boolean
-    // hasSelection: boolean
-    // onClick?: Function
 }
 
 const url =
     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/:number.png'
+
+const PokemonListItem: React.FC<PokemonListItemProps> = ({ pokemon }) => {
+    const {
+        backgroundElementRef,
+        containerClass,
+        background,
+        hoverElementRef,
+        rootClass,
+        imgClass
+    } = usePokemonListItemClass(pokemon)
+    const { number, defaultName, types } = pokemon
+    const [primary, secondary] = types
+
+    return (
+        <li
+            ref={backgroundElementRef}
+            className={containerClass}
+            style={{ background }}
+        >
+            <section
+                id="pokemonListItem"
+                ref={hoverElementRef}
+                className={rootClass}
+                data-pokemon={JSON.stringify(pokemon)}
+            >
+                <img
+                    className={imgClass}
+                    loading="lazy"
+                    alt={`sprite of ${defaultName}`}
+                    src={url.replace(':number', `${Number(number)}`)}
+                />
+                <section className="pokemon-list-item__content">
+                    <Typography
+                        as="span"
+                        variant="caption"
+                        className="pokemon-list-item__number"
+                    >
+                        #{number}
+                    </Typography>
+                    <Typography as="p" className="pokemon-list-item__name">
+                        {defaultName}
+                    </Typography>
+                    <section className="pokemon-list-item__types">
+                        <Type type={primary} />
+                        {secondary && <Type type={secondary} />}
+                    </section>
+                </section>
+            </section>
+        </li>
+    )
+}
 
 interface TypeProps {
     type: string
@@ -36,18 +86,23 @@ const Type: React.FC<TypeProps> = ({ type }) => {
     )
 }
 
-const PokemonListItem: React.FC<PokemonListItemProps> = ({ pokemon }) => {
+const usePokemonListItemClass = (pokemon: Pokemon) => {
     const [primary, secondary] = pokemon.types
+
     //@ts-ignore
     const primaryColor: string = typesColors[primary]
     const secondaryColor: string = secondary
         ? //@ts-ignore
           typesColors[secondary]
         : primaryColor
-    const { ref, value: isOnHover } = useHover<HTMLButtonElement>()
-    const { elementRef, background: backgroundColor } = useGradientBorderEffect<
-        HTMLLIElement
-    >(primaryColor, secondaryColor)
+
+    const { ref: hoverElementRef, value: isOnHover } = useHover<
+        HTMLButtonElement
+    >()
+    const {
+        elementRef: backgroundElementRef,
+        background: backgroundColor
+    } = useGradientBorderEffect<HTMLLIElement>(primaryColor, secondaryColor)
 
     const rootClass = clsx('pokemon-list-item', {})
 
@@ -55,34 +110,15 @@ const PokemonListItem: React.FC<PokemonListItemProps> = ({ pokemon }) => {
 
     const imgClass = clsx('pokemon-list-item__img')
     const background = isOnHover ? backgroundColor : 'none'
-    return (
-        <li ref={elementRef} className={containerClass} style={{ background }}>
-            <section ref={ref} className={rootClass}>
-                <img
-                    className={imgClass}
-                    loading="lazy"
-                    alt={`sprite of ${pokemon.defaultName}`}
-                    src={url.replace(':number', `${Number(pokemon.number)}`)}
-                />
-                <section className="pokemon-list-item__content">
-                    <Typography
-                        as="span"
-                        variant="caption"
-                        className="pokemon-list-item__number"
-                    >
-                        #{pokemon.number}
-                    </Typography>
-                    <Typography as="p" className="pokemon-list-item__name">
-                        {pokemon.defaultName}
-                    </Typography>
-                    <section className="pokemon-list-item__types">
-                        <Type type={primary} />
-                        {secondary && <Type type={secondary} />}
-                    </section>
-                </section>
-            </section>
-        </li>
-    )
+
+    return {
+        rootClass,
+        containerClass,
+        imgClass,
+        background,
+        hoverElementRef,
+        backgroundElementRef
+    }
 }
 
 export default PokemonListItem

@@ -16,10 +16,14 @@
   },
   "dependencies": {
     "@reactdex/models": "1.0.0",
+    "@reactdex/components": "1.0.0",
+    "@xstate/react": "^1.0.1",
     "axios": "^0.20.0",
     "clsx": "^1.1.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "xstate": "^4.13.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.4",

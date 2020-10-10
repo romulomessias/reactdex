@@ -5,7 +5,7 @@ import './Typography.scss'
 
 interface TypographyProps {
     className?: string
-    as: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'p' | 'span'
+    as?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'p' | 'span' | 'strong'
     variant?:
         | 'headline1'
         | 'headline2'
@@ -30,12 +30,13 @@ const Typography: React.FC<TypographyProps> = ({
     ...props
 }) => {
     const rootClass = clsx('typography', className, variant, weight)
-    return React.createElement(as, { className: rootClass, ...props }, children)
+    return React.createElement(as!, { className: rootClass, ...props }, children)
 }
 
 Typography.defaultProps = {
+    as: 'p',
     weight: 'normal',
-    variant: 'body1',
+    variant: 'body1'
 }
 
 export default Typography

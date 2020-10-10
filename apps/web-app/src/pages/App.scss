@@ -17,8 +17,9 @@
         padding: 8px;
         background-color: darken($color: $bg-color, $amount: 5);
     }
+
     @include down($sm) {
-        > .layout__container {
+        .layout__container {
             grid-template-columns: auto;
         }
         .layout__navbar {

@@ -1,14 +1,16 @@
 import './App.scss'
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 
-import PokemonListItem from '../views/pokemon/PokemonListItem'
 import Pokemon from '@reactdex/models/Pokemon'
-import Layout from '../components/layouts/Layout'
-import PokemonList from '../views/pokemon/PokemonList'
-import { getPokemon } from '../services/pokemon'
-import MenuList from '../components/menus/MenuList'
-import MenuItem from '../components/menus/MenuItem'
-import useRequest from '../hooks/network/useRequest'
+import Layout from '@reactdex/components/layouts/Layout'
+import Typography from '@reactdex/components/typographies/Typography'
+import MenuList from '@reactdex/components/menus/MenuList'
+import MenuItem from '@reactdex/components/menus/MenuItem'
+
+import PokemonListItem from 'views/pokemon/PokemonListItem'
+import PokemonList from 'views/pokemon/PokemonList'
+import useRequest from 'hooks/network/useRequest'
+import { getPokemon } from 'services/pokemon'
 
 const App: React.FC = () => {
     const { isLoading, data: pokemon } = useRequest<Pokemon[]>(getPokemon, [])
@@ -17,20 +19,13 @@ const App: React.FC = () => {
         <Layout className="app__content">
             <Layout.Content>
                 <section className="toolbar">
-                    {isLoading && 'Carregando Pokemon'}
+                    <Typography>{isLoading && 'Carregando Pokemon'}</Typography>
                 </section>
                 <PokemonList>
                     {pokemon
                         .filter(it => it.generation == 1)
-                        // .slice(0, 10)
                         .map((p: Pokemon) => (
-                            <PokemonListItem
-                                key={p.number}
-                                pokemon={p}
-                                hasSelection={false}
-                                isSelected={false}
-                                onClick={() => {}}
-                            />
+                            <PokemonListItem key={p.number} pokemon={p} />
                         ))}
                 </PokemonList>
             </Layout.Content>
